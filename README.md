@@ -186,6 +186,6 @@ python plot.py
 
 ---
 
-**Author:** Sristika Bora
+**Author:** Nitin Bhat
 **Platform:** Google Cloud GPU (NVIDIA L4)
 **License:** MIT
