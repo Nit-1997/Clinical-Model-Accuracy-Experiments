@@ -1,0 +1,2001 @@
+patient_sex,patient_age,diagnosis,icd_code,treatment,comorbidity,systolic_bp,diastolic_bp,heart_rate,temperature,glucose,cholesterol,clinical_outcome
+Male,88,Osteoarthritis,I25,Dialysis,Obesity,178,70,84,36.9,73,259,Improved
+Male,51,Osteoarthritis,I25,Lifestyle changes,Sleep Apnea,108,81,103,38.9,103,156,Worsened
+Female,88,Depression,I10,Beta-blockers,Anemia,177,77,83,38.2,73,134,Stable
+Female,88,Osteoarthritis,E11,ACE inhibitors,Hyperlipidemia,128,109,106,37.8,145,197,Worsened
+Female,46,Ischemic Heart Disease,E11,Physical therapy,Hyperlipidemia,152,100,109,36.6,142,186,Stable
+Male,18,Chronic Kidney Disease,N18,Insulin,,140,63,60,38.3,80,196,Stable
+Female,25,Ischemic Heart Disease,N18,Lifestyle changes,Smoking,175,75,90,37.2,189,157,Worsened
+Male,56,Depression,I10,ACE inhibitors,Anemia,153,89,70,37.5,109,144,Worsened
+Female,59,COPD,I10,ACE inhibitors,Smoking,146,108,77,39.0,118,212,Stable
+Male,36,Hypertension,J44,ACE inhibitors,,145,83,77,36.6,176,147,Worsened
+Male,35,Osteoarthritis,J44,Lifestyle changes,Hyperlipidemia,163,105,60,37.8,150,157,Stable
+Female,84,Osteoarthritis,I10,Inhalers,Sleep Apnea,116,102,89,36.7,172,137,Improved
+Male,36,Diabetes Mellitus,J44,Insulin,,166,92,57,36.3,166,217,Improved
+Male,70,Ischemic Heart Disease,M19,Lifestyle changes,Anemia,120,62,78,36.1,151,134,Stable
+Male,87,COPD,F32,Lifestyle changes,,124,109,105,36.5,182,213,Improved
+Male,45,Chronic Kidney Disease,N18,Physical therapy,Sleep Apnea,168,102,101,37.6,165,155,Stable
+Male,56,Chronic Kidney Disease,I10,Beta-blockers,Obesity,101,103,95,37.2,165,182,Stable
+Male,22,COPD,I10,Insulin,Obesity,166,103,103,37.5,120,240,Worsened
+Female,25,Depression,J45,Antidepressants,Sleep Apnea,161,82,83,37.6,199,154,Improved
+Male,19,COPD,I10,Physical therapy,Obesity,171,81,63,39.3,172,258,Worsened
+Male,38,Asthma,M19,Lifestyle changes,,113,98,60,38.9,84,157,Worsened
+Female,63,Osteoarthritis,E11,Inhalers,Sleep Apnea,171,108,86,36.4,139,176,Improved
+Male,46,Diabetes Mellitus,N18,Dialysis,Hyperlipidemia,149,104,58,38.0,163,246,Improved
+Male,88,Asthma,J45,ACE inhibitors,Smoking,126,64,96,38.7,89,277,Stable
+Male,74,Osteoarthritis,I10,Antidepressants,,132,95,75,37.1,132,171,Stable
+Male,38,Ischemic Heart Disease,E11,Antidepressants,Anemia,160,81,108,37.9,195,182,Stable
+Female,21,Depression,E11,Physical therapy,Hyperlipidemia,107,105,66,39.3,83,139,Worsened
+Male,27,Asthma,J45,ACE inhibitors,Smoking,106,101,63,37.8,80,219,Worsened
+Male,46,Diabetes Mellitus,N18,Inhalers,Anemia,176,94,73,36.6,154,213,Improved
+Male,41,Depression,I25,Lifestyle changes,Sleep Apnea,150,67,84,36.5,88,183,Worsened
+Female,66,COPD,J45,Beta-blockers,Hyperlipidemia,143,66,91,36.4,107,248,Stable
+Male,46,Diabetes Mellitus,J45,Lifestyle changes,Anemia,134,108,59,38.8,167,214,Improved
+Female,72,Asthma,M19,Beta-blockers,Sleep Apnea,108,62,95,36.8,185,190,Stable
+Male,70,Hypertension,J44,Physical therapy,,143,63,107,37.7,118,135,Improved
+Female,18,COPD,M19,Beta-blockers,Hyperlipidemia,158,74,75,37.8,70,238,Worsened
+Male,76,Osteoarthritis,F32,Inhalers,Hyperlipidemia,124,61,87,39.5,149,263,Improved
+Female,90,Ischemic Heart Disease,J45,ACE inhibitors,Sleep Apnea,120,68,119,39.5,149,182,Stable
+Male,75,Diabetes Mellitus,E11,Physical therapy,Hyperlipidemia,172,97,62,38.5,126,133,Worsened
+Female,60,Hypertension,F32,Antidepressants,Hyperlipidemia,180,103,63,36.9,108,172,Improved
+Male,49,COPD,I25,Beta-blockers,Hyperlipidemia,165,84,114,38.3,145,152,Worsened
+Male,23,Hypertension,N18,Lifestyle changes,Obesity,108,79,96,37.8,171,215,Stable
+Male,40,Ischemic Heart Disease,J45,Dialysis,Obesity,125,107,68,36.8,173,228,Worsened
+Female,82,Hypertension,I25,Beta-blockers,Anemia,171,79,61,37.6,116,248,Stable
+Male,34,Diabetes Mellitus,J44,Beta-blockers,Sleep Apnea,153,65,87,37.8,108,228,Stable
+Female,26,Asthma,J44,Beta-blockers,Sleep Apnea,102,78,105,37.0,123,208,Stable
+Male,26,Diabetes Mellitus,J45,Inhalers,Smoking,158,82,106,38.2,149,278,Improved
+Male,62,Osteoarthritis,I25,ACE inhibitors,Smoking,173,87,72,36.2,96,187,Stable
+Female,60,Diabetes Mellitus,I10,Physical therapy,,176,95,76,36.4,197,204,Stable
+Male,77,Osteoarthritis,I25,Lifestyle changes,Obesity,148,75,94,36.8,98,215,Stable
+Male,40,Ischemic Heart Disease,M19,Physical therapy,,123,72,59,37.9,130,219,Improved
+Male,31,Depression,I25,Insulin,Smoking,101,108,88,37.4,142,224,Improved
+Male,34,Hypertension,J45,Lifestyle changes,Smoking,144,101,99,38.1,158,169,Stable
+Male,74,COPD,J45,Inhalers,,110,94,62,39.2,162,197,Worsened
+Male,64,Chronic Kidney Disease,F32,ACE inhibitors,Smoking,123,67,55,38.1,98,180,Improved
+Male,89,COPD,J45,Inhalers,Smoking,122,71,80,38.6,140,199,Improved
+Male,78,Ischemic Heart Disease,J45,Physical therapy,,124,110,100,36.2,197,181,Improved
+Male,58,Chronic Kidney Disease,J45,Dialysis,Anemia,109,84,86,39.4,142,219,Worsened
+Male,63,Hypertension,F32,ACE inhibitors,Anemia,153,61,76,36.2,133,262,Worsened
+Male,36,Diabetes Mellitus,J45,Insulin,Hyperlipidemia,162,78,64,38.4,114,202,Improved
+Male,69,Hypertension,M19,Antidepressants,,173,85,59,37.0,76,246,Stable
+Male,66,Depression,M19,Beta-blockers,Obesity,161,91,74,38.5,152,221,Improved
+Male,78,Diabetes Mellitus,F32,Lifestyle changes,Obesity,175,93,107,39.2,171,231,Stable
+Female,72,Diabetes Mellitus,I10,Dialysis,Obesity,124,65,72,38.7,108,148,Worsened
+Female,81,Diabetes Mellitus,N18,ACE inhibitors,Sleep Apnea,167,71,102,37.1,154,250,Stable
+Male,86,Osteoarthritis,M19,Inhalers,Smoking,138,68,67,38.6,174,243,Improved
+Female,60,Chronic Kidney Disease,N18,Inhalers,,112,103,116,37.7,184,212,Worsened
+Female,43,COPD,E11,Inhalers,Hyperlipidemia,173,64,101,37.1,170,214,Improved
+Male,78,Ischemic Heart Disease,N18,Beta-blockers,Anemia,153,81,117,38.0,166,162,Improved
+Male,61,Ischemic Heart Disease,J44,ACE inhibitors,Anemia,123,70,113,36.3,167,206,Improved
+Female,18,Osteoarthritis,M19,Antidepressants,Anemia,130,105,60,39.4,78,149,Improved
+Female,42,Chronic Kidney Disease,I10,Physical therapy,Smoking,146,61,112,38.7,136,150,Stable
+Male,46,Ischemic Heart Disease,F32,Antidepressants,Smoking,175,60,106,39.4,70,190,Improved
+Male,32,COPD,E11,Inhalers,Sleep Apnea,104,63,59,36.4,141,254,Improved
+Male,28,COPD,J44,Dialysis,,109,73,95,37.6,114,238,Improved
+Male,57,COPD,N18,Physical therapy,Anemia,171,98,100,37.5,181,202,Stable
+Male,76,Chronic Kidney Disease,J45,Insulin,Anemia,106,84,118,38.5,131,134,Stable
+Female,85,COPD,J44,Inhalers,,125,76,68,37.3,195,196,Stable
+Male,49,Depression,J44,Dialysis,,153,99,71,38.6,174,177,Stable
+Female,26,Ischemic Heart Disease,J45,Lifestyle changes,Hyperlipidemia,107,80,76,38.0,129,187,Stable
+Female,81,Depression,J45,Dialysis,Anemia,126,79,100,38.0,103,135,Worsened
+Male,90,Hypertension,N18,Insulin,Anemia,179,100,119,38.3,128,147,Worsened
+Male,60,Chronic Kidney Disease,M19,Lifestyle changes,Sleep Apnea,143,95,83,38.9,85,204,Worsened
+Male,63,Depression,I10,Lifestyle changes,Anemia,170,66,105,36.4,175,150,Worsened
+Male,62,Ischemic Heart Disease,N18,Inhalers,Sleep Apnea,154,84,115,39.5,126,147,Improved
+Female,61,Osteoarthritis,I10,Inhalers,Hyperlipidemia,113,109,107,38.4,189,197,Improved
+Male,87,Ischemic Heart Disease,N18,ACE inhibitors,Anemia,108,98,69,38.1,162,205,Worsened
+Male,51,Asthma,J44,Inhalers,Anemia,165,74,100,38.3,86,149,Stable
+Female,68,Asthma,I10,Inhalers,Hyperlipidemia,145,92,119,37.6,144,271,Stable
+Male,32,Chronic Kidney Disease,I10,Dialysis,Sleep Apnea,162,95,102,37.4,85,217,Stable
+Male,30,Diabetes Mellitus,M19,Antidepressants,Smoking,174,80,58,39.2,142,277,Stable
+Female,72,Hypertension,M19,Beta-blockers,,158,83,65,36.0,101,275,Worsened
+Male,60,Osteoarthritis,E11,ACE inhibitors,Hyperlipidemia,162,93,58,39.0,100,187,Improved
+Male,49,Osteoarthritis,I25,Beta-blockers,,148,78,82,38.0,118,130,Improved
+Female,77,Hypertension,M19,Dialysis,Sleep Apnea,145,84,110,38.5,123,178,Improved
+Male,76,COPD,N18,Physical therapy,Hyperlipidemia,122,82,84,36.6,144,249,Improved
+Female,89,COPD,I25,Dialysis,,147,67,111,38.6,104,280,Worsened
+Female,34,Chronic Kidney Disease,J44,Insulin,Hyperlipidemia,120,107,108,38.1,112,223,Worsened
+Female,36,Hypertension,F32,Insulin,,175,74,67,38.6,188,187,Worsened
+Male,84,Asthma,J45,Physical therapy,Obesity,157,104,70,37.0,129,223,Worsened
+Female,35,Hypertension,N18,ACE inhibitors,Smoking,174,69,86,37.2,109,183,Improved
+Female,27,Asthma,J44,Insulin,Smoking,139,110,116,39.0,70,215,Improved
+Male,42,Hypertension,J44,ACE inhibitors,Sleep Apnea,128,96,117,36.7,115,175,Worsened
+Male,38,Depression,I10,Lifestyle changes,,118,66,58,38.0,70,218,Improved
+Female,72,Hypertension,N18,Physical therapy,Sleep Apnea,118,62,65,37.7,155,237,Worsened
+Male,60,Ischemic Heart Disease,F32,Lifestyle changes,Smoking,115,90,65,38.0,96,228,Worsened
+Female,81,Depression,J45,ACE inhibitors,Anemia,162,85,120,36.1,72,213,Stable
+Female,24,Hypertension,M19,Dialysis,Anemia,135,69,89,39.1,75,266,Stable
+Male,55,COPD,J45,Beta-blockers,Obesity,133,103,103,39.1,71,189,Stable
+Male,45,Depression,J45,Lifestyle changes,Sleep Apnea,176,64,87,37.1,176,248,Stable
+Male,83,Osteoarthritis,M19,Beta-blockers,Sleep Apnea,176,85,88,39.0,185,139,Stable
+Male,73,Asthma,E11,Dialysis,Smoking,130,104,59,37.5,164,214,Worsened
+Male,20,Ischemic Heart Disease,J45,Insulin,Obesity,167,90,86,38.2,73,220,Worsened
+Male,88,COPD,M19,ACE inhibitors,Obesity,141,94,91,37.2,105,219,Worsened
+Female,85,COPD,F32,Beta-blockers,Smoking,140,73,96,39.1,89,235,Improved
+Male,34,Hypertension,F32,Insulin,Anemia,134,103,55,38.2,183,208,Stable
+Female,87,Osteoarthritis,N18,Lifestyle changes,,180,82,100,37.7,110,177,Stable
+Male,26,COPD,E11,Lifestyle changes,Smoking,142,108,102,37.7,164,236,Improved
+Female,27,Depression,I10,Antidepressants,Sleep Apnea,147,69,63,36.6,181,256,Improved
+Male,59,Diabetes Mellitus,I25,Inhalers,Hyperlipidemia,167,86,70,36.1,88,279,Stable
+Male,82,COPD,F32,Lifestyle changes,Obesity,135,90,78,38.3,195,185,Improved
+Male,43,Hypertension,E11,Beta-blockers,Smoking,117,103,117,39.3,73,250,Stable
+Male,32,Depression,J44,Antidepressants,Anemia,113,98,72,36.9,157,144,Stable
+Male,32,Asthma,F32,ACE inhibitors,Smoking,113,65,66,37.4,122,132,Worsened
+Male,84,Chronic Kidney Disease,M19,Physical therapy,,137,95,107,36.3,74,222,Worsened
+Female,37,Asthma,J45,Physical therapy,Smoking,101,63,116,39.3,172,152,Worsened
+Male,71,COPD,I10,Physical therapy,Sleep Apnea,105,94,62,39.4,105,233,Stable
+Male,50,Ischemic Heart Disease,M19,Dialysis,Obesity,158,78,78,38.8,120,182,Stable
+Male,74,Osteoarthritis,N18,Dialysis,Sleep Apnea,112,67,99,36.3,196,234,Improved
+Male,25,Hypertension,N18,Physical therapy,,104,89,86,37.0,149,229,Worsened
+Female,54,Osteoarthritis,N18,Lifestyle changes,Obesity,174,95,104,39.3,160,180,Improved
+Male,29,Osteoarthritis,M19,Lifestyle changes,,176,89,105,37.9,158,239,Improved
+Male,44,Chronic Kidney Disease,F32,Beta-blockers,Anemia,113,76,87,38.3,129,275,Worsened
+Male,34,Diabetes Mellitus,N18,Physical therapy,Sleep Apnea,164,97,116,36.5,194,249,Improved
+Female,35,Osteoarthritis,N18,Lifestyle changes,Hyperlipidemia,131,101,58,38.9,90,184,Worsened
+Female,26,COPD,I10,Insulin,,105,97,77,37.8,156,213,Worsened
+Female,71,Asthma,N18,Insulin,,100,98,107,37.7,178,136,Worsened
+Female,80,Depression,I10,Lifestyle changes,Anemia,113,86,116,38.2,140,277,Worsened
+Female,54,Osteoarthritis,E11,Physical therapy,Sleep Apnea,125,95,107,38.9,163,152,Stable
+Female,44,Hypertension,J44,Insulin,Obesity,111,91,72,38.0,145,236,Worsened
+Female,28,Depression,J44,Lifestyle changes,Sleep Apnea,145,67,114,38.5,145,172,Improved
+Female,45,Asthma,I25,Inhalers,Sleep Apnea,103,101,97,37.5,88,265,Improved
+Female,87,COPD,F32,Lifestyle changes,Hyperlipidemia,120,92,115,38.0,192,181,Improved
+Female,23,Hypertension,F32,Lifestyle changes,Sleep Apnea,104,80,88,38.1,165,246,Improved
+Male,87,Ischemic Heart Disease,E11,Inhalers,,108,64,85,37.9,96,234,Improved
+Male,39,Depression,N18,Physical therapy,,116,84,87,36.5,178,241,Improved
+Female,28,Hypertension,E11,Beta-blockers,,157,72,74,36.3,87,186,Stable
+Male,45,Diabetes Mellitus,M19,Insulin,Sleep Apnea,139,68,118,37.4,161,216,Worsened
+Male,41,Hypertension,F32,Antidepressants,Hyperlipidemia,175,78,120,38.3,98,153,Improved
+Female,43,Depression,N18,Dialysis,Sleep Apnea,145,69,83,36.3,81,178,Worsened
+Female,57,Chronic Kidney Disease,J45,Physical therapy,,102,64,70,38.8,198,265,Improved
+Male,83,Ischemic Heart Disease,I10,ACE inhibitors,Hyperlipidemia,125,73,82,36.0,184,277,Improved
+Female,23,Osteoarthritis,E11,Beta-blockers,Smoking,129,76,92,36.3,72,256,Stable
+Female,88,Osteoarthritis,F32,Physical therapy,,107,82,75,36.3,110,148,Worsened
+Male,45,Depression,J44,Insulin,Smoking,150,104,109,39.2,96,245,Stable
+Male,19,Asthma,E11,Dialysis,Hyperlipidemia,137,87,65,36.3,138,239,Worsened
+Female,85,Hypertension,F32,Dialysis,,168,69,61,38.6,176,172,Worsened
+Female,50,Hypertension,I10,Lifestyle changes,Sleep Apnea,150,62,106,36.6,124,153,Stable
+Male,64,Diabetes Mellitus,J44,Lifestyle changes,Anemia,125,81,79,37.8,197,152,Worsened
+Male,75,COPD,I10,ACE inhibitors,,158,70,90,37.2,200,137,Worsened
+Female,45,Hypertension,I25,ACE inhibitors,Sleep Apnea,131,91,98,39.4,139,248,Worsened
+Male,29,Hypertension,J44,Antidepressants,,172,100,90,38.2,112,173,Improved
+Female,40,COPD,F32,Lifestyle changes,Smoking,170,76,84,37.3,124,216,Improved
+Male,32,Hypertension,I25,ACE inhibitors,,135,80,119,36.4,121,243,Worsened
+Female,20,COPD,I25,Inhalers,Hyperlipidemia,170,70,70,37.8,173,182,Improved
+Female,71,Asthma,N18,Beta-blockers,Obesity,142,76,94,37.5,119,172,Stable
+Male,47,COPD,I25,Insulin,Smoking,116,95,82,36.2,179,265,Worsened
+Female,68,Depression,E11,ACE inhibitors,,103,89,68,37.0,152,213,Improved
+Female,57,Ischemic Heart Disease,J45,Insulin,Obesity,114,95,82,39.2,138,224,Improved
+Male,32,Diabetes Mellitus,N18,Inhalers,Obesity,130,80,115,38.4,190,147,Improved
+Female,34,Diabetes Mellitus,F32,Inhalers,Sleep Apnea,176,110,61,39.2,187,164,Improved
+Female,66,Osteoarthritis,E11,Insulin,Obesity,150,81,69,36.1,99,145,Worsened
+Female,57,Chronic Kidney Disease,J45,Beta-blockers,Smoking,124,73,67,38.9,179,266,Worsened
+Female,75,Asthma,M19,Dialysis,Sleep Apnea,104,61,110,37.4,107,159,Worsened
+Male,79,Depression,J45,Physical therapy,Obesity,111,61,82,37.9,113,273,Improved
+Male,32,COPD,E11,Physical therapy,Anemia,149,78,69,36.2,80,205,Worsened
+Female,53,Asthma,F32,Insulin,Obesity,101,65,55,36.2,178,185,Stable
+Female,57,Depression,J44,ACE inhibitors,Smoking,180,79,81,36.5,105,133,Stable
+Male,78,COPD,J45,Insulin,,150,97,98,36.6,109,166,Worsened
+Female,80,Chronic Kidney Disease,N18,Inhalers,Smoking,172,67,69,36.7,95,179,Worsened
+Male,37,COPD,E11,Dialysis,Obesity,132,91,92,37.9,160,204,Stable
+Female,46,Hypertension,I25,Physical therapy,Obesity,105,94,66,36.5,138,265,Improved
+Female,60,Diabetes Mellitus,I25,Antidepressants,Hyperlipidemia,136,97,85,38.5,96,194,Improved
+Male,72,COPD,I25,Beta-blockers,,116,98,118,39.4,140,233,Stable
+Female,85,Asthma,I25,ACE inhibitors,Hyperlipidemia,172,72,111,37.6,179,195,Improved
+Male,67,Hypertension,E11,Physical therapy,Anemia,118,64,110,36.5,199,145,Stable
+Male,82,Asthma,I10,Antidepressants,Hyperlipidemia,166,72,77,38.4,150,248,Improved
+Male,87,Asthma,E11,Insulin,Smoking,100,103,114,39.1,182,230,Stable
+Female,87,Chronic Kidney Disease,E11,Physical therapy,Obesity,111,85,74,37.8,190,225,Improved
+Female,51,Chronic Kidney Disease,I25,Inhalers,Hyperlipidemia,174,94,86,37.4,159,223,Stable
+Female,42,Hypertension,E11,Inhalers,Hyperlipidemia,151,60,117,37.6,150,271,Improved
+Female,89,Depression,I25,Physical therapy,Smoking,169,94,55,37.3,165,249,Improved
+Male,61,Hypertension,N18,Insulin,Anemia,129,109,67,36.2,198,139,Worsened
+Female,19,Diabetes Mellitus,M19,ACE inhibitors,,158,90,93,36.1,74,141,Improved
+Male,18,Ischemic Heart Disease,E11,Antidepressants,Hyperlipidemia,110,104,83,37.4,164,139,Stable
+Male,28,Ischemic Heart Disease,I10,Beta-blockers,Hyperlipidemia,179,77,90,39.0,131,240,Stable
+Male,85,Ischemic Heart Disease,J44,Physical therapy,,138,75,61,37.5,184,140,Stable
+Male,80,Depression,E11,Dialysis,,122,105,63,37.6,110,251,Improved
+Male,80,Asthma,J45,Beta-blockers,Anemia,150,103,109,36.5,97,263,Worsened
+Female,57,Osteoarthritis,F32,Physical therapy,Obesity,122,66,100,38.0,105,251,Improved
+Male,20,Depression,M19,Lifestyle changes,Hyperlipidemia,114,60,55,38.4,81,151,Improved
+Male,57,Osteoarthritis,N18,Beta-blockers,Hyperlipidemia,156,109,114,37.0,79,264,Stable
+Female,85,Depression,E11,Physical therapy,Sleep Apnea,109,79,95,39.0,74,180,Improved
+Female,73,Diabetes Mellitus,N18,Physical therapy,Anemia,167,82,67,36.3,142,145,Improved
+Female,57,Osteoarthritis,E11,Physical therapy,Smoking,125,71,114,36.9,108,262,Improved
+Female,37,Asthma,J44,Inhalers,Hyperlipidemia,167,92,111,36.6,73,143,Worsened
+Male,56,Depression,E11,Beta-blockers,Hyperlipidemia,168,69,84,36.2,128,266,Improved
+Female,76,Depression,J44,Physical therapy,Smoking,125,62,70,39.3,72,134,Improved
+Female,46,Asthma,J45,ACE inhibitors,Smoking,169,110,62,36.2,99,134,Worsened
+Male,51,Ischemic Heart Disease,M19,Dialysis,Anemia,119,85,114,36.9,158,277,Stable
+Female,59,Ischemic Heart Disease,J44,ACE inhibitors,,105,97,65,36.1,129,133,Worsened
+Female,40,Depression,J44,Physical therapy,Hyperlipidemia,139,80,57,38.7,197,202,Worsened
+Male,36,Hypertension,N18,Beta-blockers,Smoking,109,78,102,36.8,190,234,Improved
+Female,42,Hypertension,N18,Physical therapy,Obesity,152,106,59,36.1,100,274,Worsened
+Male,31,Ischemic Heart Disease,I25,Dialysis,Sleep Apnea,105,92,90,36.6,93,200,Improved
+Male,34,Hypertension,I25,Insulin,Obesity,126,70,84,38.6,104,248,Stable
+Male,76,Ischemic Heart Disease,F32,Dialysis,,165,81,58,37.9,170,165,Stable
+Male,42,Ischemic Heart Disease,I10,Inhalers,Smoking,116,104,82,37.9,196,183,Worsened
+Male,56,Ischemic Heart Disease,J44,Dialysis,Anemia,129,70,105,38.3,127,154,Improved
+Female,67,Chronic Kidney Disease,E11,Dialysis,Obesity,153,98,55,38.9,178,150,Improved
+Male,53,Ischemic Heart Disease,F32,Dialysis,Anemia,158,63,62,38.2,143,165,Improved
+Female,20,Chronic Kidney Disease,M19,Antidepressants,,137,74,106,37.2,114,151,Worsened
+Female,70,Depression,J45,Antidepressants,Hyperlipidemia,160,86,65,38.6,99,207,Improved
+Male,53,Hypertension,J44,Inhalers,Hyperlipidemia,131,84,93,37.2,153,139,Improved
+Female,75,Diabetes Mellitus,J45,Beta-blockers,,176,70,119,39.4,75,225,Improved
+Male,85,Depression,F32,Lifestyle changes,Obesity,142,102,96,38.3,191,145,Worsened
+Male,50,Ischemic Heart Disease,I10,Physical therapy,Sleep Apnea,157,62,116,38.7,144,169,Stable
+Female,90,Depression,F32,Lifestyle changes,Hyperlipidemia,109,87,109,38.4,96,277,Worsened
+Male,19,Ischemic Heart Disease,I10,Antidepressants,Sleep Apnea,145,66,90,39.4,181,255,Improved
+Male,85,Hypertension,M19,ACE inhibitors,Sleep Apnea,161,110,72,37.4,189,217,Improved
+Male,76,Hypertension,E11,ACE inhibitors,,168,92,90,36.5,180,216,Worsened
+Female,45,Osteoarthritis,N18,Insulin,Sleep Apnea,109,85,110,37.8,174,233,Worsened
+Female,88,Osteoarthritis,J44,Antidepressants,Sleep Apnea,114,103,108,38.9,78,177,Improved
+Male,28,Ischemic Heart Disease,E11,ACE inhibitors,Anemia,137,80,111,36.5,188,130,Improved
+Female,63,Ischemic Heart Disease,F32,Insulin,Hyperlipidemia,165,107,77,36.5,126,189,Worsened
+Female,52,Chronic Kidney Disease,F32,Beta-blockers,,153,87,115,37.2,196,164,Improved
+Male,87,Ischemic Heart Disease,M19,ACE inhibitors,Obesity,167,85,113,39.0,156,166,Improved
+Male,61,Ischemic Heart Disease,J44,Dialysis,Obesity,117,81,77,38.2,98,273,Improved
+Female,59,COPD,M19,Beta-blockers,Sleep Apnea,174,87,78,36.8,164,164,Worsened
+Male,86,Osteoarthritis,E11,Beta-blockers,Hyperlipidemia,129,90,69,38.8,74,136,Improved
+Female,24,Osteoarthritis,J44,Antidepressants,Obesity,151,86,60,36.6,192,153,Stable
+Female,54,Depression,J44,Beta-blockers,Smoking,163,86,61,37.7,139,165,Improved
+Male,56,Ischemic Heart Disease,F32,Dialysis,Smoking,170,74,70,36.7,96,167,Improved
+Female,57,Chronic Kidney Disease,I10,Physical therapy,Smoking,164,88,77,38.5,145,179,Stable
+Male,24,Diabetes Mellitus,F32,Physical therapy,Smoking,176,94,115,36.6,159,198,Improved
+Male,63,Diabetes Mellitus,M19,Antidepressants,Smoking,130,63,119,38.6,183,249,Stable
+Male,78,COPD,J44,Dialysis,Sleep Apnea,171,65,86,36.2,194,212,Stable
+Male,27,Depression,J45,Physical therapy,,151,73,84,38.2,159,268,Improved
+Female,55,COPD,I10,Lifestyle changes,,149,68,118,38.2,197,198,Improved
+Female,63,Ischemic Heart Disease,J44,Antidepressants,,160,87,93,36.2,149,142,Stable
+Male,70,Ischemic Heart Disease,J44,ACE inhibitors,Sleep Apnea,147,95,70,36.4,167,151,Worsened
+Female,22,Diabetes Mellitus,J45,Lifestyle changes,Hyperlipidemia,123,87,73,37.4,196,194,Worsened
+Male,32,Asthma,I25,Inhalers,Hyperlipidemia,128,96,55,37.0,123,277,Stable
+Female,47,Osteoarthritis,E11,Antidepressants,Sleep Apnea,123,63,57,37.7,189,274,Worsened
+Male,50,COPD,J45,Inhalers,Obesity,151,72,77,37.5,126,175,Stable
+Female,72,Ischemic Heart Disease,E11,ACE inhibitors,Hyperlipidemia,159,105,110,38.6,123,280,Worsened
+Male,87,Depression,J44,Beta-blockers,Anemia,165,87,118,38.6,174,176,Worsened
+Male,45,Asthma,E11,Lifestyle changes,Smoking,105,99,116,38.4,85,210,Worsened
+Female,53,Ischemic Heart Disease,J45,Antidepressants,Obesity,130,69,72,36.7,78,258,Worsened
+Female,23,COPD,I10,Dialysis,Anemia,112,92,75,38.4,110,256,Worsened
+Female,53,Asthma,I10,Insulin,Obesity,112,100,111,37.0,191,147,Improved
+Male,55,Diabetes Mellitus,F32,Beta-blockers,Obesity,156,109,110,37.2,137,139,Stable
+Male,57,Asthma,N18,Beta-blockers,,121,70,110,39.3,166,278,Worsened
+Female,26,Depression,J45,Lifestyle changes,Obesity,159,78,99,37.3,150,247,Worsened
+Female,21,Diabetes Mellitus,J45,Beta-blockers,Obesity,141,88,67,36.4,90,149,Worsened
+Female,37,Chronic Kidney Disease,J44,Inhalers,,136,83,58,36.9,180,257,Stable
+Female,62,Asthma,N18,Physical therapy,,139,82,73,37.0,187,188,Stable
+Male,65,Osteoarthritis,N18,Antidepressants,Anemia,174,83,99,37.7,88,231,Stable
+Male,88,Diabetes Mellitus,J45,Lifestyle changes,Hyperlipidemia,143,79,55,36.4,183,216,Improved
+Female,38,Diabetes Mellitus,E11,ACE inhibitors,,150,74,75,37.8,75,137,Worsened
+Female,45,Depression,N18,Lifestyle changes,Hyperlipidemia,117,78,103,39.2,78,149,Improved
+Male,42,Diabetes Mellitus,E11,Dialysis,Hyperlipidemia,128,103,81,38.3,95,140,Worsened
+Female,41,Hypertension,I25,Dialysis,Sleep Apnea,180,63,77,38.5,164,153,Worsened
+Female,50,Hypertension,I25,Inhalers,,172,78,104,37.1,193,257,Improved
+Female,90,Chronic Kidney Disease,N18,Antidepressants,Hyperlipidemia,153,77,117,36.9,170,257,Improved
+Male,64,Depression,N18,Insulin,Obesity,135,83,73,37.2,189,150,Improved
+Male,46,Hypertension,J45,Beta-blockers,Anemia,166,87,108,38.2,196,141,Worsened
+Female,70,Ischemic Heart Disease,E11,Insulin,Obesity,158,106,103,36.8,113,180,Worsened
+Female,84,Osteoarthritis,I25,Insulin,Smoking,119,94,108,37.2,86,256,Improved
+Male,31,Depression,F32,Inhalers,Hyperlipidemia,153,108,96,36.5,175,202,Worsened
+Male,48,Osteoarthritis,F32,Antidepressants,Sleep Apnea,180,68,72,37.5,157,131,Stable
+Male,21,Ischemic Heart Disease,E11,Physical therapy,Sleep Apnea,144,67,77,39.1,136,160,Worsened
+Male,81,COPD,J45,ACE inhibitors,,129,87,62,37.4,132,219,Worsened
+Male,77,COPD,E11,Beta-blockers,Hyperlipidemia,107,88,118,37.8,135,188,Stable
+Male,83,Asthma,M19,Dialysis,,126,76,55,37.7,169,151,Worsened
+Female,58,Asthma,N18,Insulin,Smoking,167,97,119,37.9,121,256,Stable
+Male,62,COPD,F32,Lifestyle changes,Hyperlipidemia,170,76,102,38.5,140,133,Stable
+Female,79,Diabetes Mellitus,N18,Lifestyle changes,Hyperlipidemia,161,63,91,36.2,94,204,Stable
+Male,69,Diabetes Mellitus,F32,Antidepressants,Sleep Apnea,151,80,69,36.5,169,135,Improved
+Male,61,Depression,M19,Dialysis,Anemia,130,109,82,39.4,93,250,Stable
+Male,87,Asthma,M19,Beta-blockers,,161,84,108,36.3,93,199,Stable
+Female,20,Hypertension,M19,Dialysis,Hyperlipidemia,158,71,93,39.1,147,140,Worsened
+Female,30,Osteoarthritis,J45,Lifestyle changes,Sleep Apnea,174,66,94,39.4,85,181,Worsened
+Male,53,Chronic Kidney Disease,I25,Beta-blockers,Obesity,176,66,86,36.5,97,162,Worsened
+Female,54,Asthma,N18,Inhalers,Hyperlipidemia,111,74,61,37.5,180,211,Stable
+Female,49,Hypertension,I10,Lifestyle changes,Sleep Apnea,172,72,90,37.0,170,275,Worsened
+Male,23,Depression,N18,Lifestyle changes,Smoking,159,75,108,39.3,103,231,Worsened
+Male,40,Ischemic Heart Disease,I25,Physical therapy,Obesity,164,79,103,38.9,112,279,Stable
+Female,49,Osteoarthritis,F32,Lifestyle changes,Anemia,141,71,79,39.0,140,141,Stable
+Male,52,Hypertension,I10,Insulin,Obesity,113,79,110,36.8,98,177,Worsened
+Male,75,Asthma,M19,Inhalers,Anemia,145,84,86,38.2,171,223,Worsened
+Male,24,Asthma,M19,Antidepressants,Hyperlipidemia,165,90,82,37.5,164,173,Stable
+Female,25,Osteoarthritis,M19,Dialysis,Hyperlipidemia,171,62,63,38.5,87,172,Stable
+Male,79,Asthma,J45,Inhalers,Sleep Apnea,152,86,120,38.0,119,266,Stable
+Female,83,Asthma,N18,Insulin,,125,99,100,38.5,97,201,Improved
+Male,23,Osteoarthritis,M19,Insulin,Obesity,180,60,98,38.9,139,195,Stable
+Male,86,Hypertension,N18,ACE inhibitors,Obesity,110,88,113,39.2,149,153,Worsened
+Male,20,COPD,J44,Inhalers,Obesity,146,74,58,37.4,90,194,Worsened
+Female,89,Hypertension,I25,Insulin,Anemia,105,98,82,39.0,171,226,Stable
+Male,25,COPD,J45,Insulin,Hyperlipidemia,170,101,109,38.9,96,254,Stable
+Female,73,Chronic Kidney Disease,I10,Inhalers,Smoking,153,80,68,36.7,160,130,Improved
+Male,26,Depression,I25,Insulin,Sleep Apnea,174,83,66,36.5,78,241,Stable
+Female,89,Osteoarthritis,N18,Beta-blockers,Obesity,131,79,82,38.7,101,160,Stable
+Female,54,Osteoarthritis,E11,Insulin,Anemia,134,97,70,38.9,79,257,Stable
+Male,45,COPD,E11,ACE inhibitors,Smoking,132,85,61,38.1,155,179,Improved
+Female,30,Diabetes Mellitus,J45,Inhalers,Anemia,159,79,66,36.7,113,174,Stable
+Female,44,Diabetes Mellitus,N18,Lifestyle changes,Hyperlipidemia,145,82,95,36.6,90,130,Worsened
+Female,75,Depression,J45,Antidepressants,Smoking,166,106,92,38.9,82,199,Improved
+Female,23,Depression,J45,Physical therapy,Smoking,127,93,78,37.6,78,220,Worsened
+Male,67,Asthma,E11,Insulin,,135,69,76,37.2,129,143,Worsened
+Male,75,COPD,J44,Inhalers,Obesity,157,100,99,38.5,182,175,Improved
+Female,45,Osteoarthritis,J45,Inhalers,Anemia,112,98,102,38.3,106,177,Stable
+Male,52,Diabetes Mellitus,I10,Lifestyle changes,,134,95,77,38.2,78,142,Worsened
+Female,26,COPD,N18,Lifestyle changes,Hyperlipidemia,105,70,67,38.0,125,259,Stable
+Male,90,Chronic Kidney Disease,I25,Dialysis,,164,67,105,37.2,197,235,Improved
+Male,40,Osteoarthritis,N18,Beta-blockers,Smoking,127,81,77,38.8,123,144,Improved
+Female,86,Asthma,I10,Lifestyle changes,Sleep Apnea,127,82,117,38.4,145,223,Worsened
+Female,64,Ischemic Heart Disease,M19,Insulin,Smoking,139,99,105,38.3,186,242,Improved
+Female,31,Asthma,M19,Insulin,,132,98,67,37.0,98,184,Worsened
+Male,79,Asthma,N18,Beta-blockers,Hyperlipidemia,134,107,59,38.2,186,273,Improved
+Female,71,Osteoarthritis,N18,Inhalers,Obesity,155,102,77,37.6,85,153,Stable
+Male,18,Ischemic Heart Disease,N18,Lifestyle changes,Hyperlipidemia,122,106,107,38.9,72,266,Stable
+Male,21,Osteoarthritis,I25,ACE inhibitors,Hyperlipidemia,146,95,80,36.8,71,200,Improved
+Male,52,COPD,J45,Lifestyle changes,Smoking,177,101,70,38.0,143,148,Improved
+Female,74,Diabetes Mellitus,M19,Dialysis,Anemia,145,77,112,38.4,73,264,Improved
+Male,64,COPD,F32,Insulin,Smoking,106,76,55,36.9,183,250,Improved
+Female,35,Asthma,F32,Dialysis,,105,81,78,36.1,166,159,Worsened
+Male,61,COPD,N18,Physical therapy,Hyperlipidemia,147,74,108,37.4,117,162,Worsened
+Female,23,Hypertension,I10,Dialysis,Anemia,110,82,63,38.6,156,211,Stable
+Male,27,Hypertension,I10,Insulin,,125,87,76,37.1,178,177,Improved
+Male,87,Hypertension,F32,Lifestyle changes,Hyperlipidemia,136,94,62,37.7,120,153,Improved
+Female,31,Diabetes Mellitus,N18,ACE inhibitors,Sleep Apnea,155,101,94,39.0,157,141,Improved
+Male,76,COPD,J44,Antidepressants,Anemia,110,75,113,38.1,198,194,Improved
+Male,78,Depression,M19,Insulin,Sleep Apnea,124,103,59,38.1,94,218,Worsened
+Female,50,COPD,J44,Antidepressants,Hyperlipidemia,175,109,104,38.0,84,251,Improved
+Male,74,Asthma,I25,Dialysis,Anemia,153,65,85,39.1,72,239,Worsened
+Male,29,COPD,J45,Inhalers,Sleep Apnea,170,71,73,38.3,97,139,Worsened
+Male,81,COPD,J44,ACE inhibitors,,153,85,110,37.6,158,166,Improved
+Female,20,Chronic Kidney Disease,F32,Insulin,Smoking,133,83,60,36.7,166,157,Improved
+Female,86,Osteoarthritis,I25,Inhalers,Sleep Apnea,155,106,75,36.8,129,181,Worsened
+Female,85,Diabetes Mellitus,E11,Lifestyle changes,Sleep Apnea,135,72,109,36.3,166,186,Worsened
+Male,59,COPD,J44,Dialysis,Sleep Apnea,114,85,64,36.9,149,210,Worsened
+Female,88,Asthma,I25,ACE inhibitors,Anemia,149,90,108,36.4,194,176,Worsened
+Female,84,Asthma,E11,Inhalers,Anemia,179,83,77,39.4,133,252,Improved
+Male,21,COPD,M19,Lifestyle changes,Hyperlipidemia,140,74,79,37.1,184,204,Worsened
+Male,53,COPD,F32,Dialysis,Sleep Apnea,151,110,70,37.7,75,132,Worsened
+Male,89,Ischemic Heart Disease,J44,Insulin,Sleep Apnea,122,79,116,38.2,96,253,Worsened
+Female,76,Asthma,F32,Insulin,Obesity,128,90,106,37.4,78,242,Worsened
+Male,52,Osteoarthritis,E11,Insulin,Smoking,140,106,55,39.1,87,199,Worsened
+Female,21,Diabetes Mellitus,E11,Beta-blockers,Anemia,166,93,98,38.0,159,269,Worsened
+Male,20,Hypertension,I25,Insulin,Anemia,155,91,57,36.4,133,207,Worsened
+Female,87,COPD,J45,Insulin,,149,109,79,38.7,100,177,Stable
+Female,24,Ischemic Heart Disease,N18,Beta-blockers,Smoking,177,108,93,39.4,127,227,Stable
+Male,48,Asthma,F32,ACE inhibitors,Hyperlipidemia,108,94,56,38.1,178,180,Improved
+Female,76,Ischemic Heart Disease,J45,Inhalers,Sleep Apnea,139,99,85,36.9,112,163,Worsened
+Female,30,Chronic Kidney Disease,J45,Insulin,Obesity,120,106,92,38.3,159,249,Stable
+Male,35,Depression,M19,Dialysis,Anemia,155,67,69,36.0,132,203,Worsened
+Male,57,Depression,F32,Inhalers,Hyperlipidemia,125,90,111,36.8,200,137,Worsened
+Female,64,Depression,E11,Insulin,Hyperlipidemia,136,99,113,38.5,126,228,Worsened
+Male,75,Diabetes Mellitus,M19,Beta-blockers,Smoking,143,71,56,36.9,155,178,Stable
+Female,76,Chronic Kidney Disease,F32,Inhalers,Anemia,154,87,87,38.8,174,273,Worsened
+Female,27,COPD,E11,Lifestyle changes,Smoking,126,92,74,37.6,188,221,Worsened
+Female,65,Osteoarthritis,E11,Lifestyle changes,Smoking,169,73,66,36.1,174,219,Stable
+Female,40,Depression,J44,ACE inhibitors,,155,108,67,39.5,74,257,Stable
+Female,84,Depression,I10,Inhalers,Obesity,149,88,74,37.4,144,162,Improved
+Female,36,Osteoarthritis,J45,Lifestyle changes,Anemia,134,84,75,36.4,180,190,Stable
+Female,43,Osteoarthritis,J44,Insulin,Hyperlipidemia,146,68,74,37.4,98,279,Worsened
+Male,33,Chronic Kidney Disease,I25,ACE inhibitors,,125,66,56,37.8,146,224,Worsened
+Male,35,Osteoarthritis,I10,Lifestyle changes,Sleep Apnea,142,99,96,38.6,102,151,Stable
+Male,44,Diabetes Mellitus,E11,Dialysis,Anemia,174,66,66,36.5,163,186,Worsened
+Female,74,Depression,I25,Antidepressants,Hyperlipidemia,146,69,118,38.4,90,231,Worsened
+Male,29,Depression,F32,ACE inhibitors,Sleep Apnea,170,107,56,36.4,92,149,Worsened
+Male,43,Diabetes Mellitus,I25,Inhalers,Anemia,113,94,81,37.1,174,133,Improved
+Female,39,Osteoarthritis,F32,Physical therapy,,122,102,115,37.8,172,131,Stable
+Male,50,Osteoarthritis,N18,Inhalers,,137,72,80,39.1,83,240,Stable
+Male,48,Asthma,I25,Dialysis,Sleep Apnea,141,74,96,39.0,158,264,Improved
+Female,84,Depression,I25,Inhalers,Hyperlipidemia,102,92,83,39.4,134,219,Worsened
+Male,69,Ischemic Heart Disease,E11,Physical therapy,Sleep Apnea,167,105,71,38.0,89,269,Improved
+Male,46,Depression,E11,Dialysis,Anemia,133,106,77,36.7,111,202,Stable
+Female,80,Asthma,J45,Dialysis,Obesity,178,61,118,39.5,174,154,Worsened
+Female,85,Depression,F32,Antidepressants,Smoking,161,63,83,38.7,158,221,Improved
+Male,55,Hypertension,M19,Insulin,,121,107,71,37.0,91,211,Worsened
+Female,48,Hypertension,I25,Inhalers,Obesity,140,106,93,36.5,90,245,Stable
+Male,30,Hypertension,F32,Antidepressants,Hyperlipidemia,170,69,59,37.3,182,148,Worsened
+Female,75,Osteoarthritis,N18,Physical therapy,Obesity,145,82,73,38.4,152,141,Worsened
+Female,36,Asthma,I25,Antidepressants,Sleep Apnea,177,98,105,38.7,116,265,Worsened
+Male,43,Ischemic Heart Disease,F32,Dialysis,,113,77,63,36.3,70,262,Improved
+Female,56,Ischemic Heart Disease,N18,Dialysis,Hyperlipidemia,102,80,76,39.4,93,209,Stable
+Female,90,Depression,I25,Antidepressants,Obesity,180,64,107,37.5,144,142,Stable
+Female,29,Hypertension,J44,Beta-blockers,Hyperlipidemia,107,94,95,38.0,75,146,Worsened
+Female,66,Ischemic Heart Disease,J44,ACE inhibitors,Anemia,160,80,112,38.5,135,251,Stable
+Female,86,Ischemic Heart Disease,F32,Lifestyle changes,Anemia,141,63,63,37.3,155,255,Stable
+Female,71,Diabetes Mellitus,F32,ACE inhibitors,Obesity,155,71,109,36.0,89,232,Worsened
+Female,59,Asthma,E11,Beta-blockers,Smoking,133,71,94,36.6,109,251,Improved
+Female,47,Depression,I10,Inhalers,,168,66,91,36.4,89,189,Worsened
+Female,56,Diabetes Mellitus,I25,Insulin,Obesity,146,62,113,39.2,131,183,Improved
+Male,62,COPD,J45,Insulin,Sleep Apnea,113,87,96,38.2,164,225,Improved
+Male,18,COPD,N18,Physical therapy,Hyperlipidemia,143,86,90,37.6,81,244,Worsened
+Male,86,Osteoarthritis,I25,Lifestyle changes,Sleep Apnea,145,104,90,36.1,169,262,Improved
+Male,89,Osteoarthritis,E11,Dialysis,,154,67,85,38.4,167,182,Stable
+Male,61,Hypertension,N18,Insulin,Anemia,152,72,63,37.5,93,236,Improved
+Female,32,Chronic Kidney Disease,I25,Insulin,Smoking,105,78,114,36.2,114,159,Worsened
+Female,42,Ischemic Heart Disease,I10,ACE inhibitors,Smoking,110,94,109,38.1,159,134,Stable
+Male,44,Hypertension,I10,ACE inhibitors,,162,85,87,39.0,102,188,Stable
+Female,76,COPD,J45,Dialysis,Sleep Apnea,167,93,90,36.2,111,278,Improved
+Male,72,Chronic Kidney Disease,I25,Antidepressants,Hyperlipidemia,146,103,119,36.9,149,163,Worsened
+Female,84,Asthma,I25,Beta-blockers,Anemia,134,68,98,39.5,171,212,Stable
+Male,68,Diabetes Mellitus,J45,Dialysis,Sleep Apnea,162,107,72,37.3,160,194,Worsened
+Female,70,Hypertension,I10,Lifestyle changes,Obesity,143,74,71,36.7,75,279,Improved
+Female,21,Diabetes Mellitus,J44,Beta-blockers,,177,103,98,38.3,96,134,Improved
+Female,74,Hypertension,I25,Insulin,,108,62,119,38.2,150,163,Improved
+Female,67,COPD,J45,Insulin,Smoking,161,102,77,36.1,159,145,Improved
+Male,52,COPD,I25,Antidepressants,Obesity,136,96,73,38.5,172,137,Worsened
+Female,42,Depression,J45,Antidepressants,Obesity,125,107,59,39.1,186,229,Improved
+Male,75,COPD,M19,ACE inhibitors,Sleep Apnea,172,85,61,38.6,75,198,Worsened
+Male,70,Chronic Kidney Disease,I25,Physical therapy,,122,87,102,37.0,184,211,Stable
+Male,23,COPD,J44,Antidepressants,,137,96,115,38.6,71,225,Worsened
+Male,59,Ischemic Heart Disease,J45,Insulin,,160,92,70,39.1,103,197,Worsened
+Male,42,Chronic Kidney Disease,I10,Physical therapy,Anemia,169,67,119,39.3,118,277,Worsened
+Male,50,Hypertension,I10,Antidepressants,Anemia,133,63,110,37.2,197,188,Worsened
+Male,79,Osteoarthritis,F32,Insulin,,110,88,110,36.4,164,152,Stable
+Male,63,COPD,N18,ACE inhibitors,Hyperlipidemia,180,101,61,37.4,118,168,Worsened
+Female,68,Chronic Kidney Disease,N18,Physical therapy,Anemia,151,68,67,39.0,148,221,Improved
+Male,38,COPD,J44,Dialysis,,151,67,69,39.1,171,170,Worsened
+Female,77,Hypertension,E11,Antidepressants,Obesity,106,84,106,36.6,113,216,Improved
+Male,72,Chronic Kidney Disease,I10,Beta-blockers,Anemia,116,89,115,36.3,134,138,Improved
+Male,43,Diabetes Mellitus,J44,Lifestyle changes,Hyperlipidemia,108,76,83,36.3,119,190,Worsened
+Male,54,Hypertension,N18,ACE inhibitors,Anemia,108,77,64,39.3,74,209,Improved
+Male,50,Hypertension,M19,Antidepressants,Obesity,151,64,107,36.9,83,275,Stable
+Female,18,Asthma,N18,Insulin,Smoking,127,109,82,38.9,193,225,Improved
+Female,68,Osteoarthritis,N18,Antidepressants,Smoking,166,102,78,39.4,150,151,Stable
+Male,67,Asthma,M19,ACE inhibitors,,120,85,55,36.2,194,254,Worsened
+Male,42,Diabetes Mellitus,J44,Beta-blockers,Hyperlipidemia,151,88,111,36.6,112,207,Worsened
+Female,90,Osteoarthritis,F32,Physical therapy,Sleep Apnea,129,73,90,38.0,168,225,Worsened
+Male,54,Hypertension,E11,Antidepressants,Obesity,163,60,114,37.0,88,131,Worsened
+Female,86,Depression,E11,Physical therapy,Smoking,172,104,75,37.9,90,248,Worsened
+Female,21,Asthma,M19,Beta-blockers,Obesity,175,90,61,37.7,117,149,Stable
+Female,55,Ischemic Heart Disease,I10,Dialysis,Smoking,106,108,95,38.8,83,244,Worsened
+Female,86,Diabetes Mellitus,M19,Inhalers,Obesity,128,90,110,38.9,116,220,Worsened
+Male,82,Osteoarthritis,N18,Beta-blockers,Obesity,171,81,98,36.8,132,135,Improved
+Female,47,Depression,M19,Dialysis,Hyperlipidemia,116,104,116,36.1,101,229,Improved
+Female,78,COPD,M19,ACE inhibitors,Hyperlipidemia,137,65,98,38.4,116,237,Improved
+Male,77,Osteoarthritis,N18,Antidepressants,Anemia,162,101,88,38.0,140,149,Worsened
+Female,66,Hypertension,N18,Dialysis,Sleep Apnea,134,97,104,36.8,148,240,Stable
+Male,85,Hypertension,I25,ACE inhibitors,Anemia,108,105,66,36.1,78,227,Improved
+Female,53,Ischemic Heart Disease,I25,Antidepressants,Anemia,119,85,72,38.3,195,222,Worsened
+Male,89,Ischemic Heart Disease,J44,Insulin,Hyperlipidemia,136,88,66,39.4,191,275,Improved
+Female,19,COPD,M19,Beta-blockers,Anemia,167,110,90,36.5,182,261,Improved
+Female,54,Asthma,J45,Lifestyle changes,Anemia,101,76,96,38.2,175,208,Stable
+Male,52,Hypertension,F32,Antidepressants,,178,78,80,39.2,156,221,Stable
+Female,72,Diabetes Mellitus,E11,Insulin,Hyperlipidemia,143,78,116,37.1,167,153,Worsened
+Female,65,COPD,J45,Insulin,Obesity,120,67,112,38.7,149,198,Improved
+Male,35,Osteoarthritis,J44,Inhalers,Sleep Apnea,104,66,93,37.8,188,135,Stable
+Male,64,Hypertension,J45,Inhalers,Anemia,133,67,57,37.7,107,248,Stable
+Male,49,Diabetes Mellitus,J45,Dialysis,Smoking,109,110,95,39.0,90,164,Stable
+Male,61,Osteoarthritis,I10,Physical therapy,Hyperlipidemia,148,64,55,39.5,175,253,Improved
+Female,89,Diabetes Mellitus,J44,Physical therapy,Smoking,158,97,67,37.0,140,178,Worsened
+Male,60,Chronic Kidney Disease,F32,Antidepressants,Smoking,102,88,89,37.1,158,165,Worsened
+Male,53,Ischemic Heart Disease,J44,Inhalers,Sleep Apnea,145,96,68,36.3,70,143,Worsened
+Female,57,Osteoarthritis,N18,Inhalers,Smoking,164,76,67,38.6,108,280,Improved
+Female,42,Asthma,E11,Inhalers,Anemia,110,69,92,39.3,100,280,Improved
+Male,68,Ischemic Heart Disease,F32,Lifestyle changes,Hyperlipidemia,109,87,118,38.6,164,256,Worsened
+Male,31,Depression,M19,Beta-blockers,,125,74,74,38.8,73,272,Stable
+Male,36,Chronic Kidney Disease,N18,Antidepressants,Hyperlipidemia,169,63,83,36.1,76,226,Improved
+Female,23,Hypertension,J45,ACE inhibitors,,173,74,113,38.3,199,222,Improved
+Male,38,Chronic Kidney Disease,I10,Dialysis,Obesity,121,77,75,38.3,94,142,Stable
+Female,49,Asthma,I25,Insulin,Obesity,140,98,114,36.9,122,255,Improved
+Female,29,Ischemic Heart Disease,J45,Dialysis,Smoking,128,62,82,39.4,74,276,Worsened
+Female,72,COPD,M19,Physical therapy,Smoking,106,108,95,38.1,98,140,Worsened
+Female,83,Asthma,I25,Insulin,,160,71,74,36.5,137,219,Stable
+Male,42,Osteoarthritis,I25,ACE inhibitors,,115,92,74,38.6,87,225,Improved
+Male,34,Hypertension,J45,Lifestyle changes,Smoking,131,74,66,37.5,110,168,Worsened
+Female,76,Depression,J44,Lifestyle changes,Smoking,165,73,75,36.7,170,178,Worsened
+Male,41,Chronic Kidney Disease,N18,Beta-blockers,Sleep Apnea,148,74,72,36.6,137,199,Improved
+Male,19,Hypertension,J44,Beta-blockers,Anemia,102,109,63,39.5,94,272,Improved
+Male,58,Chronic Kidney Disease,F32,Inhalers,Sleep Apnea,150,80,89,39.0,186,146,Stable
+Female,60,Osteoarthritis,I25,ACE inhibitors,Hyperlipidemia,117,80,120,36.2,132,247,Improved
+Male,18,Hypertension,J45,Insulin,Sleep Apnea,152,76,115,36.7,162,172,Worsened
+Female,39,Depression,F32,Physical therapy,,141,62,105,37.7,184,167,Improved
+Male,64,Ischemic Heart Disease,I10,Beta-blockers,Sleep Apnea,147,92,117,37.1,150,156,Stable
+Female,38,Chronic Kidney Disease,F32,Beta-blockers,Anemia,150,89,62,38.8,93,221,Worsened
+Female,86,Asthma,J44,Beta-blockers,Hyperlipidemia,148,60,88,39.2,157,169,Worsened
+Male,81,Depression,I10,Physical therapy,Obesity,109,67,103,38.3,159,157,Stable
+Female,40,Diabetes Mellitus,F32,Dialysis,Obesity,102,105,117,38.0,110,142,Stable
+Male,40,Chronic Kidney Disease,I25,Antidepressants,Sleep Apnea,103,95,120,36.2,176,275,Stable
+Male,49,Chronic Kidney Disease,I10,Beta-blockers,Obesity,101,98,96,36.7,136,230,Worsened
+Male,18,Depression,J45,Beta-blockers,Obesity,117,79,97,39.4,111,178,Improved
+Female,77,Ischemic Heart Disease,J45,ACE inhibitors,Smoking,172,71,56,39.4,116,240,Worsened
+Female,45,COPD,M19,Beta-blockers,,108,61,62,37.0,116,138,Improved
+Female,34,Diabetes Mellitus,F32,Antidepressants,Sleep Apnea,151,62,73,37.6,115,259,Improved
+Male,58,Ischemic Heart Disease,J45,ACE inhibitors,Smoking,111,76,76,39.5,140,271,Stable
+Male,27,COPD,E11,Beta-blockers,Obesity,167,88,117,36.3,161,134,Worsened
+Female,39,COPD,J45,Lifestyle changes,Sleep Apnea,176,61,71,38.4,123,275,Stable
+Female,84,Asthma,I10,Insulin,Smoking,143,88,120,38.4,185,187,Stable
+Female,78,Diabetes Mellitus,M19,Lifestyle changes,Smoking,160,92,79,36.3,101,216,Improved
+Male,35,Ischemic Heart Disease,J44,Antidepressants,Obesity,100,101,115,38.2,113,245,Improved
+Male,80,Ischemic Heart Disease,F32,Inhalers,Sleep Apnea,165,61,72,36.4,158,206,Worsened
+Female,27,Depression,N18,ACE inhibitors,Hyperlipidemia,108,98,71,37.9,200,233,Worsened
+Female,43,Depression,F32,Physical therapy,,116,103,98,37.9,178,275,Worsened
+Female,64,Chronic Kidney Disease,I10,Insulin,Sleep Apnea,108,72,91,36.3,176,137,Worsened
+Female,23,Depression,E11,ACE inhibitors,Obesity,152,108,72,37.5,74,132,Improved
+Male,56,COPD,N18,Insulin,Obesity,154,66,68,38.3,174,143,Stable
+Male,86,Osteoarthritis,F32,Lifestyle changes,Hyperlipidemia,107,87,118,37.1,170,161,Stable
+Female,88,Hypertension,I10,Lifestyle changes,Obesity,102,102,100,36.8,125,165,Improved
+Male,19,Depression,J44,Antidepressants,Anemia,178,82,64,36.1,160,205,Worsened
+Male,25,Osteoarthritis,J44,ACE inhibitors,Sleep Apnea,166,102,83,36.9,106,216,Stable
+Female,73,Diabetes Mellitus,I10,Antidepressants,Smoking,174,61,109,36.6,127,231,Stable
+Female,83,Diabetes Mellitus,I25,Inhalers,Hyperlipidemia,128,88,102,36.1,195,249,Stable
+Female,70,COPD,F32,Antidepressants,Sleep Apnea,180,76,92,36.3,198,280,Stable
+Female,70,COPD,I10,Inhalers,Hyperlipidemia,178,68,58,36.4,175,223,Worsened
+Male,69,COPD,J45,ACE inhibitors,Obesity,150,63,93,36.7,79,256,Worsened
+Female,89,Asthma,I25,Beta-blockers,Smoking,117,101,78,39.2,82,232,Improved
+Male,90,COPD,I25,Dialysis,Hyperlipidemia,110,64,112,38.6,162,257,Stable
+Female,65,Asthma,J44,Lifestyle changes,Anemia,169,91,58,37.1,163,248,Worsened
+Female,57,Osteoarthritis,M19,Beta-blockers,Obesity,124,86,62,38.8,162,267,Stable
+Male,36,Chronic Kidney Disease,E11,Antidepressants,Obesity,122,95,70,39.1,90,275,Worsened
+Male,32,Diabetes Mellitus,J44,Beta-blockers,Anemia,147,101,80,36.5,197,235,Improved
+Male,56,Osteoarthritis,N18,Beta-blockers,Smoking,159,107,115,37.7,105,264,Stable
+Female,64,Hypertension,F32,Insulin,Obesity,119,76,67,37.9,76,153,Stable
+Male,38,COPD,N18,Insulin,Obesity,162,76,115,36.7,79,168,Improved
+Male,21,Hypertension,J44,ACE inhibitors,Smoking,143,69,112,36.3,164,246,Worsened
+Male,52,Diabetes Mellitus,M19,Insulin,,145,62,61,36.3,182,208,Stable
+Male,34,Chronic Kidney Disease,J44,Inhalers,Obesity,134,100,77,38.3,93,254,Improved
+Male,55,Ischemic Heart Disease,I10,Insulin,Smoking,130,79,105,36.7,127,164,Worsened
+Male,52,Osteoarthritis,N18,Physical therapy,Sleep Apnea,153,99,69,37.2,162,215,Worsened
+Male,24,Osteoarthritis,J44,Insulin,Obesity,179,87,82,36.3,165,251,Worsened
+Male,25,Asthma,J45,Inhalers,,138,74,116,36.3,115,188,Stable
+Male,52,Hypertension,I10,Physical therapy,Obesity,172,87,97,37.2,198,278,Stable
+Male,89,Hypertension,E11,ACE inhibitors,Smoking,163,75,118,37.7,79,234,Improved
+Female,72,Depression,I10,Insulin,Anemia,123,85,66,39.5,75,262,Improved
+Female,26,Osteoarthritis,J44,Lifestyle changes,,177,95,78,37.9,134,146,Worsened
+Female,48,Ischemic Heart Disease,M19,Dialysis,Sleep Apnea,127,109,105,38.4,156,258,Worsened
+Male,64,Asthma,N18,ACE inhibitors,Sleep Apnea,146,81,65,38.8,135,161,Worsened
+Female,62,Diabetes Mellitus,F32,Dialysis,,160,100,85,36.6,185,143,Stable
+Male,74,Hypertension,N18,ACE inhibitors,,153,77,93,38.0,158,236,Stable
+Male,73,Hypertension,N18,Dialysis,Obesity,124,101,62,39.1,191,218,Stable
+Male,31,COPD,J44,Antidepressants,Smoking,140,103,114,37.3,72,255,Improved
+Female,52,Osteoarthritis,F32,Antidepressants,Obesity,103,77,76,36.5,137,156,Stable
+Male,58,Diabetes Mellitus,F32,Beta-blockers,,148,73,56,37.3,76,279,Worsened
+Male,79,Hypertension,M19,Insulin,,144,106,60,38.7,156,196,Worsened
+Male,68,Ischemic Heart Disease,E11,Physical therapy,Anemia,124,93,78,36.6,143,223,Improved
+Female,61,Asthma,I25,Inhalers,Anemia,142,72,70,36.2,103,154,Worsened
+Male,64,Chronic Kidney Disease,J45,Beta-blockers,Smoking,104,93,61,37.3,113,246,Stable
+Female,24,Depression,I25,Physical therapy,Sleep Apnea,139,62,96,37.4,165,154,Worsened
+Male,38,Osteoarthritis,I25,Antidepressants,Obesity,165,106,71,37.3,103,172,Stable
+Female,74,Chronic Kidney Disease,F32,Lifestyle changes,Obesity,164,68,107,37.1,192,215,Improved
+Male,64,Ischemic Heart Disease,E11,Insulin,Anemia,104,75,94,38.8,98,211,Improved
+Male,26,Osteoarthritis,E11,Antidepressants,Obesity,125,73,105,38.4,192,249,Worsened
+Male,69,Depression,J44,Physical therapy,Anemia,166,108,91,37.2,109,234,Stable
+Male,58,Asthma,I10,ACE inhibitors,Anemia,140,89,63,38.0,199,181,Stable
+Female,85,Depression,I10,Dialysis,Anemia,135,89,119,36.4,148,164,Worsened
+Female,18,COPD,J44,ACE inhibitors,,135,89,75,37.7,149,253,Stable
+Male,55,COPD,F32,Antidepressants,Obesity,119,83,102,38.8,83,208,Stable
+Female,69,Osteoarthritis,J45,Dialysis,Sleep Apnea,168,91,93,39.5,166,210,Improved
+Female,23,Diabetes Mellitus,E11,Beta-blockers,Obesity,155,97,66,38.4,71,160,Worsened
+Male,42,COPD,J45,Beta-blockers,Anemia,146,81,98,36.6,104,208,Worsened
+Female,63,Ischemic Heart Disease,N18,Physical therapy,Anemia,133,81,87,37.7,150,241,Improved
+Male,49,COPD,M19,Inhalers,Hyperlipidemia,159,99,83,38.1,133,266,Stable
+Female,66,Asthma,M19,Beta-blockers,Smoking,122,78,75,37.3,154,259,Worsened
+Female,76,Depression,M19,Antidepressants,Sleep Apnea,142,73,58,36.4,199,246,Improved
+Female,61,COPD,E11,Inhalers,Smoking,127,105,87,37.0,89,249,Improved
+Male,72,COPD,J45,Inhalers,Obesity,165,98,64,37.7,168,159,Stable
+Female,39,Depression,J45,Lifestyle changes,Sleep Apnea,138,66,101,38.7,111,170,Worsened
+Female,82,Depression,F32,Dialysis,,154,63,94,36.0,192,229,Improved
+Female,51,Depression,N18,ACE inhibitors,Hyperlipidemia,127,65,74,36.5,177,132,Improved
+Female,28,Hypertension,I10,Physical therapy,Obesity,175,105,77,38.2,161,211,Worsened
+Male,69,Osteoarthritis,I25,Lifestyle changes,Obesity,139,62,80,39.4,84,280,Improved
+Male,83,Osteoarthritis,E11,Physical therapy,,166,100,116,38.6,148,270,Worsened
+Male,77,Chronic Kidney Disease,N18,Dialysis,Anemia,164,75,87,38.3,79,158,Worsened
+Male,84,Asthma,N18,Lifestyle changes,Sleep Apnea,128,87,100,39.3,158,194,Improved
+Female,78,Depression,I25,Beta-blockers,,110,91,106,37.8,180,194,Stable
+Male,29,Osteoarthritis,I10,ACE inhibitors,Obesity,163,66,104,38.5,163,164,Stable
+Female,64,Chronic Kidney Disease,J45,ACE inhibitors,Anemia,127,87,63,38.8,110,152,Worsened
+Female,71,Hypertension,N18,ACE inhibitors,Sleep Apnea,145,104,58,39.2,193,261,Improved
+Male,84,Ischemic Heart Disease,E11,Physical therapy,Smoking,126,72,116,36.0,122,248,Stable
+Male,60,Diabetes Mellitus,J45,Insulin,Anemia,112,81,70,38.0,186,248,Worsened
+Female,58,Hypertension,M19,Beta-blockers,,162,93,117,36.9,167,235,Stable
+Female,33,Chronic Kidney Disease,M19,Antidepressants,,168,100,62,37.2,172,189,Improved
+Female,64,Ischemic Heart Disease,I25,Lifestyle changes,Hyperlipidemia,143,92,79,38.5,191,139,Improved
+Male,75,Ischemic Heart Disease,I10,ACE inhibitors,Smoking,122,106,104,36.4,167,249,Stable
+Male,18,Ischemic Heart Disease,F32,Insulin,Hyperlipidemia,163,67,98,38.4,184,139,Improved
+Female,28,Asthma,I25,Antidepressants,,161,70,104,37.9,148,241,Improved
+Male,56,COPD,F32,Inhalers,Smoking,142,102,101,37.1,189,236,Stable
+Female,89,Ischemic Heart Disease,J44,Dialysis,Smoking,178,80,66,38.5,153,238,Stable
+Female,63,COPD,I25,ACE inhibitors,,168,90,93,37.5,138,147,Worsened
+Female,67,Diabetes Mellitus,E11,Antidepressants,Smoking,105,68,62,38.4,97,278,Worsened
+Male,50,COPD,M19,Physical therapy,Sleep Apnea,146,98,112,39.0,71,132,Worsened
+Female,79,Hypertension,J44,Insulin,Anemia,180,82,70,39.0,129,202,Stable
+Male,51,Chronic Kidney Disease,E11,ACE inhibitors,,140,62,105,36.9,190,181,Improved
+Female,30,Ischemic Heart Disease,I25,Dialysis,Obesity,143,104,97,39.3,189,132,Worsened
+Female,38,Chronic Kidney Disease,F32,Lifestyle changes,Smoking,160,73,69,37.0,96,219,Improved
+Male,30,Chronic Kidney Disease,I25,Antidepressants,Sleep Apnea,134,82,106,39.0,178,255,Improved
+Male,90,Asthma,F32,Beta-blockers,,170,70,69,36.3,136,234,Stable
+Female,19,Asthma,N18,Dialysis,Obesity,171,97,86,36.3,104,189,Stable
+Male,56,Osteoarthritis,N18,Antidepressants,Sleep Apnea,178,74,68,37.7,95,219,Improved
+Male,86,Ischemic Heart Disease,J45,ACE inhibitors,Sleep Apnea,115,106,62,38.2,144,204,Improved
+Male,18,Hypertension,M19,Antidepressants,Smoking,115,97,88,38.2,117,149,Worsened
+Female,21,Ischemic Heart Disease,M19,Inhalers,Hyperlipidemia,119,88,96,38.2,118,220,Stable
+Female,79,Hypertension,M19,Beta-blockers,Obesity,113,88,93,37.6,73,165,Worsened
+Female,63,Ischemic Heart Disease,N18,Lifestyle changes,Smoking,120,78,59,36.6,197,252,Improved
+Female,25,COPD,I25,Beta-blockers,Obesity,106,94,115,39.1,105,180,Stable
+Female,53,COPD,F32,Dialysis,Smoking,140,92,55,36.2,165,162,Stable
+Male,80,Osteoarthritis,J45,Antidepressants,Hyperlipidemia,127,76,101,36.3,194,180,Worsened
+Male,69,Diabetes Mellitus,J44,Physical therapy,,133,95,64,36.4,147,131,Stable
+Female,42,Osteoarthritis,E11,Dialysis,Smoking,136,98,100,37.6,91,195,Improved
+Male,34,Hypertension,F32,Antidepressants,,148,75,87,37.0,153,130,Improved
+Male,62,Diabetes Mellitus,I10,Antidepressants,Obesity,180,63,118,36.4,195,252,Improved
+Male,33,Depression,N18,Inhalers,Hyperlipidemia,125,88,109,36.2,103,185,Worsened
+Male,87,COPD,J44,Lifestyle changes,Obesity,180,92,92,38.3,182,132,Stable
+Male,52,Osteoarthritis,F32,Dialysis,,130,102,95,36.6,133,249,Worsened
+Female,22,Diabetes Mellitus,I10,ACE inhibitors,Anemia,111,109,112,36.8,104,233,Stable
+Male,77,Hypertension,F32,ACE inhibitors,Hyperlipidemia,180,70,74,39.2,130,253,Improved
+Male,65,COPD,E11,Inhalers,Sleep Apnea,111,66,104,38.1,72,262,Improved
+Male,66,Diabetes Mellitus,I25,Antidepressants,Anemia,157,92,72,37.0,162,209,Worsened
+Female,21,COPD,J44,ACE inhibitors,Obesity,136,69,55,39.1,126,147,Stable
+Male,20,Osteoarthritis,J45,Antidepressants,Hyperlipidemia,142,97,115,36.8,135,183,Worsened
+Male,44,Depression,N18,Inhalers,Sleep Apnea,143,91,83,37.9,184,227,Improved
+Male,74,Chronic Kidney Disease,I10,Insulin,Hyperlipidemia,111,72,82,38.5,162,273,Improved
+Female,71,COPD,M19,Inhalers,Hyperlipidemia,103,90,73,39.0,169,161,Stable
+Female,65,Depression,F32,ACE inhibitors,Sleep Apnea,112,103,71,39.2,81,227,Stable
+Male,46,COPD,J45,Lifestyle changes,,127,74,83,36.3,118,205,Stable
+Female,41,Depression,I25,Lifestyle changes,,146,106,97,36.4,92,193,Improved
+Male,75,Depression,I10,Insulin,Smoking,166,83,115,36.5,82,170,Stable
+Male,73,Ischemic Heart Disease,J44,Inhalers,Obesity,176,61,107,37.5,187,219,Stable
+Male,63,COPD,E11,ACE inhibitors,Obesity,169,79,84,36.4,77,175,Stable
+Male,36,Depression,N18,Inhalers,Smoking,175,103,88,36.8,96,201,Improved
+Female,46,Osteoarthritis,E11,Physical therapy,Smoking,155,92,104,37.2,143,135,Stable
+Male,77,Hypertension,N18,Inhalers,Hyperlipidemia,121,110,102,36.5,154,149,Stable
+Female,49,Diabetes Mellitus,I25,Inhalers,Obesity,124,90,72,36.8,93,228,Worsened
+Male,85,Ischemic Heart Disease,E11,Antidepressants,Obesity,141,92,118,36.5,76,247,Improved
+Male,83,Asthma,E11,Beta-blockers,Obesity,179,63,96,37.4,196,248,Stable
+Female,75,Hypertension,I25,Beta-blockers,Anemia,151,63,109,37.1,167,213,Worsened
+Female,66,Depression,F32,Physical therapy,Obesity,154,109,68,38.2,185,199,Improved
+Female,61,Depression,M19,ACE inhibitors,Smoking,138,97,102,38.9,187,185,Stable
+Male,27,Diabetes Mellitus,J45,Inhalers,Smoking,121,104,98,37.5,90,153,Worsened
+Male,69,COPD,J44,Inhalers,Obesity,158,104,55,36.6,153,207,Improved
+Female,37,Hypertension,J44,Antidepressants,Smoking,125,69,118,38.6,112,185,Worsened
+Male,29,Asthma,I10,Lifestyle changes,Sleep Apnea,176,99,104,38.8,79,197,Improved
+Male,45,Diabetes Mellitus,E11,Physical therapy,Hyperlipidemia,106,107,78,37.9,83,196,Worsened
+Male,64,Hypertension,M19,Inhalers,,159,110,95,36.2,98,132,Worsened
+Male,50,Asthma,E11,Dialysis,Obesity,165,76,69,37.7,129,134,Stable
+Female,73,COPD,N18,Physical therapy,,154,101,118,36.8,127,246,Stable
+Female,56,Depression,M19,Lifestyle changes,Anemia,122,94,110,38.3,89,139,Improved
+Female,79,Asthma,F32,Physical therapy,Obesity,132,95,61,36.9,194,253,Stable
+Female,82,Ischemic Heart Disease,J44,Beta-blockers,Hyperlipidemia,123,64,94,37.8,170,249,Worsened
+Male,77,Diabetes Mellitus,F32,Dialysis,Sleep Apnea,100,101,106,38.9,134,147,Worsened
+Female,58,Diabetes Mellitus,J45,Insulin,Sleep Apnea,151,68,80,37.0,113,180,Worsened
+Female,47,Diabetes Mellitus,N18,Beta-blockers,Obesity,176,74,100,39.4,137,264,Worsened
+Female,80,Diabetes Mellitus,F32,Physical therapy,Hyperlipidemia,126,109,105,37.7,125,130,Improved
+Female,58,Depression,J45,Antidepressants,Smoking,164,76,76,39.4,177,259,Worsened
+Female,29,Hypertension,N18,Antidepressants,Smoking,117,72,59,37.8,117,169,Stable
+Male,38,Hypertension,E11,ACE inhibitors,,142,106,56,39.2,94,205,Improved
+Male,50,Chronic Kidney Disease,J45,Physical therapy,Obesity,113,61,59,36.5,160,201,Improved
+Male,30,Asthma,I10,Dialysis,Obesity,155,73,74,36.4,184,184,Improved
+Male,72,Hypertension,J45,ACE inhibitors,,111,97,103,38.8,171,248,Worsened
+Female,43,Asthma,I25,Physical therapy,,175,108,85,37.8,169,274,Improved
+Male,25,Ischemic Heart Disease,N18,Insulin,Hyperlipidemia,114,76,65,38.2,96,270,Improved
+Male,22,Osteoarthritis,I25,Inhalers,Hyperlipidemia,146,81,77,38.7,92,250,Improved
+Male,88,Ischemic Heart Disease,J45,Dialysis,Smoking,105,64,89,38.8,89,141,Stable
+Male,72,Asthma,J44,ACE inhibitors,Anemia,106,82,86,38.6,147,239,Improved
+Female,71,Diabetes Mellitus,F32,Inhalers,Smoking,163,108,114,36.1,197,262,Worsened
+Female,54,Ischemic Heart Disease,I25,Insulin,Sleep Apnea,176,99,102,39.2,99,174,Worsened
+Female,29,Hypertension,E11,Insulin,Obesity,172,106,73,36.4,80,269,Worsened
+Female,67,COPD,J45,Antidepressants,,165,101,90,38.6,97,173,Worsened
+Female,71,Depression,J45,Insulin,Hyperlipidemia,129,83,93,38.0,146,226,Stable
+Female,20,Hypertension,J45,Dialysis,Smoking,104,60,107,37.7,81,217,Worsened
+Female,67,COPD,J44,Lifestyle changes,,170,101,109,36.6,115,279,Worsened
+Female,82,Chronic Kidney Disease,N18,Dialysis,Obesity,137,65,116,36.9,118,161,Improved
+Male,34,Diabetes Mellitus,I25,Antidepressants,Anemia,130,106,58,38.0,84,244,Stable
+Male,52,Asthma,J44,Insulin,Smoking,165,94,106,38.0,95,183,Worsened
+Male,85,Depression,E11,Antidepressants,Obesity,138,69,119,36.9,108,257,Improved
+Male,40,Osteoarthritis,F32,Insulin,Hyperlipidemia,147,90,112,37.6,80,250,Stable
+Male,55,Osteoarthritis,I10,Inhalers,Sleep Apnea,122,67,96,36.9,186,145,Improved
+Female,20,COPD,J45,ACE inhibitors,Anemia,133,82,60,39.4,149,159,Improved
+Female,38,Diabetes Mellitus,J44,Dialysis,Sleep Apnea,106,71,101,39.3,100,139,Stable
+Female,29,Hypertension,F32,Lifestyle changes,Hyperlipidemia,111,95,81,37.5,159,157,Improved
+Male,36,Ischemic Heart Disease,J45,Beta-blockers,Anemia,128,107,69,37.6,85,138,Worsened
+Male,21,Ischemic Heart Disease,I25,Dialysis,Sleep Apnea,110,97,86,37.7,188,187,Improved
+Male,67,Ischemic Heart Disease,F32,Antidepressants,Hyperlipidemia,144,68,93,37.0,159,177,Improved
+Female,19,Depression,I25,Inhalers,Hyperlipidemia,137,108,103,36.2,175,210,Worsened
+Female,52,Osteoarthritis,I25,Physical therapy,,150,98,110,37.8,116,274,Improved
+Male,52,Depression,E11,Physical therapy,Hyperlipidemia,166,100,68,36.1,152,131,Stable
+Male,20,Depression,N18,Dialysis,Obesity,137,67,58,39.4,90,249,Worsened
+Female,86,Hypertension,J44,Beta-blockers,Obesity,147,92,71,36.3,133,161,Stable
+Female,63,Asthma,J45,Physical therapy,Obesity,127,88,96,37.1,100,167,Improved
+Female,57,Diabetes Mellitus,I25,Insulin,Smoking,127,88,77,38.5,172,207,Improved
+Female,85,Asthma,E11,Antidepressants,Smoking,161,109,71,37.9,181,176,Stable
+Male,18,Chronic Kidney Disease,E11,Insulin,Sleep Apnea,179,77,97,37.9,165,277,Stable
+Male,19,Hypertension,M19,Inhalers,Obesity,151,91,94,37.3,77,259,Worsened
+Male,86,COPD,M19,Inhalers,,105,85,105,37.0,110,169,Stable
+Female,79,COPD,E11,Antidepressants,Obesity,108,61,72,37.5,155,149,Worsened
+Male,38,Asthma,E11,Insulin,Obesity,107,107,59,36.2,125,157,Improved
+Male,59,Diabetes Mellitus,I10,Physical therapy,Hyperlipidemia,157,85,120,36.9,79,269,Stable
+Male,81,Depression,N18,Beta-blockers,Obesity,175,76,101,39.0,124,148,Improved
+Male,21,Hypertension,J45,Physical therapy,Sleep Apnea,120,83,100,39.2,102,192,Improved
+Female,58,Chronic Kidney Disease,J44,ACE inhibitors,Anemia,109,107,85,36.8,87,247,Improved
+Male,18,Ischemic Heart Disease,E11,Insulin,Hyperlipidemia,109,79,89,36.8,124,215,Improved
+Male,43,Chronic Kidney Disease,N18,Inhalers,Anemia,153,66,105,37.6,191,273,Worsened
+Male,18,Asthma,I25,ACE inhibitors,Obesity,113,64,104,36.5,98,241,Worsened
+Female,20,Chronic Kidney Disease,J44,Insulin,Anemia,142,87,75,37.9,159,271,Improved
+Female,63,Ischemic Heart Disease,F32,Physical therapy,,139,76,61,36.6,131,206,Worsened
+Female,19,Asthma,I10,Dialysis,,122,91,112,37.6,123,170,Stable
+Male,76,Asthma,I25,Beta-blockers,,132,102,58,36.2,125,204,Improved
+Male,82,Osteoarthritis,I25,Physical therapy,,113,101,77,37.1,138,276,Stable
+Female,43,COPD,I25,Insulin,Anemia,168,94,103,37.0,120,218,Stable
+Male,78,Chronic Kidney Disease,J45,Dialysis,Obesity,123,74,61,38.8,188,173,Worsened
+Male,75,Hypertension,F32,Inhalers,Smoking,127,66,93,39.0,96,256,Improved
+Male,43,Depression,I10,Beta-blockers,Smoking,158,102,99,38.7,139,249,Worsened
+Male,43,Chronic Kidney Disease,J45,Antidepressants,Obesity,105,108,86,36.9,100,175,Stable
+Female,24,Asthma,J45,Insulin,Smoking,119,93,58,37.0,171,244,Improved
+Female,70,COPD,F32,ACE inhibitors,Hyperlipidemia,154,89,117,39.3,133,173,Stable
+Female,30,COPD,J45,Dialysis,Obesity,119,86,56,38.0,92,140,Stable
+Female,63,Depression,J45,Antidepressants,Hyperlipidemia,142,107,114,36.7,160,264,Stable
+Female,40,COPD,J44,Dialysis,Smoking,157,71,109,38.2,175,227,Improved
+Female,53,Ischemic Heart Disease,M19,Beta-blockers,Obesity,139,101,114,37.4,195,222,Stable
+Male,86,COPD,J45,Physical therapy,Anemia,169,63,65,36.6,106,204,Improved
+Male,46,Chronic Kidney Disease,I10,Physical therapy,Anemia,110,80,75,38.2,84,167,Worsened
+Female,33,Diabetes Mellitus,F32,Beta-blockers,,161,105,114,36.1,98,255,Improved
+Female,25,COPD,F32,Beta-blockers,Hyperlipidemia,125,78,69,38.0,150,244,Stable
+Male,47,Diabetes Mellitus,N18,Inhalers,Smoking,100,95,56,36.5,190,240,Improved
+Female,18,COPD,M19,Lifestyle changes,Hyperlipidemia,172,100,116,37.3,104,146,Improved
+Male,82,Chronic Kidney Disease,F32,Dialysis,Hyperlipidemia,168,73,55,37.8,88,185,Improved
+Male,52,Ischemic Heart Disease,F32,Insulin,Obesity,109,94,85,37.3,104,274,Stable
+Male,66,Diabetes Mellitus,J44,Inhalers,Smoking,125,110,117,36.6,172,242,Worsened
+Female,76,Asthma,I10,Inhalers,Anemia,159,67,99,37.3,108,238,Stable
+Female,34,Diabetes Mellitus,N18,Dialysis,,147,81,61,38.0,85,133,Worsened
+Female,40,Depression,I25,Beta-blockers,Anemia,162,97,120,38.5,160,188,Improved
+Male,46,Depression,E11,Inhalers,Obesity,143,101,88,38.6,80,274,Stable
+Male,50,COPD,I10,ACE inhibitors,Sleep Apnea,126,87,110,38.5,77,273,Improved
+Male,84,Osteoarthritis,I10,Antidepressants,Obesity,175,79,94,36.9,127,131,Stable
+Female,88,Depression,I10,Dialysis,Sleep Apnea,117,100,79,39.2,158,141,Worsened
+Male,79,COPD,N18,Inhalers,Smoking,158,72,62,36.5,137,205,Worsened
+Female,65,Ischemic Heart Disease,M19,Inhalers,Sleep Apnea,162,68,62,36.6,78,238,Improved
+Female,25,Diabetes Mellitus,I10,Insulin,Anemia,160,85,112,38.3,71,232,Worsened
+Male,63,Hypertension,J45,Dialysis,,125,94,109,37.0,158,135,Stable
+Female,61,Asthma,J45,Inhalers,Hyperlipidemia,164,89,91,38.8,168,141,Worsened
+Female,80,COPD,M19,Antidepressants,Anemia,117,64,118,37.8,84,208,Improved
+Male,44,Hypertension,N18,Inhalers,Obesity,108,91,61,37.7,121,141,Stable
+Male,37,Osteoarthritis,M19,Dialysis,Anemia,177,86,70,36.6,79,223,Worsened
+Male,60,Chronic Kidney Disease,J45,Beta-blockers,Anemia,106,66,102,37.8,184,175,Improved
+Male,34,COPD,F32,Physical therapy,Hyperlipidemia,141,61,63,36.3,88,145,Improved
+Male,63,Asthma,I10,Inhalers,Anemia,153,64,80,37.1,169,152,Worsened
+Male,46,Hypertension,I10,Inhalers,Obesity,101,75,62,37.0,128,156,Worsened
+Male,40,Asthma,N18,Lifestyle changes,,120,70,87,36.5,146,137,Improved
+Male,51,COPD,I10,ACE inhibitors,Obesity,110,94,61,37.9,178,246,Stable
+Male,87,COPD,F32,Physical therapy,,146,104,118,39.1,169,216,Improved
+Male,43,Osteoarthritis,M19,Beta-blockers,Sleep Apnea,135,83,64,38.8,160,219,Stable
+Female,73,Osteoarthritis,M19,Physical therapy,Hyperlipidemia,177,106,105,36.9,124,201,Stable
+Female,87,Depression,E11,Inhalers,Sleep Apnea,155,99,76,37.7,123,212,Worsened
+Male,37,COPD,I10,ACE inhibitors,Obesity,112,102,93,38.1,158,280,Stable
+Female,37,Osteoarthritis,F32,Beta-blockers,,164,81,69,37.3,177,192,Stable
+Female,79,Hypertension,J45,Dialysis,Sleep Apnea,162,99,119,36.2,131,205,Improved
+Female,50,Asthma,J44,ACE inhibitors,Obesity,164,79,64,38.1,187,136,Improved
+Female,43,Ischemic Heart Disease,N18,ACE inhibitors,,124,94,57,38.7,119,254,Worsened
+Female,87,Osteoarthritis,J45,Insulin,Hyperlipidemia,126,93,72,36.9,196,207,Improved
+Female,38,COPD,I10,Insulin,Smoking,101,69,111,37.4,194,159,Worsened
+Female,31,Diabetes Mellitus,J45,Physical therapy,,154,80,91,38.6,152,189,Stable
+Female,34,Depression,I10,Beta-blockers,Sleep Apnea,166,107,115,36.9,132,146,Stable
+Male,58,Diabetes Mellitus,J44,Physical therapy,,168,68,70,38.6,104,144,Stable
+Male,79,Chronic Kidney Disease,F32,Physical therapy,Hyperlipidemia,148,62,107,37.7,186,267,Stable
+Male,21,Ischemic Heart Disease,F32,ACE inhibitors,,106,98,75,39.2,84,275,Stable
+Female,87,Ischemic Heart Disease,I25,ACE inhibitors,Smoking,158,74,58,38.4,148,140,Stable
+Female,89,Chronic Kidney Disease,I25,Inhalers,Smoking,125,62,103,38.8,169,243,Worsened
+Male,58,Diabetes Mellitus,E11,ACE inhibitors,Obesity,171,83,71,37.7,83,275,Stable
+Male,33,Diabetes Mellitus,E11,Beta-blockers,Smoking,128,101,92,38.7,147,159,Improved
+Male,23,Chronic Kidney Disease,I25,Inhalers,Hyperlipidemia,114,60,103,36.1,166,237,Stable
+Female,27,Depression,M19,Insulin,,144,84,76,37.2,82,227,Stable
+Female,34,Hypertension,J45,Dialysis,Hyperlipidemia,165,65,111,37.6,137,190,Improved
+Female,32,Hypertension,J45,Antidepressants,Hyperlipidemia,101,81,62,36.8,78,259,Improved
+Female,85,Diabetes Mellitus,N18,Physical therapy,Anemia,105,82,90,36.5,157,153,Stable
+Female,70,Ischemic Heart Disease,I25,Lifestyle changes,Hyperlipidemia,148,70,110,37.2,185,141,Stable
+Male,50,COPD,J45,Insulin,Sleep Apnea,114,61,70,37.5,145,239,Worsened
+Male,45,Chronic Kidney Disease,M19,Beta-blockers,,112,95,62,37.1,152,273,Stable
+Female,60,Diabetes Mellitus,J44,Physical therapy,Anemia,139,98,89,38.4,132,219,Improved
+Female,34,Depression,F32,Insulin,Hyperlipidemia,180,62,92,36.5,72,188,Improved
+Female,39,COPD,M19,Insulin,Sleep Apnea,177,98,99,39.1,147,135,Improved
+Female,43,Depression,J44,ACE inhibitors,,172,73,72,37.3,148,179,Worsened
+Male,19,Chronic Kidney Disease,F32,Physical therapy,Hyperlipidemia,169,108,57,38.1,148,272,Improved
+Female,25,Diabetes Mellitus,J45,Inhalers,Sleep Apnea,180,81,102,39.2,173,167,Improved
+Male,88,Ischemic Heart Disease,F32,Inhalers,,137,80,85,38.8,160,152,Worsened
+Female,61,Ischemic Heart Disease,J44,Physical therapy,Hyperlipidemia,134,61,89,39.1,78,273,Stable
+Female,24,Osteoarthritis,J45,Antidepressants,Sleep Apnea,160,89,88,38.3,191,218,Stable
+Male,84,Osteoarthritis,E11,Antidepressants,,151,76,105,39.4,129,245,Improved
+Female,19,Diabetes Mellitus,J44,Antidepressants,Sleep Apnea,128,65,117,36.0,82,259,Improved
+Male,38,Diabetes Mellitus,I10,Antidepressants,,143,83,110,37.8,139,165,Stable
+Male,27,Diabetes Mellitus,J45,Inhalers,Smoking,154,96,107,37.5,77,235,Improved
+Male,58,Depression,I25,Antidepressants,Sleep Apnea,118,68,118,37.0,179,204,Stable
+Male,53,Depression,E11,Lifestyle changes,Obesity,123,85,70,36.3,133,167,Worsened
+Male,35,Asthma,M19,Lifestyle changes,Anemia,142,108,92,37.2,172,262,Stable
+Male,70,Osteoarthritis,J44,Lifestyle changes,Sleep Apnea,119,103,119,38.7,178,186,Stable
+Female,74,COPD,I25,Antidepressants,Smoking,165,102,90,39.1,77,204,Stable
+Female,27,Depression,N18,Insulin,,153,85,58,38.6,159,188,Stable
+Male,44,Osteoarthritis,F32,Inhalers,Smoking,105,74,97,36.5,80,184,Improved
+Male,52,Chronic Kidney Disease,I10,ACE inhibitors,Hyperlipidemia,116,104,58,37.4,183,174,Worsened
+Female,49,Osteoarthritis,J45,Lifestyle changes,Hyperlipidemia,124,93,60,36.6,168,134,Worsened
+Female,90,Chronic Kidney Disease,I25,Dialysis,Smoking,111,61,73,39.4,155,144,Worsened
+Female,50,Chronic Kidney Disease,I25,Antidepressants,Obesity,109,69,59,36.8,197,206,Worsened
+Male,73,Hypertension,E11,Antidepressants,Smoking,114,81,120,38.7,75,199,Improved
+Male,36,Chronic Kidney Disease,F32,Beta-blockers,,153,103,113,37.7,124,216,Worsened
+Female,90,COPD,J45,Physical therapy,Obesity,123,100,105,36.2,176,254,Worsened
+Female,48,Diabetes Mellitus,E11,Lifestyle changes,Smoking,122,83,72,36.5,115,143,Improved
+Female,23,Chronic Kidney Disease,I25,Lifestyle changes,Sleep Apnea,101,64,73,39.0,143,166,Worsened
+Male,75,COPD,E11,Lifestyle changes,Obesity,101,78,97,39.1,96,190,Improved
+Female,67,Hypertension,I25,Dialysis,,166,110,104,36.8,130,161,Improved
+Male,27,COPD,I10,Insulin,Hyperlipidemia,120,95,79,37.9,118,152,Improved
+Male,44,Asthma,J44,Dialysis,Anemia,176,93,85,38.1,163,199,Stable
+Male,78,Ischemic Heart Disease,I25,Physical therapy,Hyperlipidemia,108,80,106,38.6,139,161,Worsened
+Female,75,Diabetes Mellitus,J45,Physical therapy,Anemia,180,77,100,38.4,189,247,Improved
+Male,25,Osteoarthritis,I10,Lifestyle changes,Smoking,156,75,74,38.9,160,255,Improved
+Female,81,Chronic Kidney Disease,I25,ACE inhibitors,Obesity,127,91,89,38.9,80,141,Improved
+Male,49,Osteoarthritis,N18,Physical therapy,Smoking,177,76,112,38.1,157,225,Improved
+Male,32,COPD,I25,Physical therapy,,105,63,71,39.3,96,167,Improved
+Male,52,Hypertension,F32,Beta-blockers,Obesity,140,61,78,37.0,79,141,Worsened
+Male,42,COPD,I25,Antidepressants,Hyperlipidemia,136,99,106,36.1,85,194,Improved
+Male,74,Ischemic Heart Disease,J44,Dialysis,Smoking,105,109,119,36.9,114,189,Worsened
+Female,37,Depression,E11,Lifestyle changes,,101,99,64,37.0,198,237,Stable
+Male,55,Hypertension,J45,Insulin,Smoking,109,63,97,38.6,189,210,Worsened
+Female,46,Osteoarthritis,I25,Antidepressants,Sleep Apnea,127,106,91,38.1,123,154,Stable
+Female,63,Depression,M19,Insulin,,101,106,76,39.3,115,147,Worsened
+Male,57,Ischemic Heart Disease,I10,Beta-blockers,Obesity,138,80,67,39.0,102,268,Stable
+Female,48,Chronic Kidney Disease,F32,ACE inhibitors,Sleep Apnea,159,110,88,38.4,70,154,Improved
+Male,64,Depression,M19,ACE inhibitors,Sleep Apnea,143,84,80,36.4,182,277,Improved
+Male,90,Diabetes Mellitus,F32,Physical therapy,,127,103,92,38.8,188,269,Stable
+Male,42,Depression,M19,Antidepressants,Smoking,101,85,111,36.4,75,162,Worsened
+Male,55,Ischemic Heart Disease,F32,Insulin,Hyperlipidemia,110,67,115,39.1,175,263,Improved
+Male,36,Chronic Kidney Disease,I10,Inhalers,Anemia,159,93,60,39.2,97,196,Improved
+Female,35,Diabetes Mellitus,I10,Physical therapy,Smoking,134,77,63,38.8,133,238,Worsened
+Female,77,COPD,J45,Antidepressants,Hyperlipidemia,104,90,65,37.5,154,225,Worsened
+Male,75,Hypertension,M19,Lifestyle changes,Anemia,133,66,99,36.7,166,180,Worsened
+Male,20,Asthma,I25,Physical therapy,Obesity,121,108,77,38.0,76,233,Stable
+Male,47,Osteoarthritis,M19,Antidepressants,Smoking,145,68,72,39.4,129,214,Worsened
+Female,25,Diabetes Mellitus,M19,Dialysis,Hyperlipidemia,134,92,85,36.3,83,226,Worsened
+Male,59,Hypertension,E11,Antidepressants,Sleep Apnea,132,91,83,36.8,146,277,Worsened
+Female,51,Asthma,M19,Antidepressants,Hyperlipidemia,122,77,117,37.6,191,190,Worsened
+Male,84,Diabetes Mellitus,I10,Insulin,,147,107,70,38.0,173,274,Worsened
+Male,63,Asthma,E11,Lifestyle changes,,101,78,59,36.6,97,248,Improved
+Female,77,COPD,I25,Beta-blockers,,112,94,117,37.9,148,248,Stable
+Male,79,Asthma,M19,Inhalers,Hyperlipidemia,157,62,107,38.6,164,179,Worsened
+Male,23,Ischemic Heart Disease,J44,Inhalers,Sleep Apnea,180,95,73,38.4,98,181,Worsened
+Male,72,Hypertension,F32,Dialysis,,125,77,84,37.1,130,182,Stable
+Female,67,Hypertension,E11,Antidepressants,Obesity,130,89,96,37.7,103,242,Improved
+Male,27,Chronic Kidney Disease,F32,ACE inhibitors,,157,90,64,39.4,126,178,Stable
+Female,21,Chronic Kidney Disease,I10,Insulin,Obesity,150,86,114,36.9,94,186,Worsened
+Male,38,Osteoarthritis,N18,Lifestyle changes,,143,103,104,38.8,89,276,Stable
+Female,79,COPD,M19,Inhalers,Anemia,172,79,109,38.2,177,278,Stable
+Male,71,Ischemic Heart Disease,I10,Antidepressants,Obesity,154,101,80,37.4,113,210,Improved
+Male,45,Chronic Kidney Disease,I25,Antidepressants,Smoking,153,81,60,36.5,126,277,Stable
+Male,87,Diabetes Mellitus,E11,Physical therapy,Anemia,115,75,100,39.3,126,212,Improved
+Male,55,Depression,M19,Inhalers,Obesity,173,97,99,38.4,165,277,Worsened
+Male,74,Hypertension,N18,Antidepressants,Sleep Apnea,129,96,88,39.3,161,232,Improved
+Female,38,Osteoarthritis,N18,Physical therapy,Obesity,171,78,117,37.2,167,174,Stable
+Male,82,Asthma,F32,Insulin,Obesity,123,109,80,36.1,167,241,Worsened
+Female,54,COPD,M19,Antidepressants,Anemia,104,99,62,37.2,138,214,Stable
+Female,54,Hypertension,I10,Dialysis,Anemia,139,86,59,36.3,172,259,Worsened
+Male,22,Osteoarthritis,N18,Lifestyle changes,Sleep Apnea,149,62,77,39.1,104,272,Worsened
+Female,48,Osteoarthritis,J45,Beta-blockers,Sleep Apnea,172,103,116,37.2,167,254,Improved
+Male,41,COPD,J44,Insulin,Hyperlipidemia,165,92,82,36.6,119,140,Improved
+Female,60,Chronic Kidney Disease,J45,ACE inhibitors,Smoking,144,102,119,38.4,89,152,Stable
+Female,21,Diabetes Mellitus,N18,Inhalers,,115,76,57,38.1,109,205,Improved
+Female,52,Depression,F32,Physical therapy,Anemia,163,82,113,37.2,94,183,Improved
+Male,45,Chronic Kidney Disease,F32,Insulin,,172,93,56,38.9,138,243,Improved
+Male,59,Osteoarthritis,M19,Antidepressants,Obesity,116,106,111,37.5,116,138,Improved
+Male,45,Hypertension,M19,Beta-blockers,Sleep Apnea,142,86,75,37.2,188,215,Stable
+Male,36,Ischemic Heart Disease,N18,Dialysis,,154,71,71,38.1,163,214,Improved
+Female,62,Chronic Kidney Disease,F32,Dialysis,Sleep Apnea,120,102,70,37.5,199,231,Stable
+Male,22,Diabetes Mellitus,I10,Beta-blockers,Obesity,165,107,89,38.4,154,171,Improved
+Male,81,Ischemic Heart Disease,M19,Beta-blockers,Smoking,150,64,72,38.7,169,194,Stable
+Female,78,Asthma,M19,ACE inhibitors,,133,94,79,38.3,144,168,Improved
+Male,28,Hypertension,E11,Dialysis,Sleep Apnea,148,86,104,38.5,86,179,Worsened
+Male,57,Chronic Kidney Disease,N18,Antidepressants,Obesity,105,101,62,36.3,197,188,Stable
+Male,64,Asthma,E11,Antidepressants,Obesity,108,105,98,37.8,147,234,Worsened
+Female,18,Depression,M19,ACE inhibitors,,139,75,90,38.2,151,183,Improved
+Male,56,Diabetes Mellitus,I25,Antidepressants,Smoking,109,109,76,36.1,192,144,Improved
+Male,33,Hypertension,J44,Beta-blockers,Smoking,130,76,92,36.1,110,195,Stable
+Male,52,Asthma,M19,Lifestyle changes,Obesity,126,78,102,37.3,168,198,Stable
+Female,60,Hypertension,N18,Lifestyle changes,Anemia,102,91,113,37.2,89,279,Worsened
+Male,57,Depression,N18,Dialysis,Hyperlipidemia,157,63,85,36.2,123,249,Worsened
+Female,31,COPD,F32,Beta-blockers,Hyperlipidemia,100,62,117,36.1,143,162,Worsened
+Female,59,Chronic Kidney Disease,J45,Inhalers,Anemia,125,84,100,38.6,70,159,Improved
+Male,51,Depression,I25,ACE inhibitors,Anemia,160,82,60,37.7,186,231,Worsened
+Male,84,Osteoarthritis,I25,Beta-blockers,Anemia,171,100,58,39.1,75,227,Improved
+Male,33,COPD,F32,ACE inhibitors,Sleep Apnea,133,63,89,39.3,193,280,Stable
+Female,28,COPD,E11,Dialysis,Anemia,106,91,60,37.7,138,268,Improved
+Female,64,Diabetes Mellitus,F32,Inhalers,Smoking,172,104,79,37.7,182,188,Improved
+Female,60,Diabetes Mellitus,N18,Dialysis,Sleep Apnea,174,81,106,37.8,173,160,Worsened
+Male,74,Diabetes Mellitus,M19,Inhalers,Smoking,145,71,65,36.2,176,251,Worsened
+Female,58,Hypertension,J44,Beta-blockers,Obesity,167,89,102,36.0,92,257,Stable
+Male,18,Ischemic Heart Disease,I10,Beta-blockers,Sleep Apnea,124,99,108,38.8,146,210,Worsened
+Male,64,Chronic Kidney Disease,E11,Lifestyle changes,,157,66,117,36.7,76,214,Improved
+Female,70,Ischemic Heart Disease,E11,Inhalers,Smoking,101,69,66,37.3,168,223,Worsened
+Female,57,Depression,J45,Antidepressants,Smoking,144,105,74,36.8,74,147,Worsened
+Male,71,Asthma,I10,Lifestyle changes,Anemia,129,107,113,36.5,138,193,Worsened
+Female,76,Chronic Kidney Disease,M19,ACE inhibitors,,149,73,110,36.8,168,261,Improved
+Female,86,COPD,J45,ACE inhibitors,,102,71,107,38.4,197,218,Improved
+Female,50,Diabetes Mellitus,M19,Physical therapy,Sleep Apnea,108,74,99,36.7,193,178,Worsened
+Female,25,Diabetes Mellitus,M19,Inhalers,Obesity,124,80,79,38.7,85,177,Stable
+Female,90,Depression,I25,Antidepressants,Sleep Apnea,135,62,102,37.5,138,163,Stable
+Female,24,Chronic Kidney Disease,F32,Antidepressants,Anemia,114,110,88,36.9,103,150,Stable
+Male,32,Osteoarthritis,I10,Physical therapy,Sleep Apnea,168,98,77,36.5,113,143,Worsened
+Female,69,Asthma,N18,Inhalers,Obesity,111,75,105,38.1,149,203,Improved
+Male,54,Depression,J44,ACE inhibitors,Hyperlipidemia,175,98,87,37.8,110,236,Stable
+Male,32,Osteoarthritis,N18,Beta-blockers,Smoking,177,88,95,36.2,101,268,Worsened
+Female,66,COPD,E11,Insulin,,136,84,92,37.9,109,250,Stable
+Male,88,Ischemic Heart Disease,J44,Beta-blockers,,114,88,70,36.7,75,211,Improved
+Male,89,Chronic Kidney Disease,N18,Antidepressants,Obesity,111,85,101,37.7,143,244,Stable
+Female,77,Osteoarthritis,M19,Physical therapy,Anemia,130,67,88,38.0,196,156,Worsened
+Female,44,Hypertension,J44,Lifestyle changes,Sleep Apnea,104,84,95,36.2,154,220,Stable
+Male,35,Osteoarthritis,N18,Insulin,Anemia,166,109,109,36.8,107,279,Worsened
+Female,52,Depression,F32,Lifestyle changes,Smoking,122,61,111,37.4,200,230,Improved
+Male,66,COPD,F32,Beta-blockers,Sleep Apnea,127,92,89,36.5,174,201,Worsened
+Female,45,Osteoarthritis,I10,Physical therapy,Smoking,119,81,112,38.1,185,153,Improved
+Female,47,Chronic Kidney Disease,J45,Dialysis,,116,72,110,39.4,78,164,Worsened
+Female,56,Diabetes Mellitus,J44,Insulin,,114,69,83,38.2,81,180,Stable
+Male,89,Diabetes Mellitus,M19,Physical therapy,Obesity,158,106,79,37.4,82,155,Stable
+Female,35,Asthma,J44,Physical therapy,,120,84,98,38.8,117,224,Worsened
+Female,30,Hypertension,E11,Beta-blockers,Anemia,125,93,85,36.6,178,164,Stable
+Male,18,Depression,I25,Beta-blockers,Sleep Apnea,125,107,112,37.1,199,261,Worsened
+Male,53,Osteoarthritis,F32,Beta-blockers,Smoking,129,62,91,36.8,152,232,Improved
+Male,33,COPD,J45,Inhalers,Smoking,160,60,89,36.0,149,201,Improved
+Female,45,Asthma,N18,Beta-blockers,,177,91,73,38.9,104,137,Worsened
+Male,59,Ischemic Heart Disease,I10,Antidepressants,Smoking,170,69,74,37.7,189,195,Worsened
+Female,57,Asthma,J45,Beta-blockers,Smoking,146,84,68,38.3,139,169,Improved
+Male,33,Diabetes Mellitus,J44,Beta-blockers,Smoking,121,89,94,37.8,131,163,Improved
+Female,73,Osteoarthritis,E11,Antidepressants,Sleep Apnea,145,103,119,38.0,100,203,Worsened
+Male,65,Chronic Kidney Disease,M19,Inhalers,Obesity,172,62,66,39.4,123,139,Stable
+Male,53,COPD,I25,Antidepressants,Obesity,128,72,110,37.0,73,211,Improved
+Female,44,Hypertension,J45,Antidepressants,Anemia,174,107,107,39.5,181,135,Improved
+Male,62,Diabetes Mellitus,N18,Beta-blockers,Hyperlipidemia,136,67,108,38.9,88,232,Stable
+Female,72,Chronic Kidney Disease,J45,Insulin,Smoking,165,97,67,39.4,178,233,Worsened
+Male,86,Diabetes Mellitus,F32,Lifestyle changes,,144,108,63,37.7,151,217,Stable
+Female,30,Chronic Kidney Disease,N18,Insulin,Smoking,126,86,96,37.0,192,132,Stable
+Female,32,Hypertension,N18,Dialysis,Anemia,138,82,60,36.9,74,268,Stable
+Male,63,Chronic Kidney Disease,M19,Insulin,Obesity,166,93,56,36.0,113,150,Stable
+Male,53,Osteoarthritis,F32,Lifestyle changes,Anemia,131,95,88,36.8,75,227,Improved
+Male,22,Chronic Kidney Disease,J44,Physical therapy,Hyperlipidemia,176,91,78,39.3,152,211,Improved
+Male,77,Ischemic Heart Disease,J44,Insulin,,130,109,75,37.5,159,218,Stable
+Male,82,Ischemic Heart Disease,F32,Inhalers,Smoking,126,92,77,39.4,100,248,Worsened
+Female,79,Diabetes Mellitus,I25,Dialysis,Obesity,119,73,86,38.0,198,228,Improved
+Female,77,Ischemic Heart Disease,N18,Antidepressants,Obesity,147,65,120,38.8,101,222,Improved
+Male,19,Hypertension,F32,Physical therapy,Anemia,179,78,109,36.1,156,243,Improved
+Female,74,COPD,J45,Antidepressants,Anemia,103,103,84,38.0,184,146,Worsened
+Female,71,Chronic Kidney Disease,N18,Inhalers,Anemia,116,75,93,39.4,189,254,Stable
+Female,49,Osteoarthritis,F32,Insulin,Sleep Apnea,136,65,90,39.1,73,275,Improved
+Male,31,Depression,E11,Inhalers,Smoking,103,89,70,37.5,152,216,Stable
+Male,34,Hypertension,J44,Antidepressants,Hyperlipidemia,123,61,73,38.4,136,226,Improved
+Male,85,Diabetes Mellitus,M19,Beta-blockers,Sleep Apnea,167,81,82,37.2,165,198,Worsened
+Female,53,Chronic Kidney Disease,M19,Insulin,Sleep Apnea,128,84,104,38.3,162,276,Stable
+Female,64,Chronic Kidney Disease,N18,Dialysis,Smoking,110,89,61,36.7,114,257,Stable
+Female,90,COPD,F32,Inhalers,Hyperlipidemia,110,95,76,37.3,154,200,Worsened
+Female,77,COPD,N18,Inhalers,Sleep Apnea,155,83,90,38.4,90,253,Improved
+Female,59,Chronic Kidney Disease,I10,Antidepressants,,140,76,103,36.4,136,232,Improved
+Male,50,Diabetes Mellitus,N18,Dialysis,Smoking,107,75,77,36.9,191,262,Stable
+Female,90,Osteoarthritis,E11,Antidepressants,Anemia,105,90,78,36.1,191,149,Stable
+Male,18,Asthma,I10,Beta-blockers,Anemia,162,110,100,38.9,147,169,Stable
+Male,51,Depression,F32,Inhalers,Hyperlipidemia,122,64,114,38.3,104,194,Stable
+Female,58,Chronic Kidney Disease,J44,Inhalers,Sleep Apnea,167,71,80,37.7,169,175,Improved
+Female,76,Hypertension,I25,Dialysis,Smoking,163,99,107,36.3,196,134,Improved
+Female,83,Asthma,E11,ACE inhibitors,Hyperlipidemia,153,72,65,36.7,137,210,Worsened
+Male,70,Ischemic Heart Disease,E11,Dialysis,,129,108,115,38.8,187,277,Worsened
+Male,73,Ischemic Heart Disease,M19,Insulin,Sleep Apnea,131,76,117,37.7,94,195,Improved
+Male,21,Hypertension,E11,Dialysis,Hyperlipidemia,127,103,116,36.1,82,212,Worsened
+Male,23,Diabetes Mellitus,J44,Physical therapy,Anemia,107,63,65,37.5,106,272,Stable
+Male,56,Depression,J44,Inhalers,Smoking,138,81,61,38.6,122,261,Stable
+Male,19,Depression,I25,Dialysis,Smoking,112,109,89,39.4,184,230,Improved
+Male,62,Depression,J44,Lifestyle changes,Obesity,146,73,77,38.4,91,271,Worsened
+Male,64,Diabetes Mellitus,J44,Beta-blockers,Obesity,149,99,119,38.5,78,134,Worsened
+Male,69,Depression,J45,Insulin,Obesity,122,73,94,37.9,180,262,Stable
+Male,48,Depression,M19,ACE inhibitors,Sleep Apnea,155,80,84,37.0,170,176,Stable
+Female,73,COPD,N18,Dialysis,Sleep Apnea,139,71,93,38.0,86,163,Stable
+Female,26,Ischemic Heart Disease,I10,Beta-blockers,Hyperlipidemia,143,76,76,38.1,184,177,Worsened
+Male,81,Asthma,M19,Beta-blockers,Smoking,133,65,63,36.2,166,180,Worsened
+Female,61,COPD,F32,Dialysis,Sleep Apnea,105,97,102,39.3,119,168,Improved
+Female,55,Asthma,M19,Dialysis,Obesity,116,89,112,37.6,77,280,Improved
+Female,85,Asthma,J44,Insulin,Anemia,163,83,66,37.3,162,143,Stable
+Female,89,Depression,J44,Inhalers,Obesity,173,63,57,38.9,131,218,Stable
+Male,52,Hypertension,F32,Lifestyle changes,,117,87,64,38.3,141,141,Stable
+Female,89,Osteoarthritis,I10,Inhalers,,137,97,60,38.9,82,175,Improved
+Male,34,COPD,I10,Beta-blockers,Smoking,176,81,76,37.9,172,191,Stable
+Male,81,Osteoarthritis,F32,Insulin,Smoking,148,99,105,37.6,77,186,Stable
+Male,73,COPD,F32,Insulin,Smoking,163,62,89,37.0,88,170,Improved
+Male,73,Diabetes Mellitus,I25,Beta-blockers,Sleep Apnea,121,96,55,38.8,165,184,Worsened
+Female,61,Diabetes Mellitus,F32,Physical therapy,Hyperlipidemia,156,94,114,36.9,129,214,Worsened
+Male,33,COPD,F32,Dialysis,Hyperlipidemia,117,105,70,36.4,113,189,Improved
+Female,56,Osteoarthritis,F32,Physical therapy,Smoking,107,76,112,37.6,178,154,Stable
+Male,62,COPD,E11,Dialysis,Anemia,118,97,57,39.3,132,139,Stable
+Female,46,Hypertension,N18,Beta-blockers,Anemia,170,88,58,38.1,176,160,Improved
+Female,88,Chronic Kidney Disease,N18,Dialysis,Anemia,109,105,79,36.1,192,233,Stable
+Female,71,Ischemic Heart Disease,N18,Antidepressants,Obesity,110,104,92,37.3,166,266,Improved
+Female,59,Chronic Kidney Disease,I25,Beta-blockers,,116,108,101,39.4,182,170,Worsened
+Female,83,Ischemic Heart Disease,J44,Antidepressants,Hyperlipidemia,107,97,83,36.9,122,178,Worsened
+Male,36,Osteoarthritis,I25,Beta-blockers,Sleep Apnea,142,71,113,39.0,170,207,Worsened
+Female,68,Asthma,J44,Lifestyle changes,,105,92,111,37.5,159,180,Stable
+Female,67,Ischemic Heart Disease,I25,Physical therapy,Anemia,164,106,106,36.3,162,159,Improved
+Male,51,Osteoarthritis,M19,ACE inhibitors,Obesity,125,66,71,36.6,156,246,Stable
+Male,68,Osteoarthritis,I10,Dialysis,Sleep Apnea,153,70,55,38.4,110,255,Worsened
+Male,45,Hypertension,I10,Physical therapy,Sleep Apnea,100,95,115,37.7,88,202,Stable
+Male,62,Diabetes Mellitus,E11,Inhalers,Sleep Apnea,109,64,88,38.1,140,132,Stable
+Female,23,Depression,I25,Dialysis,Anemia,166,89,80,37.0,177,144,Stable
+Male,78,Asthma,N18,Physical therapy,Sleep Apnea,175,101,74,37.9,105,247,Stable
+Male,78,Depression,I25,Antidepressants,Hyperlipidemia,169,82,96,38.8,133,179,Worsened
+Male,83,Depression,E11,Inhalers,,133,103,114,37.2,164,199,Stable
+Female,25,Hypertension,J45,Beta-blockers,Smoking,173,66,59,37.6,101,256,Improved
+Female,51,Chronic Kidney Disease,N18,Physical therapy,Hyperlipidemia,126,98,91,36.3,117,255,Improved
+Male,60,Osteoarthritis,E11,Antidepressants,Obesity,112,61,117,38.0,160,162,Improved
+Female,66,Hypertension,N18,Antidepressants,Sleep Apnea,150,67,106,39.5,156,218,Stable
+Female,21,Osteoarthritis,M19,Insulin,Hyperlipidemia,102,108,107,39.1,130,264,Stable
+Male,44,Osteoarthritis,J45,Dialysis,,165,86,69,36.8,81,242,Improved
+Male,41,Asthma,I10,Lifestyle changes,Smoking,131,90,83,38.0,185,243,Stable
+Female,86,Ischemic Heart Disease,M19,Dialysis,Anemia,103,71,84,36.2,111,195,Improved
+Female,58,Osteoarthritis,I10,Inhalers,Smoking,169,107,65,39.1,198,252,Worsened
+Male,34,Ischemic Heart Disease,N18,Dialysis,Anemia,147,73,105,37.3,125,184,Worsened
+Male,80,Chronic Kidney Disease,F32,Inhalers,Sleep Apnea,159,60,85,36.6,163,186,Improved
+Female,49,Chronic Kidney Disease,N18,Dialysis,Smoking,129,85,75,36.4,167,245,Worsened
+Male,75,Ischemic Heart Disease,N18,Lifestyle changes,Hyperlipidemia,156,68,117,39.2,107,231,Improved
+Male,63,Chronic Kidney Disease,I25,Physical therapy,Sleep Apnea,102,84,100,36.0,106,232,Stable
+Female,44,Osteoarthritis,J44,Insulin,Sleep Apnea,147,96,95,38.3,198,262,Stable
+Male,59,Ischemic Heart Disease,J45,Antidepressants,Hyperlipidemia,119,91,55,36.4,97,190,Worsened
+Male,75,COPD,N18,Beta-blockers,,123,87,106,39.5,187,242,Worsened
+Female,52,Ischemic Heart Disease,M19,Beta-blockers,Obesity,114,107,83,36.3,151,133,Improved
+Female,46,COPD,J44,Lifestyle changes,Hyperlipidemia,135,98,107,37.0,111,204,Stable
+Female,20,Depression,J45,Inhalers,Anemia,170,86,102,36.8,74,156,Improved
+Male,39,Chronic Kidney Disease,N18,Antidepressants,,130,87,58,39.0,160,190,Stable
+Male,20,Chronic Kidney Disease,I25,Inhalers,Hyperlipidemia,109,64,106,38.3,78,208,Improved
+Male,45,Chronic Kidney Disease,E11,Dialysis,,112,99,104,37.4,115,277,Worsened
+Male,85,Depression,J45,Lifestyle changes,Hyperlipidemia,100,88,57,38.2,167,253,Worsened
+Female,42,Depression,E11,Inhalers,Hyperlipidemia,118,96,86,38.6,155,238,Stable
+Male,86,Ischemic Heart Disease,E11,Antidepressants,Obesity,115,84,77,39.0,191,254,Stable
+Female,32,Hypertension,E11,Antidepressants,Hyperlipidemia,166,84,83,37.0,136,268,Worsened
+Male,58,Hypertension,I25,Insulin,Anemia,150,86,75,38.6,184,236,Stable
+Female,39,Asthma,I10,Beta-blockers,Hyperlipidemia,143,81,90,36.9,167,166,Worsened
+Male,83,Hypertension,N18,Dialysis,Anemia,130,108,58,37.9,199,240,Stable
+Male,42,Hypertension,N18,Lifestyle changes,,104,66,94,38.3,183,201,Stable
+Male,32,Asthma,J44,ACE inhibitors,Hyperlipidemia,106,87,109,38.0,83,192,Improved
+Female,85,Osteoarthritis,E11,Lifestyle changes,Sleep Apnea,168,87,101,38.4,93,194,Worsened
+Female,54,Ischemic Heart Disease,M19,Beta-blockers,Obesity,136,103,80,37.9,175,218,Stable
+Female,43,Asthma,N18,Insulin,Smoking,111,66,78,38.2,115,212,Stable
+Female,20,COPD,M19,Dialysis,Obesity,114,110,104,38.2,167,151,Worsened
+Female,79,Hypertension,N18,Physical therapy,Anemia,113,73,63,37.4,124,163,Worsened
+Female,30,Ischemic Heart Disease,N18,Insulin,Sleep Apnea,101,108,111,36.3,96,211,Stable
+Female,27,Hypertension,N18,Inhalers,Anemia,138,100,62,36.9,74,204,Stable
+Female,84,Asthma,N18,Inhalers,Sleep Apnea,135,94,67,37.1,151,267,Worsened
+Male,46,Osteoarthritis,M19,Inhalers,Hyperlipidemia,140,97,87,38.1,124,158,Improved
+Male,90,Ischemic Heart Disease,I25,Inhalers,Anemia,113,60,82,36.1,96,246,Improved
+Male,73,Diabetes Mellitus,J44,Antidepressants,Obesity,125,104,110,39.3,180,242,Worsened
+Female,40,COPD,J44,Inhalers,Anemia,124,60,111,38.0,84,180,Improved
+Male,58,Chronic Kidney Disease,I10,Antidepressants,Hyperlipidemia,162,81,78,38.1,141,276,Worsened
+Female,55,Depression,M19,ACE inhibitors,,153,67,112,37.8,110,233,Worsened
+Female,67,Hypertension,N18,Antidepressants,Obesity,100,97,97,37.8,164,228,Improved
+Female,39,Diabetes Mellitus,I10,Dialysis,Anemia,105,76,113,36.0,187,229,Improved
+Female,60,Hypertension,M19,ACE inhibitors,Obesity,105,110,58,37.6,87,264,Stable
+Male,26,Diabetes Mellitus,I10,Physical therapy,Anemia,105,105,92,36.0,167,223,Improved
+Male,33,Chronic Kidney Disease,E11,Physical therapy,,139,76,73,36.0,131,162,Stable
+Male,25,Diabetes Mellitus,I10,ACE inhibitors,Hyperlipidemia,155,93,113,37.5,91,215,Worsened
+Male,39,Asthma,N18,Insulin,Hyperlipidemia,139,88,99,38.4,95,225,Improved
+Female,38,Asthma,N18,Beta-blockers,Anemia,113,66,79,36.8,166,134,Worsened
+Male,43,Osteoarthritis,F32,Lifestyle changes,Obesity,122,98,118,36.1,104,225,Improved
+Male,67,Asthma,F32,Physical therapy,Sleep Apnea,146,63,72,39.3,153,147,Improved
+Male,85,Depression,J45,Lifestyle changes,Smoking,159,92,88,36.0,71,198,Stable
+Female,87,COPD,M19,Insulin,Hyperlipidemia,132,106,117,37.2,124,151,Improved
+Male,89,Depression,M19,ACE inhibitors,Obesity,118,87,118,39.1,172,166,Stable
+Male,75,Hypertension,N18,Lifestyle changes,Hyperlipidemia,100,108,116,38.3,112,200,Stable
+Male,40,Osteoarthritis,J45,Physical therapy,Obesity,126,104,110,37.1,142,167,Stable
+Male,43,Asthma,J44,Insulin,Obesity,152,63,104,39.2,109,187,Improved
+Female,78,Depression,I10,ACE inhibitors,,114,101,89,36.6,199,186,Improved
+Female,40,Diabetes Mellitus,E11,Physical therapy,Obesity,170,109,95,38.5,109,163,Worsened
+Female,34,Asthma,J44,Beta-blockers,Smoking,119,72,71,36.1,79,162,Worsened
+Female,46,Hypertension,J45,Beta-blockers,Sleep Apnea,140,102,59,37.6,98,199,Improved
+Female,22,COPD,E11,Lifestyle changes,Anemia,104,62,115,38.8,158,176,Improved
+Male,90,Ischemic Heart Disease,E11,Antidepressants,,120,65,55,37.4,173,145,Improved
+Male,51,COPD,N18,ACE inhibitors,Smoking,121,82,64,39.2,114,208,Worsened
+Female,71,Hypertension,N18,Beta-blockers,Anemia,127,92,79,38.0,149,225,Worsened
+Male,59,Chronic Kidney Disease,I10,Insulin,Sleep Apnea,135,92,85,37.4,132,237,Worsened
+Male,76,Ischemic Heart Disease,J45,Lifestyle changes,Anemia,179,105,108,37.9,170,253,Worsened
+Male,58,Hypertension,F32,Antidepressants,,110,65,95,37.0,189,278,Worsened
+Female,71,Ischemic Heart Disease,M19,ACE inhibitors,Smoking,122,73,114,37.9,82,176,Stable
+Male,81,Hypertension,I10,Dialysis,Smoking,131,97,93,37.9,80,147,Improved
+Male,89,Diabetes Mellitus,N18,Antidepressants,Anemia,130,78,65,38.2,144,254,Stable
+Female,61,Depression,F32,Beta-blockers,Smoking,154,77,90,38.5,200,216,Improved
+Male,59,Chronic Kidney Disease,I10,Beta-blockers,Smoking,151,88,56,38.4,159,275,Stable
+Female,77,Chronic Kidney Disease,N18,Dialysis,Anemia,118,71,67,37.9,184,270,Stable
+Female,23,Diabetes Mellitus,J45,Insulin,Anemia,157,92,67,39.0,125,220,Worsened
+Female,84,Asthma,I25,Antidepressants,Smoking,154,61,112,36.8,78,177,Improved
+Female,57,Depression,I10,Beta-blockers,,136,71,81,38.7,174,214,Stable
+Female,31,Asthma,J45,Lifestyle changes,Obesity,104,74,58,37.7,177,278,Worsened
+Female,89,Diabetes Mellitus,N18,Inhalers,,168,74,92,36.2,112,178,Stable
+Male,64,Hypertension,I25,Insulin,Sleep Apnea,100,105,120,37.0,152,152,Stable
+Female,37,Diabetes Mellitus,I25,Physical therapy,,121,97,82,38.2,177,245,Stable
+Female,18,Depression,E11,Lifestyle changes,,133,80,98,37.3,145,246,Improved
+Male,32,Diabetes Mellitus,M19,Physical therapy,Hyperlipidemia,173,108,62,39.4,152,133,Worsened
+Female,49,Chronic Kidney Disease,M19,ACE inhibitors,Anemia,126,81,102,36.4,123,231,Improved
+Male,59,Depression,F32,Antidepressants,Hyperlipidemia,120,88,105,37.7,156,250,Worsened
+Male,43,COPD,J45,Physical therapy,Sleep Apnea,117,97,70,37.2,78,245,Improved
+Female,76,Chronic Kidney Disease,E11,ACE inhibitors,Obesity,164,95,87,36.7,171,258,Worsened
+Male,79,Asthma,J45,Lifestyle changes,Sleep Apnea,154,72,99,36.5,133,142,Improved
+Male,61,Depression,J44,ACE inhibitors,Obesity,104,80,110,36.5,140,278,Improved
+Female,34,Diabetes Mellitus,I25,Inhalers,Hyperlipidemia,176,101,89,39.2,181,154,Stable
+Male,48,Ischemic Heart Disease,F32,ACE inhibitors,,169,80,77,36.9,175,217,Worsened
+Male,50,COPD,E11,ACE inhibitors,Smoking,145,63,94,38.7,124,226,Stable
+Female,44,Depression,J44,ACE inhibitors,Hyperlipidemia,155,104,101,37.3,197,147,Stable
+Female,82,Osteoarthritis,M19,Beta-blockers,Hyperlipidemia,127,67,58,36.5,130,248,Worsened
+Male,23,Depression,M19,Antidepressants,Obesity,152,75,102,37.4,191,236,Stable
+Male,52,Chronic Kidney Disease,M19,Insulin,Hyperlipidemia,159,69,91,36.5,95,179,Worsened
+Male,57,Chronic Kidney Disease,N18,ACE inhibitors,Smoking,121,62,85,37.4,163,262,Improved
+Male,81,Osteoarthritis,F32,Dialysis,Obesity,172,105,102,38.8,151,210,Worsened
+Male,35,Osteoarthritis,F32,ACE inhibitors,Smoking,160,76,94,38.2,110,272,Improved
+Male,82,Ischemic Heart Disease,I25,Inhalers,Smoking,154,80,113,36.1,102,211,Stable
+Female,35,Osteoarthritis,F32,Lifestyle changes,Obesity,106,63,91,36.1,124,215,Worsened
+Male,34,Hypertension,I10,Beta-blockers,Obesity,180,98,73,36.7,110,219,Worsened
+Female,45,Depression,I10,ACE inhibitors,Sleep Apnea,130,91,70,38.7,72,133,Worsened
+Male,73,Depression,E11,ACE inhibitors,Sleep Apnea,162,105,63,39.1,184,156,Stable
+Male,26,COPD,I25,ACE inhibitors,Obesity,167,63,88,36.5,70,211,Worsened
+Male,83,COPD,J44,Beta-blockers,Sleep Apnea,140,61,116,37.6,87,209,Improved
+Male,71,Hypertension,F32,Inhalers,Smoking,145,78,66,37.9,120,204,Improved
+Female,20,Osteoarthritis,J44,Beta-blockers,Anemia,128,97,56,36.1,180,151,Improved
+Female,47,Diabetes Mellitus,N18,Physical therapy,Hyperlipidemia,178,94,74,37.6,123,159,Worsened
+Female,73,COPD,J45,Dialysis,Obesity,121,67,82,39.0,191,163,Stable
+Female,81,Diabetes Mellitus,E11,Beta-blockers,Hyperlipidemia,116,87,110,37.8,136,150,Stable
+Male,21,Hypertension,F32,Lifestyle changes,Sleep Apnea,146,72,61,38.1,131,255,Stable
+Female,22,COPD,M19,ACE inhibitors,Obesity,115,104,102,38.2,181,192,Improved
+Male,38,Depression,N18,ACE inhibitors,,144,93,100,39.5,84,230,Worsened
+Male,90,Osteoarthritis,N18,Insulin,,178,74,103,36.3,81,216,Stable
+Female,26,Hypertension,N18,Antidepressants,Obesity,149,64,116,36.1,103,232,Worsened
+Female,84,Hypertension,E11,Lifestyle changes,,179,90,99,38.9,75,274,Worsened
+Female,26,Depression,F32,Insulin,Obesity,161,63,116,36.7,173,153,Stable
+Male,65,COPD,I10,Beta-blockers,Sleep Apnea,135,91,66,36.4,127,245,Improved
+Female,69,Osteoarthritis,J44,Antidepressants,Obesity,116,66,97,36.1,168,133,Improved
+Male,70,Chronic Kidney Disease,I25,Lifestyle changes,Sleep Apnea,150,88,114,39.3,107,174,Improved
+Female,27,Ischemic Heart Disease,E11,Dialysis,Obesity,151,82,57,39.4,77,245,Worsened
+Female,77,Hypertension,N18,Lifestyle changes,Obesity,151,91,93,36.1,85,233,Stable
+Female,70,Diabetes Mellitus,F32,Beta-blockers,Anemia,111,102,101,37.4,91,276,Improved
+Male,56,COPD,J44,Dialysis,Smoking,130,81,64,38.7,80,251,Worsened
+Female,29,COPD,F32,Insulin,Hyperlipidemia,171,99,80,39.3,102,236,Stable
+Female,75,Osteoarthritis,F32,Beta-blockers,,130,60,119,36.3,148,185,Worsened
+Male,83,Asthma,E11,Physical therapy,Anemia,118,99,88,37.1,174,165,Worsened
+Male,19,Chronic Kidney Disease,E11,Antidepressants,,172,82,64,37.6,175,212,Stable
+Male,18,Diabetes Mellitus,F32,ACE inhibitors,Obesity,114,60,110,36.8,172,218,Improved
+Female,76,Hypertension,J44,Antidepressants,Smoking,155,67,97,38.4,161,176,Worsened
+Female,48,COPD,F32,Dialysis,,145,106,95,37.3,195,237,Stable
+Male,22,COPD,J45,Antidepressants,Smoking,155,82,58,39.3,83,230,Stable
+Male,52,COPD,M19,Lifestyle changes,Obesity,104,89,73,37.4,95,161,Stable
+Female,66,Depression,F32,Insulin,,155,62,110,36.8,103,146,Improved
+Male,87,Asthma,F32,ACE inhibitors,Smoking,139,61,75,36.3,70,267,Stable
+Male,48,Ischemic Heart Disease,J45,Insulin,Sleep Apnea,122,83,85,37.0,135,139,Improved
+Female,86,Osteoarthritis,I10,Antidepressants,Anemia,160,81,67,37.4,158,171,Improved
+Female,56,COPD,J44,ACE inhibitors,,155,82,92,36.3,167,139,Stable
+Male,23,Ischemic Heart Disease,F32,Dialysis,Anemia,142,92,59,38.9,180,168,Stable
+Male,77,Depression,J44,Dialysis,Sleep Apnea,169,99,79,37.4,165,146,Stable
+Female,79,Osteoarthritis,J45,Antidepressants,Smoking,164,92,62,37.5,95,214,Worsened
+Male,25,Asthma,J44,ACE inhibitors,Smoking,143,71,62,38.4,96,152,Worsened
+Male,85,Diabetes Mellitus,E11,Physical therapy,Obesity,143,108,117,36.3,121,222,Improved
+Female,77,Depression,M19,Lifestyle changes,Smoking,121,104,98,36.6,90,186,Stable
+Female,29,Chronic Kidney Disease,I25,ACE inhibitors,Hyperlipidemia,154,94,80,38.4,152,241,Improved
+Male,45,Chronic Kidney Disease,F32,Physical therapy,Smoking,134,60,55,38.1,77,170,Improved
+Female,55,Diabetes Mellitus,J45,Lifestyle changes,,135,64,116,37.0,145,200,Stable
+Female,55,Depression,E11,Beta-blockers,Smoking,155,109,112,38.0,89,273,Improved
+Female,35,Diabetes Mellitus,M19,Lifestyle changes,Sleep Apnea,118,68,61,37.9,165,243,Worsened
+Male,38,COPD,J45,Beta-blockers,Smoking,123,77,109,39.2,125,158,Stable
+Female,36,Chronic Kidney Disease,F32,Antidepressants,Hyperlipidemia,159,68,59,36.3,131,170,Stable
+Female,79,Ischemic Heart Disease,J45,Beta-blockers,Sleep Apnea,125,102,72,37.4,134,155,Improved
+Male,48,Diabetes Mellitus,M19,Antidepressants,Sleep Apnea,168,64,81,37.8,112,130,Stable
+Male,20,Hypertension,J44,ACE inhibitors,Smoking,151,100,105,37.4,92,161,Improved
+Male,35,Osteoarthritis,I10,Inhalers,Sleep Apnea,126,62,92,38.5,141,174,Improved
+Female,54,COPD,J45,Beta-blockers,Smoking,125,80,88,36.3,175,276,Worsened
+Female,46,Chronic Kidney Disease,J44,Inhalers,Anemia,118,104,111,38.5,178,270,Improved
+Female,60,Chronic Kidney Disease,N18,Inhalers,Obesity,150,62,91,38.0,183,164,Improved
+Male,86,Osteoarthritis,F32,Physical therapy,,139,71,64,36.5,183,193,Worsened
+Male,19,Osteoarthritis,F32,ACE inhibitors,Obesity,100,109,78,38.3,192,250,Improved
+Male,27,Chronic Kidney Disease,E11,Physical therapy,,163,108,109,36.5,178,202,Worsened
+Female,29,COPD,I25,Lifestyle changes,Sleep Apnea,106,110,113,38.6,79,185,Improved
+Female,67,Hypertension,I25,Lifestyle changes,Smoking,132,100,109,37.8,161,193,Improved
+Female,19,Chronic Kidney Disease,N18,Inhalers,Smoking,153,63,56,38.4,185,179,Stable
+Female,32,Chronic Kidney Disease,N18,Lifestyle changes,Smoking,116,104,80,37.4,172,160,Worsened
+Male,84,Osteoarthritis,M19,Inhalers,Hyperlipidemia,103,74,113,37.1,95,233,Improved
+Female,41,Asthma,F32,Dialysis,Obesity,108,93,61,37.5,121,156,Stable
+Male,19,Asthma,I10,Insulin,Hyperlipidemia,169,83,101,36.8,92,196,Stable
+Female,40,Osteoarthritis,M19,Beta-blockers,Obesity,104,98,59,37.4,112,231,Improved
+Female,89,Osteoarthritis,M19,Antidepressants,Sleep Apnea,103,103,74,38.7,189,258,Worsened
+Female,34,Osteoarthritis,F32,Antidepressants,Smoking,173,79,68,37.4,152,194,Worsened
+Female,74,COPD,J45,Inhalers,Smoking,115,63,55,36.8,105,267,Improved
+Female,70,Hypertension,I10,Insulin,Smoking,142,63,89,36.6,110,140,Worsened
+Female,28,Diabetes Mellitus,J45,Antidepressants,Smoking,171,79,55,37.7,128,242,Worsened
+Female,60,Osteoarthritis,E11,Beta-blockers,Obesity,123,107,110,37.2,96,227,Worsened
+Male,20,COPD,I10,Beta-blockers,Obesity,138,90,109,39.1,72,279,Stable
+Female,78,Chronic Kidney Disease,M19,Physical therapy,Anemia,178,83,100,37.0,118,191,Worsened
+Female,42,Asthma,N18,Lifestyle changes,Hyperlipidemia,157,62,100,37.0,138,159,Worsened
+Female,31,Chronic Kidney Disease,I10,Insulin,,127,68,82,39.5,188,182,Improved
+Female,59,Ischemic Heart Disease,N18,Insulin,Obesity,158,105,118,37.5,71,230,Improved
+Female,82,COPD,J45,Inhalers,,125,106,59,38.4,124,205,Stable
+Female,72,Osteoarthritis,I10,Lifestyle changes,,122,89,59,36.0,86,269,Improved
+Female,41,Osteoarthritis,N18,Lifestyle changes,Anemia,129,82,98,39.4,86,144,Stable
+Female,75,Osteoarthritis,M19,Dialysis,Obesity,116,98,77,36.3,87,265,Stable
+Female,27,Depression,M19,Beta-blockers,Smoking,164,87,68,36.7,162,234,Stable
+Male,39,Chronic Kidney Disease,I25,Insulin,,153,107,56,38.6,147,253,Stable
+Male,22,Ischemic Heart Disease,M19,Dialysis,,132,73,106,39.4,75,210,Worsened
+Male,61,Asthma,N18,Insulin,Anemia,121,60,97,36.8,146,201,Improved
+Male,88,Ischemic Heart Disease,I10,Physical therapy,Smoking,169,80,120,38.2,191,206,Worsened
+Female,81,Hypertension,M19,Lifestyle changes,Obesity,120,108,77,39.0,197,137,Worsened
+Female,46,COPD,N18,Insulin,Anemia,175,82,88,37.1,180,138,Worsened
+Male,26,Asthma,N18,Beta-blockers,Anemia,159,81,66,38.8,89,279,Worsened
+Male,36,Hypertension,F32,Inhalers,Anemia,135,70,55,37.5,149,164,Improved
+Male,41,Osteoarthritis,E11,Lifestyle changes,Hyperlipidemia,129,88,116,37.1,117,176,Improved
+Female,87,Hypertension,M19,Insulin,Smoking,139,99,107,36.8,145,132,Worsened
+Female,61,Asthma,M19,Insulin,Hyperlipidemia,111,68,118,38.7,155,269,Worsened
+Male,74,Hypertension,M19,ACE inhibitors,Sleep Apnea,170,71,99,36.9,158,232,Improved
+Male,24,Chronic Kidney Disease,I10,Dialysis,Smoking,116,72,112,38.1,126,173,Stable
+Female,53,Asthma,I10,Inhalers,Obesity,126,66,66,37.4,139,280,Improved
+Male,62,Depression,J44,Insulin,Smoking,129,78,114,36.7,107,271,Worsened
+Male,56,Osteoarthritis,F32,Beta-blockers,Smoking,161,65,85,38.2,187,199,Worsened
+Female,43,COPD,I10,Antidepressants,Anemia,152,75,57,36.1,192,193,Stable
+Female,67,Chronic Kidney Disease,J45,ACE inhibitors,Sleep Apnea,116,69,110,38.1,178,200,Improved
+Male,57,Asthma,N18,Physical therapy,Sleep Apnea,128,107,109,39.1,87,179,Stable
+Female,77,Diabetes Mellitus,J45,Lifestyle changes,,134,101,78,36.3,195,133,Improved
+Female,49,Hypertension,J44,Inhalers,,126,109,77,37.5,114,245,Stable
+Female,84,Chronic Kidney Disease,M19,Antidepressants,Sleep Apnea,141,98,117,37.6,70,237,Worsened
+Male,50,Diabetes Mellitus,F32,Dialysis,Hyperlipidemia,106,109,71,39.2,154,142,Improved
+Female,39,Depression,I10,Inhalers,Smoking,103,78,70,37.7,125,246,Improved
+Female,71,COPD,E11,Beta-blockers,Smoking,124,65,79,36.4,161,185,Stable
+Male,84,Osteoarthritis,I25,Physical therapy,Sleep Apnea,101,101,62,38.4,169,225,Improved
+Male,43,Hypertension,F32,ACE inhibitors,Sleep Apnea,134,80,106,39.1,89,183,Stable
+Male,24,Diabetes Mellitus,E11,Beta-blockers,,114,96,113,39.0,92,184,Worsened
+Female,82,Depression,I25,Dialysis,Hyperlipidemia,111,100,81,39.0,182,241,Stable
+Male,63,Hypertension,I10,Physical therapy,,172,75,97,37.3,128,272,Worsened
+Female,30,Ischemic Heart Disease,F32,Insulin,Obesity,100,99,78,39.3,132,160,Worsened
+Male,32,Hypertension,E11,Inhalers,,159,68,118,37.7,177,225,Worsened
+Female,74,Asthma,F32,ACE inhibitors,,157,62,65,38.7,80,144,Improved
+Male,35,Ischemic Heart Disease,J44,Insulin,Sleep Apnea,101,96,98,38.3,101,234,Worsened
+Female,74,Ischemic Heart Disease,E11,Lifestyle changes,Obesity,120,90,83,37.1,131,245,Stable
+Female,38,Chronic Kidney Disease,F32,Physical therapy,Hyperlipidemia,179,98,83,38.8,178,195,Improved
+Male,53,Hypertension,E11,Insulin,Hyperlipidemia,168,98,55,39.1,85,222,Improved
+Female,73,Asthma,I25,Dialysis,Anemia,169,102,85,38.2,118,167,Worsened
+Female,83,Osteoarthritis,M19,Lifestyle changes,Obesity,150,85,58,38.7,133,202,Stable
+Male,70,Diabetes Mellitus,I25,Beta-blockers,,122,85,60,37.5,147,169,Improved
+Male,53,Chronic Kidney Disease,M19,Antidepressants,Sleep Apnea,142,85,61,38.5,180,247,Stable
+Male,86,COPD,J44,Lifestyle changes,Obesity,158,83,106,36.1,139,225,Stable
+Female,44,Depression,I25,Antidepressants,Anemia,110,104,57,36.7,120,178,Improved
+Female,49,Depression,M19,Lifestyle changes,Hyperlipidemia,157,68,84,36.3,119,155,Worsened
+Female,78,Osteoarthritis,I10,Antidepressants,,126,62,60,38.2,150,135,Improved
+Female,74,Asthma,F32,Insulin,Sleep Apnea,115,86,113,39.1,138,214,Improved
+Male,72,Osteoarthritis,E11,Inhalers,Obesity,177,63,94,36.5,147,244,Worsened
+Male,80,Osteoarthritis,J45,Lifestyle changes,Hyperlipidemia,121,101,58,37.1,97,230,Improved
+Male,61,Diabetes Mellitus,M19,Inhalers,Sleep Apnea,102,104,79,39.2,156,199,Stable
+Female,20,Ischemic Heart Disease,M19,Antidepressants,Sleep Apnea,178,69,72,37.5,80,138,Stable
+Female,50,Ischemic Heart Disease,E11,Physical therapy,Hyperlipidemia,108,91,72,38.8,193,277,Stable
+Female,62,Hypertension,N18,ACE inhibitors,Obesity,136,73,69,37.1,184,269,Improved
+Male,37,Depression,I10,Inhalers,Sleep Apnea,146,71,57,38.8,195,210,Improved
+Male,83,Ischemic Heart Disease,J44,Beta-blockers,Hyperlipidemia,126,110,61,39.2,75,131,Worsened
+Female,69,Hypertension,F32,Physical therapy,Sleep Apnea,159,106,79,37.5,184,202,Improved
+Male,44,Osteoarthritis,E11,Lifestyle changes,Sleep Apnea,101,106,118,36.5,140,191,Stable
+Female,75,Asthma,I10,Beta-blockers,Sleep Apnea,123,87,100,39.5,125,265,Improved
+Female,64,Osteoarthritis,I10,Dialysis,Sleep Apnea,173,108,60,39.3,110,168,Stable
+Female,44,Hypertension,J45,ACE inhibitors,Anemia,162,96,64,37.3,183,149,Improved
+Female,71,Osteoarthritis,I10,Insulin,Anemia,143,64,56,36.2,153,139,Worsened
+Male,46,COPD,J44,Inhalers,Hyperlipidemia,145,66,102,36.8,131,198,Improved
+Male,20,COPD,E11,Inhalers,,161,79,61,39.3,83,231,Improved
+Male,77,Depression,F32,Dialysis,Anemia,159,97,108,38.8,103,200,Stable
+Female,64,COPD,E11,Physical therapy,Hyperlipidemia,130,76,66,39.1,189,182,Stable
+Male,48,Ischemic Heart Disease,J44,Physical therapy,Anemia,164,96,81,36.4,122,191,Worsened
+Male,47,Ischemic Heart Disease,J44,Beta-blockers,Hyperlipidemia,114,71,61,36.1,129,177,Worsened
+Female,47,Ischemic Heart Disease,E11,ACE inhibitors,Anemia,159,96,115,36.4,120,167,Stable
+Female,27,Depression,I10,Physical therapy,Anemia,124,83,55,39.1,154,206,Stable
+Female,61,Osteoarthritis,E11,Lifestyle changes,Smoking,106,89,82,36.4,123,174,Worsened
+Male,67,Diabetes Mellitus,N18,Beta-blockers,Obesity,171,69,104,37.8,184,187,Stable
+Male,49,COPD,N18,Dialysis,,109,110,78,39.3,82,230,Worsened
+Male,89,Hypertension,J45,Beta-blockers,Hyperlipidemia,120,73,95,36.1,115,211,Worsened
+Female,85,Asthma,J44,Antidepressants,Smoking,101,101,85,36.3,192,199,Worsened
+Female,48,Diabetes Mellitus,J44,Physical therapy,,146,85,98,39.0,139,214,Worsened
+Male,42,Asthma,J45,Antidepressants,Hyperlipidemia,116,102,57,37.6,183,147,Stable
+Male,37,Osteoarthritis,J45,Insulin,Sleep Apnea,161,64,118,37.3,111,270,Improved
+Male,66,Diabetes Mellitus,I25,Beta-blockers,Smoking,169,74,85,37.0,128,247,Stable
+Female,67,Hypertension,F32,Dialysis,Hyperlipidemia,169,84,111,37.8,131,257,Worsened
+Female,50,Depression,I10,Insulin,Anemia,122,92,100,38.1,172,180,Stable
+Female,29,COPD,E11,Inhalers,,146,80,112,36.6,72,179,Worsened
+Female,28,COPD,J44,Antidepressants,Anemia,178,96,118,37.0,71,276,Stable
+Female,74,COPD,J45,Lifestyle changes,,135,72,84,37.7,182,178,Worsened
+Male,53,COPD,I10,ACE inhibitors,Obesity,149,106,59,38.3,109,279,Worsened
+Female,40,COPD,I10,Beta-blockers,Hyperlipidemia,163,60,71,39.2,172,163,Worsened
+Female,20,Depression,N18,Lifestyle changes,Smoking,167,85,88,36.4,89,231,Stable
+Female,18,Hypertension,I25,Lifestyle changes,Hyperlipidemia,130,85,67,36.9,108,223,Worsened
+Male,21,Diabetes Mellitus,J44,Antidepressants,,161,86,106,36.9,170,255,Stable
+Female,28,COPD,N18,Lifestyle changes,Smoking,175,110,92,38.8,189,200,Worsened
+Male,48,Ischemic Heart Disease,M19,Dialysis,Anemia,102,93,91,36.5,137,230,Worsened
+Female,89,Chronic Kidney Disease,M19,ACE inhibitors,Sleep Apnea,178,95,62,36.8,89,133,Stable
+Male,54,Osteoarthritis,J45,Lifestyle changes,Sleep Apnea,139,76,59,38.2,154,150,Stable
+Female,39,Chronic Kidney Disease,J45,Dialysis,,105,63,71,36.7,135,224,Worsened
+Female,49,Asthma,I10,Insulin,Obesity,153,110,65,37.3,198,243,Improved
+Male,80,Chronic Kidney Disease,N18,Antidepressants,Obesity,173,109,68,37.9,74,273,Worsened
+Male,58,Hypertension,I25,ACE inhibitors,,178,92,119,39.4,81,155,Improved
+Male,82,Hypertension,I25,Dialysis,Anemia,151,104,93,36.3,105,160,Worsened
+Male,60,Osteoarthritis,M19,ACE inhibitors,Anemia,106,68,71,36.1,88,222,Worsened
+Male,55,Diabetes Mellitus,E11,Physical therapy,Hyperlipidemia,123,68,70,37.8,103,276,Stable
+Female,77,Hypertension,J44,ACE inhibitors,,108,67,99,36.2,190,146,Worsened
+Male,48,Ischemic Heart Disease,E11,Inhalers,Smoking,178,70,99,38.5,131,251,Stable
+Female,50,Osteoarthritis,J44,Beta-blockers,Hyperlipidemia,157,88,76,37.2,133,263,Worsened
+Male,62,Chronic Kidney Disease,M19,Insulin,Sleep Apnea,129,110,57,36.7,152,158,Stable
+Female,58,Depression,J45,Lifestyle changes,Sleep Apnea,144,101,63,37.5,109,245,Improved
+Female,44,Ischemic Heart Disease,I25,Dialysis,Anemia,146,100,84,39.4,102,157,Improved
+Male,34,COPD,J45,Lifestyle changes,Obesity,129,65,61,39.4,177,250,Improved
+Male,59,Hypertension,E11,Inhalers,,130,83,89,39.0,172,170,Stable
+Female,32,Osteoarthritis,E11,Inhalers,Hyperlipidemia,109,82,82,39.3,152,183,Worsened
+Female,49,Hypertension,J44,Antidepressants,Sleep Apnea,126,100,89,39.3,116,226,Stable
+Female,64,Osteoarthritis,E11,Dialysis,Obesity,125,109,64,36.2,131,229,Worsened
+Female,55,Osteoarthritis,J45,Antidepressants,,172,110,63,37.8,176,185,Stable
+Male,30,Osteoarthritis,F32,Dialysis,Sleep Apnea,128,73,70,36.1,144,223,Stable
+Female,73,Hypertension,I25,Dialysis,Anemia,173,108,104,39.4,138,244,Worsened
+Female,60,Chronic Kidney Disease,J44,Dialysis,Anemia,113,87,78,38.8,85,243,Improved
+Male,34,Hypertension,J44,Physical therapy,Anemia,140,64,99,38.8,78,136,Improved
+Male,71,Chronic Kidney Disease,J45,Insulin,Smoking,135,92,76,37.8,144,138,Stable
+Female,63,Diabetes Mellitus,F32,Physical therapy,Obesity,119,65,82,38.2,123,212,Stable
+Female,64,Diabetes Mellitus,I10,Beta-blockers,Obesity,155,107,62,39.0,77,144,Improved
+Male,34,Diabetes Mellitus,J44,Inhalers,Sleep Apnea,142,75,68,38.9,111,223,Worsened
+Male,80,COPD,N18,Dialysis,Hyperlipidemia,144,90,74,38.5,156,141,Stable
+Male,65,Ischemic Heart Disease,I10,Physical therapy,Sleep Apnea,150,66,106,37.6,169,272,Improved
+Female,41,Asthma,E11,Inhalers,,152,91,107,38.3,189,273,Improved
+Female,63,Chronic Kidney Disease,J45,Antidepressants,Obesity,106,101,63,36.3,88,140,Stable
+Male,86,Asthma,I10,Antidepressants,Obesity,122,106,69,36.2,178,174,Improved
+Female,70,Osteoarthritis,M19,Beta-blockers,Smoking,101,67,66,36.5,169,224,Improved
+Female,87,Hypertension,I25,Lifestyle changes,Obesity,160,69,81,36.4,150,159,Improved
+Female,68,Chronic Kidney Disease,F32,Antidepressants,Smoking,169,95,73,38.5,185,270,Improved
+Male,65,Osteoarthritis,J45,Dialysis,,165,80,61,38.9,183,216,Stable
+Male,39,COPD,I10,ACE inhibitors,Hyperlipidemia,179,85,115,36.2,100,278,Stable
+Female,38,Diabetes Mellitus,I25,Inhalers,Obesity,100,96,116,38.8,179,148,Stable
+Female,34,Chronic Kidney Disease,N18,Inhalers,Obesity,153,89,80,38.3,192,220,Worsened
+Male,30,Chronic Kidney Disease,N18,ACE inhibitors,Sleep Apnea,153,75,99,38.8,110,256,Stable
+Female,69,Depression,F32,ACE inhibitors,Hyperlipidemia,110,73,100,38.9,81,188,Worsened
+Male,84,Osteoarthritis,I25,ACE inhibitors,Anemia,177,90,77,36.1,130,246,Stable
+Male,40,Asthma,M19,Beta-blockers,,163,89,68,37.8,110,157,Improved
+Male,41,Asthma,N18,Antidepressants,Obesity,168,87,99,38.2,84,222,Worsened
+Female,89,Hypertension,F32,Beta-blockers,Smoking,179,84,98,37.5,111,221,Worsened
+Male,24,Depression,M19,Inhalers,Anemia,123,82,107,36.0,109,159,Worsened
+Female,67,Hypertension,F32,Insulin,Sleep Apnea,179,78,91,37.6,109,233,Stable
+Female,18,Depression,N18,Insulin,,168,96,74,36.1,144,147,Worsened
+Female,46,COPD,M19,Insulin,Smoking,110,72,71,38.7,104,256,Stable
+Female,53,COPD,J44,Inhalers,Sleep Apnea,156,89,57,37.9,133,134,Improved
+Male,90,Chronic Kidney Disease,I10,Antidepressants,Sleep Apnea,176,60,112,37.7,100,254,Worsened
+Male,46,Depression,J44,Lifestyle changes,Sleep Apnea,137,63,119,38.7,86,267,Stable
+Male,82,Ischemic Heart Disease,F32,Beta-blockers,Hyperlipidemia,179,66,98,36.9,107,130,Stable
+Female,82,Hypertension,I10,Lifestyle changes,,161,96,64,37.9,74,162,Worsened
+Male,47,Osteoarthritis,I25,Lifestyle changes,Smoking,125,95,66,37.7,88,139,Stable
+Male,55,Ischemic Heart Disease,E11,Antidepressants,Smoking,154,87,67,36.6,142,273,Worsened
+Male,44,COPD,N18,Beta-blockers,Obesity,119,74,73,37.9,131,177,Stable
+Male,19,Osteoarthritis,E11,Lifestyle changes,Obesity,107,100,81,38.1,195,241,Stable
+Female,28,Asthma,F32,Antidepressants,Anemia,133,95,90,36.8,196,185,Worsened
+Male,69,Osteoarthritis,E11,Lifestyle changes,Sleep Apnea,121,73,67,37.8,71,177,Stable
+Female,53,Diabetes Mellitus,E11,Beta-blockers,Hyperlipidemia,125,62,76,39.3,132,256,Worsened
+Female,76,Ischemic Heart Disease,N18,ACE inhibitors,Sleep Apnea,160,77,85,36.8,198,255,Improved
+Female,21,Osteoarthritis,J44,ACE inhibitors,Sleep Apnea,159,84,61,38.2,169,244,Stable
+Female,71,COPD,J45,Physical therapy,Anemia,137,63,66,38.9,123,203,Stable
+Female,37,Osteoarthritis,I25,Lifestyle changes,Obesity,141,88,60,38.5,105,277,Worsened
+Male,79,Hypertension,I25,ACE inhibitors,Hyperlipidemia,119,61,107,37.2,135,218,Improved
+Female,50,COPD,M19,Antidepressants,Smoking,110,108,81,38.3,101,168,Stable
+Female,32,Diabetes Mellitus,J45,Physical therapy,Sleep Apnea,107,86,93,36.8,148,142,Stable
+Female,83,Depression,N18,Insulin,Sleep Apnea,147,100,60,37.8,145,245,Worsened
+Male,21,Depression,I10,Antidepressants,Hyperlipidemia,150,73,64,37.2,76,241,Worsened
+Male,58,Chronic Kidney Disease,J44,Inhalers,,176,89,110,37.7,142,266,Improved
+Female,83,COPD,J44,Physical therapy,Sleep Apnea,153,63,57,37.1,152,248,Stable
+Male,35,Chronic Kidney Disease,I25,Insulin,Obesity,174,68,106,39.2,138,176,Improved
+Male,63,Depression,J45,Physical therapy,Smoking,133,85,64,38.6,102,231,Worsened
+Male,48,Depression,J44,Physical therapy,Smoking,123,110,69,37.4,190,234,Stable
+Female,72,Chronic Kidney Disease,J45,Physical therapy,Sleep Apnea,164,105,84,38.0,97,179,Improved
+Male,55,Asthma,I25,Lifestyle changes,Hyperlipidemia,156,68,62,38.1,83,269,Improved
+Female,61,Asthma,J44,Insulin,,166,79,95,36.7,72,275,Improved
+Male,73,Osteoarthritis,I25,Inhalers,Obesity,152,109,61,38.8,106,159,Stable
+Female,42,COPD,N18,Antidepressants,Hyperlipidemia,119,93,58,37.7,117,195,Improved
+Female,66,Hypertension,J45,Insulin,,113,86,119,39.4,112,144,Worsened
+Male,72,Hypertension,M19,Lifestyle changes,Sleep Apnea,115,85,94,38.5,195,185,Stable
+Female,80,Chronic Kidney Disease,J44,Physical therapy,Sleep Apnea,114,83,74,38.6,70,261,Worsened
+Female,73,Diabetes Mellitus,F32,Physical therapy,,102,84,57,37.5,126,179,Stable
+Male,70,COPD,E11,Inhalers,Smoking,124,94,106,38.9,135,199,Improved
+Female,71,COPD,I25,Lifestyle changes,Smoking,163,66,68,36.9,84,204,Improved
+Male,74,COPD,F32,Beta-blockers,Sleep Apnea,137,90,119,37.7,168,199,Worsened
+Male,35,Hypertension,F32,Beta-blockers,,180,106,72,36.7,134,182,Stable
+Male,40,Chronic Kidney Disease,E11,Physical therapy,Hyperlipidemia,156,107,61,38.6,189,197,Improved
+Male,44,COPD,F32,Inhalers,Smoking,102,73,68,38.3,198,204,Worsened
+Male,46,Depression,J44,Beta-blockers,Smoking,112,103,113,37.2,98,161,Improved
+Male,47,COPD,J45,Insulin,,102,66,118,39.2,135,137,Worsened
+Female,68,Hypertension,N18,ACE inhibitors,Hyperlipidemia,122,61,99,38.8,153,225,Stable
+Male,35,Depression,M19,Beta-blockers,,158,72,61,38.2,142,162,Improved
+Female,22,Chronic Kidney Disease,I25,Inhalers,Smoking,160,105,90,36.7,107,166,Worsened
+Male,76,COPD,E11,Physical therapy,Smoking,158,91,70,37.6,82,266,Improved
+Female,75,Chronic Kidney Disease,J45,Insulin,,131,109,65,38.2,86,179,Worsened
+Male,61,Asthma,F32,Lifestyle changes,Hyperlipidemia,138,91,68,36.9,194,218,Worsened
+Male,80,Osteoarthritis,M19,Lifestyle changes,Obesity,145,108,65,36.4,139,241,Stable
+Male,75,Osteoarthritis,M19,Antidepressants,Obesity,144,73,65,39.2,107,221,Stable
+Female,73,Asthma,I25,Beta-blockers,Obesity,174,69,84,38.9,130,235,Worsened
+Female,48,Ischemic Heart Disease,N18,ACE inhibitors,Sleep Apnea,164,97,73,38.8,142,184,Stable
+Male,24,Chronic Kidney Disease,J45,Inhalers,Anemia,153,102,109,38.3,158,160,Improved
+Female,72,Depression,E11,Beta-blockers,,143,78,87,39.0,161,142,Stable
+Male,70,Osteoarthritis,F32,Lifestyle changes,Anemia,108,105,71,37.6,94,201,Worsened
+Female,55,Hypertension,E11,Physical therapy,Smoking,148,105,117,37.7,128,155,Stable
+Male,44,Chronic Kidney Disease,E11,Insulin,Sleep Apnea,139,66,114,37.2,142,155,Improved
+Female,30,Hypertension,F32,Physical therapy,Sleep Apnea,133,95,63,39.2,182,240,Worsened
+Female,68,Depression,N18,ACE inhibitors,Sleep Apnea,143,77,117,38.9,142,260,Worsened
+Female,79,Chronic Kidney Disease,J45,Inhalers,,161,101,67,38.6,164,215,Worsened
+Female,50,Depression,E11,ACE inhibitors,,144,71,89,36.3,81,244,Stable
+Male,85,Asthma,J45,Dialysis,Hyperlipidemia,180,71,110,39.3,180,228,Worsened
+Female,82,Osteoarthritis,I10,Beta-blockers,,174,67,73,37.1,95,164,Stable
+Female,55,Diabetes Mellitus,E11,Dialysis,Smoking,159,65,117,38.5,80,139,Improved
+Female,56,Depression,E11,Antidepressants,,133,95,98,37.4,109,220,Improved
+Male,40,Depression,E11,Lifestyle changes,Hyperlipidemia,132,103,109,37.2,187,180,Stable
+Female,24,Asthma,J44,Physical therapy,Obesity,104,68,93,36.2,161,258,Stable
+Female,60,Diabetes Mellitus,I10,ACE inhibitors,Sleep Apnea,103,62,101,39.2,152,210,Improved
+Female,80,COPD,N18,Physical therapy,Smoking,172,107,98,36.6,125,279,Stable
+Female,34,Osteoarthritis,I10,ACE inhibitors,Sleep Apnea,150,91,111,38.2,135,155,Stable
+Male,69,Ischemic Heart Disease,J45,ACE inhibitors,Anemia,151,83,107,38.5,98,270,Stable
+Male,55,COPD,M19,Inhalers,Hyperlipidemia,168,94,111,38.4,84,152,Worsened
+Female,41,COPD,I10,Insulin,Anemia,152,88,89,38.5,92,267,Improved
+Male,47,Ischemic Heart Disease,J44,Lifestyle changes,Sleep Apnea,141,64,75,37.3,86,240,Improved
+Male,40,Osteoarthritis,F32,Inhalers,Anemia,155,67,97,38.2,112,154,Worsened
+Female,75,Hypertension,E11,Beta-blockers,Anemia,128,86,104,39.2,121,214,Stable
+Female,67,Osteoarthritis,F32,Antidepressants,Obesity,164,109,99,37.5,139,192,Worsened
+Male,54,Diabetes Mellitus,I10,Dialysis,Obesity,171,93,102,37.6,158,264,Stable
+Female,82,Chronic Kidney Disease,F32,Antidepressants,Sleep Apnea,147,104,71,38.9,148,140,Stable
+Female,63,Hypertension,J45,Physical therapy,Smoking,134,90,73,37.9,180,175,Improved
+Male,79,Hypertension,F32,Beta-blockers,,131,67,59,36.8,98,158,Improved
+Male,28,Asthma,N18,Insulin,Anemia,131,87,81,37.1,184,279,Worsened
+Female,70,Diabetes Mellitus,M19,Lifestyle changes,Anemia,117,80,89,36.5,105,212,Stable
+Male,21,Chronic Kidney Disease,I10,ACE inhibitors,Obesity,110,63,90,37.1,188,203,Worsened
+Male,56,Chronic Kidney Disease,E11,Inhalers,Smoking,167,107,106,38.5,131,246,Worsened
+Female,84,Depression,E11,Beta-blockers,Sleep Apnea,133,96,87,39.4,140,244,Stable
+Female,78,Depression,I25,Antidepressants,Obesity,162,100,117,37.1,193,248,Improved
+Male,63,Asthma,J44,Physical therapy,Anemia,127,80,74,36.8,132,173,Stable
+Male,59,Hypertension,N18,ACE inhibitors,Hyperlipidemia,120,87,119,39.4,118,245,Worsened
+Female,43,Osteoarthritis,F32,Inhalers,Obesity,175,109,100,38.8,110,238,Worsened
+Male,68,Asthma,N18,Beta-blockers,Hyperlipidemia,160,89,56,37.7,101,153,Stable
+Female,59,Osteoarthritis,E11,Insulin,Hyperlipidemia,159,68,99,38.9,160,214,Stable
+Male,25,Chronic Kidney Disease,N18,Lifestyle changes,Smoking,107,63,107,39.4,148,243,Improved
+Female,25,Chronic Kidney Disease,N18,Lifestyle changes,Obesity,133,60,71,36.5,91,142,Stable
+Male,35,Hypertension,J44,Lifestyle changes,Smoking,171,80,84,39.3,175,270,Stable
+Male,24,Hypertension,J45,Antidepressants,Hyperlipidemia,180,62,120,37.6,143,201,Stable
+Female,29,Osteoarthritis,J44,ACE inhibitors,Smoking,100,93,78,37.6,72,182,Worsened
+Female,48,Hypertension,J45,Beta-blockers,Sleep Apnea,175,81,87,38.7,148,274,Worsened
+Male,27,Diabetes Mellitus,M19,Beta-blockers,Smoking,129,69,84,36.2,152,132,Improved
+Male,47,COPD,J44,Beta-blockers,Sleep Apnea,111,74,99,39.1,178,202,Stable
+Male,56,Hypertension,M19,Lifestyle changes,Sleep Apnea,151,105,112,38.1,87,235,Stable
+Female,45,Osteoarthritis,I25,Beta-blockers,Anemia,164,98,55,36.5,198,171,Stable
+Male,42,Asthma,J45,Beta-blockers,Anemia,104,107,117,37.4,110,200,Stable
+Female,81,Diabetes Mellitus,I10,Antidepressants,Hyperlipidemia,114,83,76,36.2,195,150,Improved
+Male,30,Asthma,J45,Inhalers,Anemia,158,104,106,37.4,86,264,Stable
+Male,71,Hypertension,E11,Physical therapy,,162,65,70,38.8,198,145,Worsened
+Female,57,Chronic Kidney Disease,J44,Insulin,Smoking,129,104,114,37.6,200,138,Worsened
+Male,85,Ischemic Heart Disease,J45,Antidepressants,Hyperlipidemia,162,83,92,36.8,119,148,Worsened
+Female,78,Diabetes Mellitus,N18,Physical therapy,Obesity,122,75,61,36.1,91,254,Worsened
+Female,83,Chronic Kidney Disease,E11,Beta-blockers,Obesity,147,97,83,38.3,101,273,Worsened
+Male,19,Hypertension,N18,Dialysis,Obesity,125,60,56,38.5,197,147,Worsened
+Male,74,COPD,M19,Antidepressants,Obesity,130,82,67,37.1,151,146,Worsened
+Female,31,Diabetes Mellitus,I10,Antidepressants,Obesity,142,88,102,36.7,131,196,Stable
+Female,40,Ischemic Heart Disease,J44,Lifestyle changes,,150,67,110,38.5,167,146,Stable
+Female,26,Hypertension,E11,Lifestyle changes,Obesity,103,71,73,36.8,77,201,Stable
+Male,43,Diabetes Mellitus,E11,Beta-blockers,Obesity,176,88,69,38.8,175,243,Stable
+Female,25,Asthma,I25,Inhalers,Hyperlipidemia,134,62,90,38.1,129,269,Worsened
+Male,18,Ischemic Heart Disease,F32,Physical therapy,Obesity,168,97,59,39.0,107,171,Stable
+Female,60,Ischemic Heart Disease,M19,Beta-blockers,Smoking,113,84,96,38.9,88,188,Improved
+Male,75,Asthma,I25,Physical therapy,Hyperlipidemia,120,109,79,36.1,78,146,Stable
+Male,43,Diabetes Mellitus,M19,Insulin,Obesity,102,61,82,36.6,131,154,Worsened
+Female,67,Diabetes Mellitus,M19,Lifestyle changes,Smoking,160,70,113,37.2,87,247,Stable
+Male,32,Hypertension,J45,Insulin,Obesity,114,66,86,39.2,154,265,Improved
+Female,77,Depression,E11,Inhalers,Anemia,107,105,96,38.1,166,182,Worsened
+Female,34,Chronic Kidney Disease,F32,Antidepressants,Obesity,122,60,110,37.5,164,155,Improved
+Male,50,COPD,M19,ACE inhibitors,Anemia,175,104,116,37.8,122,188,Improved
+Female,39,Depression,N18,Inhalers,Obesity,180,107,95,39.2,140,213,Stable
+Female,19,Chronic Kidney Disease,I25,Physical therapy,Anemia,168,61,82,37.4,78,239,Stable
+Female,34,Ischemic Heart Disease,I10,ACE inhibitors,Obesity,170,107,110,36.4,109,148,Stable
+Female,29,Osteoarthritis,J45,Antidepressants,Obesity,145,86,112,37.5,149,139,Stable
+Male,89,Chronic Kidney Disease,M19,Physical therapy,Obesity,152,104,83,38.0,185,212,Worsened
+Female,85,Osteoarthritis,I10,Lifestyle changes,Anemia,122,91,103,38.6,132,182,Stable
+Male,52,Depression,N18,Dialysis,,142,100,69,36.8,176,131,Improved
+Male,46,Osteoarthritis,I25,Antidepressants,Anemia,169,77,105,37.4,112,190,Stable
+Male,63,Depression,J44,Dialysis,Anemia,172,77,85,37.1,103,215,Stable
+Male,58,Hypertension,J45,Lifestyle changes,Hyperlipidemia,136,64,73,39.2,127,214,Stable
+Female,63,Hypertension,I25,Inhalers,Anemia,172,66,56,38.8,122,192,Worsened
+Female,38,Ischemic Heart Disease,E11,Insulin,Sleep Apnea,144,75,83,36.6,103,199,Improved
+Female,50,Ischemic Heart Disease,J45,ACE inhibitors,Hyperlipidemia,150,66,116,36.7,164,207,Improved
+Male,46,Osteoarthritis,J45,Beta-blockers,,141,90,87,37.3,127,135,Stable
+Male,64,COPD,J44,Physical therapy,Sleep Apnea,142,110,81,38.1,95,206,Stable
+Male,63,Hypertension,I25,Physical therapy,Hyperlipidemia,138,63,101,38.8,84,148,Worsened
+Male,36,Depression,N18,Antidepressants,Obesity,158,94,65,38.4,194,154,Worsened
+Female,60,Depression,I25,Antidepressants,,110,65,101,37.4,77,176,Improved
+Male,59,Diabetes Mellitus,M19,Dialysis,Anemia,100,79,63,38.2,100,130,Stable
+Male,89,Osteoarthritis,J45,ACE inhibitors,Anemia,154,103,64,37.2,133,250,Improved
+Female,68,Diabetes Mellitus,J45,Insulin,Smoking,118,95,78,39.2,114,172,Stable
+Female,42,Hypertension,F32,Physical therapy,Hyperlipidemia,118,67,109,36.6,76,141,Improved
+Female,71,Osteoarthritis,N18,Beta-blockers,Smoking,125,68,79,36.9,92,235,Improved
+Male,83,Ischemic Heart Disease,N18,Inhalers,Smoking,153,72,119,36.6,83,233,Worsened
+Male,59,Osteoarthritis,E11,Dialysis,Hyperlipidemia,162,64,120,38.7,175,204,Worsened
+Male,56,Hypertension,E11,Insulin,Obesity,148,71,87,38.5,81,200,Stable
+Female,34,Ischemic Heart Disease,M19,Dialysis,Smoking,140,84,77,38.5,184,152,Worsened
+Female,61,Depression,I10,Antidepressants,Sleep Apnea,125,71,76,38.5,83,256,Stable
+Female,88,Chronic Kidney Disease,J44,Physical therapy,,150,66,73,38.0,148,259,Worsened
+Male,24,Ischemic Heart Disease,M19,Dialysis,Sleep Apnea,157,108,101,37.0,187,232,Stable
+Male,21,Hypertension,J44,Inhalers,Anemia,158,72,110,38.1,85,266,Stable
+Male,75,Asthma,N18,Antidepressants,Sleep Apnea,139,96,100,37.8,177,194,Improved
+Female,61,Hypertension,M19,Inhalers,Smoking,112,79,69,38.1,97,186,Improved
+Female,38,Ischemic Heart Disease,J45,Inhalers,Smoking,106,108,86,38.5,151,219,Worsened
+Female,25,Diabetes Mellitus,J45,Physical therapy,Smoking,128,103,88,36.3,84,271,Worsened
+Female,47,Osteoarthritis,I10,Antidepressants,Anemia,157,62,95,39.3,75,177,Improved
+Male,36,Diabetes Mellitus,I25,Insulin,Smoking,165,98,107,39.4,82,158,Stable
+Male,44,Chronic Kidney Disease,N18,Antidepressants,Smoking,130,77,74,38.1,106,154,Improved
+Female,72,Osteoarthritis,I10,Physical therapy,Hyperlipidemia,116,61,88,39.2,77,219,Improved
+Female,47,COPD,J45,ACE inhibitors,Smoking,121,88,118,36.3,77,267,Worsened
+Male,67,COPD,I10,ACE inhibitors,Hyperlipidemia,159,85,81,37.8,156,270,Stable
+Male,50,Chronic Kidney Disease,I25,Inhalers,,172,99,115,36.9,159,139,Stable
+Male,57,COPD,N18,ACE inhibitors,Sleep Apnea,123,72,88,36.4,173,241,Worsened
+Male,65,Asthma,E11,Insulin,Hyperlipidemia,161,82,73,38.2,149,245,Worsened
+Male,83,Osteoarthritis,I25,Insulin,Hyperlipidemia,130,100,62,36.8,129,198,Worsened
+Female,42,Diabetes Mellitus,I10,Beta-blockers,Obesity,144,88,87,38.5,159,279,Worsened
+Female,24,COPD,I25,Inhalers,Obesity,139,104,96,39.2,76,195,Stable
+Female,34,Hypertension,N18,Antidepressants,Hyperlipidemia,124,84,95,38.0,134,262,Worsened
+Female,63,Diabetes Mellitus,N18,Lifestyle changes,Obesity,179,110,119,38.7,171,171,Improved
+Female,44,Diabetes Mellitus,I10,Lifestyle changes,Anemia,111,75,115,38.1,82,142,Stable
+Female,39,Depression,J44,ACE inhibitors,Smoking,174,93,116,39.0,172,214,Stable
+Male,66,COPD,I25,Antidepressants,Sleep Apnea,118,74,81,37.1,153,271,Improved
+Female,30,COPD,F32,Lifestyle changes,Anemia,153,72,116,37.6,86,189,Worsened
+Female,71,Asthma,M19,Beta-blockers,Sleep Apnea,149,65,92,37.4,175,263,Improved
+Female,84,Ischemic Heart Disease,F32,Inhalers,Sleep Apnea,125,106,79,38.7,183,195,Improved
+Female,87,COPD,J45,Antidepressants,Obesity,112,96,55,36.3,137,209,Improved
+Female,85,Asthma,F32,Antidepressants,Obesity,137,88,74,38.8,121,135,Worsened
+Male,26,Hypertension,M19,Antidepressants,,160,63,116,37.4,128,268,Worsened
+Female,68,Osteoarthritis,F32,Physical therapy,Hyperlipidemia,148,73,74,39.0,92,202,Worsened
+Female,40,Diabetes Mellitus,E11,ACE inhibitors,Smoking,142,73,72,37.1,160,203,Worsened
+Male,22,Osteoarthritis,J45,Lifestyle changes,Sleep Apnea,115,104,106,38.7,132,151,Worsened
+Female,62,Hypertension,J44,Dialysis,,121,96,69,37.8,130,216,Stable
+Male,28,Chronic Kidney Disease,M19,ACE inhibitors,Smoking,141,64,73,37.9,172,265,Improved
+Male,28,Chronic Kidney Disease,F32,Dialysis,Obesity,111,91,59,38.3,143,235,Stable
+Male,85,Diabetes Mellitus,I25,Insulin,Hyperlipidemia,136,88,112,36.6,126,278,Improved
+Female,64,Ischemic Heart Disease,I10,ACE inhibitors,Hyperlipidemia,140,96,65,39.0,95,131,Stable
+Male,61,Diabetes Mellitus,I10,Beta-blockers,Obesity,111,80,84,39.1,112,243,Worsened
+Female,47,Ischemic Heart Disease,I10,Beta-blockers,Sleep Apnea,117,80,69,37.4,104,162,Stable
+Female,82,Ischemic Heart Disease,E11,Dialysis,Smoking,161,77,59,37.0,112,198,Improved
+Male,82,COPD,J45,Insulin,Hyperlipidemia,102,88,64,37.7,70,146,Stable
+Female,55,COPD,J45,Beta-blockers,Obesity,121,69,107,38.2,124,220,Improved
+Female,38,Ischemic Heart Disease,N18,Lifestyle changes,Anemia,117,69,117,37.3,193,179,Stable
+Female,65,Hypertension,I10,Insulin,,131,67,111,38.7,70,249,Stable
+Female,20,Diabetes Mellitus,N18,Insulin,Hyperlipidemia,124,87,119,36.7,171,132,Worsened
+Male,68,Hypertension,M19,Dialysis,Smoking,148,79,100,39.0,163,146,Improved
+Male,30,Osteoarthritis,J44,Inhalers,Hyperlipidemia,106,65,93,36.2,85,210,Worsened
+Male,80,Depression,J45,Insulin,Hyperlipidemia,103,78,115,39.5,180,150,Stable
+Female,43,Asthma,J45,Dialysis,Smoking,116,81,88,36.7,107,196,Worsened
+Female,74,Hypertension,J44,Antidepressants,Hyperlipidemia,117,62,69,37.8,158,197,Stable
+Male,62,Hypertension,E11,Antidepressants,Hyperlipidemia,109,109,94,37.5,189,152,Improved
+Male,20,Chronic Kidney Disease,I10,Antidepressants,Anemia,143,87,114,36.4,82,207,Worsened
+Female,32,Osteoarthritis,I25,Dialysis,Hyperlipidemia,174,88,69,36.9,131,251,Worsened
+Female,86,Diabetes Mellitus,I10,Insulin,Sleep Apnea,141,81,96,37.1,81,169,Worsened
+Male,77,Depression,I25,Beta-blockers,Sleep Apnea,139,89,104,36.2,186,219,Stable
+Female,39,COPD,E11,Beta-blockers,,136,73,103,39.1,192,277,Stable
+Male,65,Depression,F32,ACE inhibitors,Smoking,159,75,65,36.2,140,269,Stable
+Female,30,Diabetes Mellitus,I25,Lifestyle changes,Smoking,171,79,77,37.3,154,191,Improved
+Male,44,Asthma,J44,Physical therapy,Hyperlipidemia,154,68,60,36.3,147,204,Worsened
+Female,73,Hypertension,M19,Dialysis,Obesity,110,82,96,38.0,154,261,Worsened
+Male,59,COPD,F32,Dialysis,Sleep Apnea,131,86,86,36.0,166,150,Worsened
+Female,71,Depression,J44,Lifestyle changes,Anemia,112,64,99,36.5,79,202,Stable
+Female,51,COPD,I25,Physical therapy,Obesity,122,94,90,36.7,92,222,Worsened
+Male,60,Chronic Kidney Disease,I25,Physical therapy,Anemia,132,102,103,37.5,200,198,Worsened
+Male,21,COPD,J45,Antidepressants,Anemia,126,75,95,37.5,103,266,Improved
+Female,80,COPD,I10,Physical therapy,Anemia,160,104,92,38.0,162,228,Improved
+Male,82,Osteoarthritis,J45,Lifestyle changes,Anemia,149,92,95,39.4,109,159,Improved
+Female,30,Chronic Kidney Disease,M19,Insulin,Hyperlipidemia,178,63,81,39.2,177,179,Improved
+Male,63,Diabetes Mellitus,I25,ACE inhibitors,Anemia,115,71,66,36.1,183,266,Stable
+Female,87,COPD,M19,Inhalers,Smoking,134,74,75,39.3,96,237,Stable
+Female,62,Depression,J44,Inhalers,Obesity,156,103,95,36.6,189,215,Stable
+Male,37,Diabetes Mellitus,N18,Physical therapy,Hyperlipidemia,148,101,83,38.9,191,147,Improved
+Female,88,Diabetes Mellitus,I10,Physical therapy,Sleep Apnea,155,68,118,37.7,162,202,Worsened
+Male,48,Hypertension,M19,ACE inhibitors,Anemia,158,81,88,36.6,182,138,Improved
+Male,75,COPD,F32,Lifestyle changes,Anemia,175,71,118,39.2,168,248,Improved
+Male,89,Asthma,J44,Antidepressants,Anemia,106,107,77,37.7,174,216,Improved
+Female,22,COPD,F32,Physical therapy,,117,105,119,37.2,110,223,Stable
+Male,74,Diabetes Mellitus,I10,Lifestyle changes,Smoking,137,79,70,38.2,159,224,Worsened
+Female,53,Ischemic Heart Disease,E11,Lifestyle changes,Anemia,174,98,108,38.9,81,264,Worsened
+Female,55,Chronic Kidney Disease,F32,Insulin,Smoking,129,88,96,36.9,185,193,Stable
+Female,70,Asthma,F32,Inhalers,,148,92,57,38.3,90,190,Stable
+Male,72,Asthma,J45,ACE inhibitors,Obesity,145,106,77,39.2,82,226,Improved
+Female,44,Ischemic Heart Disease,M19,Physical therapy,Hyperlipidemia,179,75,117,38.5,163,258,Worsened
+Female,54,Asthma,J44,Dialysis,,125,61,110,39.0,152,181,Stable
+Male,28,Depression,I10,Inhalers,Obesity,107,98,103,39.2,194,273,Improved
+Female,48,Hypertension,J45,Lifestyle changes,,167,68,66,36.5,171,254,Worsened
+Male,54,Ischemic Heart Disease,M19,ACE inhibitors,Smoking,123,63,115,36.9,100,273,Stable
+Female,32,Chronic Kidney Disease,J44,ACE inhibitors,Sleep Apnea,122,71,83,36.6,148,131,Stable
+Male,80,Ischemic Heart Disease,I10,Lifestyle changes,Hyperlipidemia,158,70,97,38.0,194,135,Stable
+Male,19,Diabetes Mellitus,I25,Inhalers,Anemia,119,73,95,36.4,179,236,Improved
+Male,25,COPD,J45,Dialysis,Hyperlipidemia,136,63,103,39.3,142,161,Stable
+Female,68,Osteoarthritis,E11,Inhalers,Smoking,147,63,95,37.6,184,244,Worsened
+Male,69,Asthma,E11,Beta-blockers,Obesity,117,65,98,39.1,183,218,Stable
+Female,59,COPD,E11,Insulin,Obesity,177,103,105,36.6,125,136,Improved
+Female,81,Chronic Kidney Disease,I10,Dialysis,Hyperlipidemia,107,72,57,38.8,170,210,Worsened
+Male,26,COPD,I25,Beta-blockers,Anemia,155,78,63,38.9,131,154,Stable
+Female,51,Diabetes Mellitus,J45,Physical therapy,Smoking,162,101,88,38.1,132,231,Improved
+Female,81,Depression,N18,Lifestyle changes,Hyperlipidemia,173,98,103,37.3,147,130,Improved
+Female,76,Asthma,I10,Beta-blockers,Sleep Apnea,107,108,79,37.0,88,131,Improved
+Female,63,Chronic Kidney Disease,N18,Lifestyle changes,Sleep Apnea,156,91,103,36.7,106,228,Improved
+Female,32,Osteoarthritis,F32,Beta-blockers,Obesity,102,67,119,37.7,137,209,Improved
+Female,27,Asthma,I10,Dialysis,Anemia,165,104,70,39.0,91,268,Stable
+Female,64,Chronic Kidney Disease,E11,Beta-blockers,Sleep Apnea,144,60,62,37.9,196,259,Improved
+Female,23,Hypertension,E11,Beta-blockers,Anemia,123,64,77,37.8,178,181,Improved
+Female,31,Hypertension,N18,ACE inhibitors,,175,107,72,36.9,138,181,Improved
+Female,82,Depression,I25,Inhalers,Smoking,156,104,67,38.7,99,133,Stable
+Male,63,Osteoarthritis,I10,Dialysis,,138,102,64,38.5,195,138,Improved
+Male,22,Asthma,E11,Dialysis,Anemia,114,68,104,37.5,155,237,Improved
+Male,48,Depression,N18,Lifestyle changes,Obesity,172,79,100,38.5,132,241,Worsened
+Female,88,Asthma,E11,Antidepressants,,151,90,94,36.3,190,168,Worsened
+Female,36,COPD,J45,Dialysis,,166,74,117,39.2,143,130,Improved
+Female,38,Osteoarthritis,J44,Beta-blockers,Smoking,127,101,57,39.2,109,196,Stable
+Male,74,Ischemic Heart Disease,J45,Lifestyle changes,,137,82,78,36.3,127,140,Worsened
+Male,65,Osteoarthritis,J45,Inhalers,Anemia,171,65,58,38.5,92,131,Worsened
+Female,23,Depression,E11,ACE inhibitors,Anemia,110,82,76,37.7,86,155,Worsened
+Female,29,Chronic Kidney Disease,E11,Beta-blockers,Sleep Apnea,153,104,104,39.4,121,168,Worsened
+Female,64,COPD,N18,Antidepressants,Hyperlipidemia,104,108,112,37.4,183,131,Improved
+Female,82,Osteoarthritis,I10,Physical therapy,Obesity,118,105,81,36.6,71,267,Stable
+Female,75,Depression,I10,Lifestyle changes,Obesity,142,71,64,38.4,158,235,Improved
+Female,84,Ischemic Heart Disease,I10,Physical therapy,Sleep Apnea,130,109,107,38.8,106,174,Improved
+Male,90,Chronic Kidney Disease,N18,Insulin,Sleep Apnea,121,67,79,37.0,88,172,Improved
+Male,52,Diabetes Mellitus,E11,Insulin,Sleep Apnea,117,93,102,36.8,195,198,Stable
+Female,43,COPD,F32,Beta-blockers,Anemia,135,94,67,39.0,133,178,Worsened
+Male,36,Osteoarthritis,N18,Dialysis,Sleep Apnea,106,96,98,38.1,181,218,Stable
+Female,27,Osteoarthritis,J45,Beta-blockers,,103,66,89,38.6,122,194,Stable
+Female,68,Ischemic Heart Disease,J44,Lifestyle changes,Smoking,130,64,90,38.8,129,152,Stable
+Male,68,COPD,F32,Dialysis,Smoking,152,62,112,38.5,110,174,Worsened
+Male,35,Depression,J45,Inhalers,Sleep Apnea,156,97,114,38.3,98,208,Stable
+Male,18,Osteoarthritis,M19,Dialysis,Anemia,157,97,79,36.8,104,200,Worsened
+Female,20,Osteoarthritis,M19,Dialysis,Smoking,175,80,95,37.3,199,178,Worsened
+Male,22,Depression,F32,Dialysis,Hyperlipidemia,111,90,76,36.6,153,186,Improved
+Female,68,Depression,J45,Dialysis,Smoking,132,75,112,37.2,150,177,Worsened
+Female,26,Ischemic Heart Disease,F32,Inhalers,Obesity,174,60,116,39.4,156,231,Worsened
+Female,71,Diabetes Mellitus,I25,Dialysis,Anemia,135,66,110,36.1,136,219,Stable
+Male,65,Osteoarthritis,N18,Insulin,,100,81,87,37.0,145,160,Stable
+Male,29,Diabetes Mellitus,J44,Beta-blockers,Sleep Apnea,161,64,71,37.7,131,264,Stable
+Male,69,Ischemic Heart Disease,J45,Inhalers,Sleep Apnea,143,86,68,39.3,80,190,Stable
+Male,66,Ischemic Heart Disease,M19,Insulin,Anemia,148,107,59,37.3,154,231,Improved
+Male,58,Depression,E11,Physical therapy,Anemia,104,107,100,36.5,193,146,Worsened
+Female,25,Depression,E11,Insulin,Anemia,124,80,117,38.8,112,159,Worsened
+Female,62,Osteoarthritis,J44,Beta-blockers,Anemia,108,87,59,39.1,111,265,Worsened
+Female,55,Depression,N18,Insulin,Sleep Apnea,152,104,89,37.2,127,175,Stable
+Female,43,Ischemic Heart Disease,I25,Dialysis,Obesity,126,71,118,38.2,186,188,Improved
+Female,33,Asthma,M19,Beta-blockers,Smoking,110,107,84,37.1,123,166,Stable
+Female,72,Hypertension,N18,Physical therapy,Smoking,180,63,62,37.1,200,224,Worsened
+Male,86,Hypertension,I10,Lifestyle changes,Obesity,148,70,71,37.7,115,192,Improved
+Male,73,Diabetes Mellitus,J44,Dialysis,Hyperlipidemia,168,62,113,38.3,144,185,Stable
+Female,85,Diabetes Mellitus,F32,Insulin,Smoking,109,68,61,38.0,76,192,Improved
+Female,31,COPD,N18,Lifestyle changes,,158,84,118,36.6,174,265,Worsened
+Male,23,Hypertension,F32,ACE inhibitors,Anemia,133,88,101,36.1,82,187,Improved
+Female,19,Depression,I10,Physical therapy,Sleep Apnea,138,61,69,38.2,168,229,Worsened
+Male,20,Asthma,I10,Insulin,Smoking,153,92,61,38.3,198,174,Stable
+Female,33,Depression,J45,Beta-blockers,Obesity,115,68,69,38.2,174,217,Worsened
+Female,57,COPD,I25,Beta-blockers,Obesity,150,106,68,39.3,161,196,Improved
+Female,50,Hypertension,E11,Antidepressants,Hyperlipidemia,110,95,112,39.5,113,142,Stable
+Male,33,Osteoarthritis,E11,Physical therapy,Anemia,179,73,104,37.6,81,224,Improved
+Female,39,Diabetes Mellitus,M19,Inhalers,Anemia,166,108,73,39.5,107,146,Worsened
+Male,79,Asthma,J44,Lifestyle changes,,139,102,72,38.5,75,241,Worsened
+Male,60,Diabetes Mellitus,I25,Insulin,,173,81,75,36.6,176,191,Stable
+Female,48,Hypertension,J44,Beta-blockers,Sleep Apnea,143,102,103,36.3,178,152,Improved
+Male,28,Chronic Kidney Disease,I25,ACE inhibitors,Anemia,113,109,80,38.7,138,130,Stable
+Female,88,Ischemic Heart Disease,J45,Dialysis,Smoking,175,104,60,39.2,156,226,Improved
+Male,60,Osteoarthritis,I25,Insulin,Anemia,173,100,102,37.0,133,172,Improved
+Female,84,Hypertension,I10,Dialysis,Hyperlipidemia,138,97,90,38.9,194,268,Stable
+Female,57,Chronic Kidney Disease,F32,Lifestyle changes,Obesity,159,108,87,36.9,127,213,Worsened
+Female,34,COPD,J44,Dialysis,,164,108,106,36.4,119,228,Worsened
+Female,20,Diabetes Mellitus,N18,Inhalers,Hyperlipidemia,162,84,108,37.4,80,260,Stable
+Male,76,Hypertension,J45,Beta-blockers,Smoking,117,83,94,39.0,112,185,Stable
+Female,45,Ischemic Heart Disease,J44,Insulin,Sleep Apnea,155,81,69,39.0,166,258,Improved
+Male,56,Asthma,I25,Beta-blockers,Anemia,144,101,89,38.2,132,145,Stable
+Female,31,Ischemic Heart Disease,J45,Inhalers,Smoking,101,70,97,38.6,106,130,Improved
+Male,42,COPD,F32,Inhalers,Sleep Apnea,136,71,95,38.8,132,200,Worsened
+Male,80,Depression,M19,Lifestyle changes,Hyperlipidemia,174,67,90,37.9,179,260,Worsened
+Female,66,Chronic Kidney Disease,J44,Physical therapy,,103,103,97,36.7,171,263,Improved
+Male,69,Ischemic Heart Disease,M19,ACE inhibitors,Sleep Apnea,105,98,66,38.0,134,207,Stable
+Female,71,COPD,N18,ACE inhibitors,Smoking,114,64,84,37.8,124,146,Improved
+Female,75,Ischemic Heart Disease,J45,Dialysis,Anemia,120,110,90,38.4,126,228,Improved
+Female,46,COPD,M19,Dialysis,Sleep Apnea,111,94,71,37.1,119,248,Worsened
+Female,41,COPD,E11,Beta-blockers,Hyperlipidemia,164,73,90,39.4,92,161,Improved
+Male,30,Asthma,M19,Inhalers,Sleep Apnea,103,94,118,37.0,87,160,Improved
+Female,90,Osteoarthritis,I25,ACE inhibitors,Hyperlipidemia,156,82,55,37.7,161,159,Improved
+Male,56,Chronic Kidney Disease,E11,Inhalers,Obesity,110,67,75,37.2,115,146,Improved
+Female,41,Hypertension,E11,Lifestyle changes,Hyperlipidemia,114,89,76,36.1,76,137,Improved
+Male,52,Depression,M19,ACE inhibitors,Sleep Apnea,109,110,56,39.3,169,253,Stable
+Female,27,Chronic Kidney Disease,F32,Lifestyle changes,Smoking,137,61,83,38.3,196,146,Stable
+Male,44,Osteoarthritis,J44,Inhalers,Obesity,161,100,98,37.5,105,234,Improved
+Female,31,Depression,J45,Insulin,Smoking,149,106,58,39.2,86,131,Worsened
+Male,67,Hypertension,M19,Antidepressants,Anemia,155,79,95,36.6,113,233,Improved
+Female,72,Hypertension,J44,ACE inhibitors,Sleep Apnea,171,99,111,38.6,81,219,Worsened
+Male,40,Hypertension,M19,Dialysis,,138,73,60,36.3,80,214,Worsened
+Female,38,Asthma,N18,Beta-blockers,,155,96,92,38.1,145,176,Improved
+Male,69,Chronic Kidney Disease,J45,ACE inhibitors,Hyperlipidemia,159,64,108,36.3,149,193,Stable
+Female,62,Hypertension,N18,Insulin,Hyperlipidemia,113,83,111,39.0,132,152,Worsened
+Female,41,Osteoarthritis,J45,Lifestyle changes,Hyperlipidemia,157,70,85,36.6,162,267,Improved
+Female,19,Diabetes Mellitus,E11,Physical therapy,,170,66,107,37.4,142,252,Stable
+Male,86,Asthma,M19,Inhalers,Hyperlipidemia,176,107,113,36.6,106,243,Worsened
+Female,87,Asthma,E11,Antidepressants,,175,60,110,38.9,131,257,Stable
+Female,36,Asthma,E11,ACE inhibitors,Sleep Apnea,180,88,115,36.7,133,149,Worsened
+Female,40,Depression,J45,Insulin,Anemia,174,108,66,36.3,163,138,Improved
+Female,50,Depression,I25,Insulin,,154,100,117,36.5,185,181,Improved
+Male,37,Ischemic Heart Disease,M19,Inhalers,Smoking,159,87,87,37.3,182,154,Stable
+Female,43,Chronic Kidney Disease,F32,Inhalers,Anemia,102,105,111,36.7,119,147,Worsened
+Female,85,Asthma,I25,Inhalers,Sleep Apnea,134,66,60,39.4,97,277,Improved
+Male,31,Ischemic Heart Disease,E11,Physical therapy,Smoking,168,67,68,36.9,115,171,Stable
+Female,74,Asthma,J44,Antidepressants,Smoking,139,70,112,39.1,148,275,Worsened
+Female,47,Hypertension,F32,ACE inhibitors,Obesity,145,108,92,38.9,122,162,Improved
+Male,33,Osteoarthritis,I10,Beta-blockers,Sleep Apnea,157,61,108,37.9,78,144,Stable
+Female,64,Diabetes Mellitus,E11,Antidepressants,Sleep Apnea,168,91,108,37.0,139,230,Worsened
+Female,34,Asthma,F32,ACE inhibitors,Hyperlipidemia,154,107,58,38.3,117,191,Stable
+Female,64,Osteoarthritis,F32,Physical therapy,Obesity,180,94,55,38.1,79,265,Improved
+Female,66,Depression,I25,Physical therapy,Smoking,127,96,98,38.9,111,194,Improved
+Female,44,Hypertension,N18,Lifestyle changes,Anemia,130,85,86,36.7,166,264,Worsened
+Male,25,Depression,J45,Dialysis,Obesity,138,108,96,39.0,161,229,Improved
+Male,81,Hypertension,N18,Beta-blockers,Anemia,177,103,56,38.0,185,215,Worsened
+Male,77,Chronic Kidney Disease,J45,Physical therapy,Smoking,105,62,65,39.5,128,269,Worsened
+Female,31,Diabetes Mellitus,N18,Antidepressants,Hyperlipidemia,123,81,76,37.3,90,147,Improved
+Male,21,COPD,E11,Inhalers,Hyperlipidemia,146,75,62,38.5,150,158,Stable
+Male,21,Ischemic Heart Disease,J44,Physical therapy,Anemia,118,104,104,36.8,195,196,Improved
+Male,73,Depression,F32,Beta-blockers,Obesity,123,60,77,37.5,89,151,Improved
+Female,65,Ischemic Heart Disease,I10,ACE inhibitors,Anemia,158,87,59,36.5,182,195,Stable
+Male,52,Depression,N18,Dialysis,Anemia,151,79,61,36.3,155,256,Improved
+Male,82,COPD,E11,Lifestyle changes,Anemia,111,86,96,36.1,169,280,Worsened
+Male,73,Osteoarthritis,N18,Dialysis,Hyperlipidemia,108,62,94,36.0,142,237,Worsened
+Female,30,Hypertension,I10,Dialysis,Obesity,174,66,70,38.3,142,240,Improved
+Female,36,Depression,I25,Antidepressants,Anemia,132,68,85,39.0,174,280,Worsened
+Male,61,Hypertension,N18,Lifestyle changes,,101,97,79,36.5,100,195,Stable
+Female,83,COPD,F32,Insulin,Smoking,137,87,107,36.4,164,245,Stable
+Male,90,Diabetes Mellitus,J44,Inhalers,Smoking,161,85,98,37.9,195,258,Worsened
+Male,84,Chronic Kidney Disease,J44,Dialysis,,161,100,105,39.2,111,188,Improved
+Female,35,Ischemic Heart Disease,N18,Beta-blockers,Obesity,172,94,68,38.9,112,133,Stable
+Female,26,Diabetes Mellitus,M19,Physical therapy,Hyperlipidemia,167,71,67,39.2,133,261,Improved
+Male,84,Chronic Kidney Disease,J44,ACE inhibitors,Hyperlipidemia,125,90,106,38.0,116,243,Improved
+Male,74,Osteoarthritis,M19,Dialysis,Smoking,105,85,118,36.0,180,172,Stable
+Female,80,Diabetes Mellitus,N18,Insulin,,126,93,95,37.9,92,188,Improved
+Female,68,Chronic Kidney Disease,J45,ACE inhibitors,Smoking,177,95,83,36.3,195,186,Improved
+Female,69,Depression,M19,Lifestyle changes,Sleep Apnea,104,88,66,36.9,92,150,Stable
+Male,24,Ischemic Heart Disease,E11,Antidepressants,,152,76,81,38.9,120,187,Stable
+Male,38,Chronic Kidney Disease,J44,Physical therapy,Smoking,104,68,94,37.4,178,255,Improved
+Female,62,Asthma,N18,Physical therapy,,104,82,68,38.5,192,275,Worsened
+Female,23,COPD,I10,Inhalers,Hyperlipidemia,109,65,119,39.2,191,234,Improved
+Female,61,Diabetes Mellitus,F32,Inhalers,Hyperlipidemia,172,101,87,39.1,163,163,Improved
+Female,88,Chronic Kidney Disease,N18,Beta-blockers,Hyperlipidemia,179,78,68,36.4,126,169,Improved
+Female,74,Ischemic Heart Disease,I10,Beta-blockers,Sleep Apnea,177,69,98,36.8,148,241,Improved
+Male,70,Asthma,J44,Insulin,Hyperlipidemia,167,81,74,37.0,108,240,Worsened
+Male,50,Chronic Kidney Disease,M19,Lifestyle changes,Obesity,160,76,77,37.4,139,234,Worsened
+Female,80,Asthma,F32,Dialysis,,176,80,110,39.5,172,259,Stable
+Male,77,Depression,J45,Dialysis,Obesity,121,98,82,37.9,123,260,Worsened
+Male,39,Osteoarthritis,J44,Physical therapy,Obesity,110,65,67,38.8,120,206,Improved
+Male,76,COPD,N18,Physical therapy,,168,88,118,37.7,145,207,Worsened
+Male,90,Chronic Kidney Disease,J44,Physical therapy,Smoking,117,71,73,36.8,91,174,Stable
+Female,43,Ischemic Heart Disease,F32,Insulin,Smoking,120,70,65,36.7,108,242,Improved
+Male,38,Diabetes Mellitus,N18,Insulin,,136,96,70,37.8,148,194,Stable
+Female,34,Hypertension,I10,Physical therapy,Hyperlipidemia,165,73,105,36.1,132,206,Improved
+Male,88,Asthma,N18,Physical therapy,Smoking,150,94,79,38.7,186,271,Improved
+Male,28,Osteoarthritis,F32,Beta-blockers,Smoking,168,70,78,39.3,130,205,Improved
+Male,83,Chronic Kidney Disease,J44,Insulin,Hyperlipidemia,140,109,76,36.3,187,148,Stable
+Male,62,Depression,N18,Physical therapy,Hyperlipidemia,121,100,69,37.4,169,241,Stable
+Male,29,Diabetes Mellitus,J44,Beta-blockers,Obesity,155,103,99,38.9,185,280,Improved
+Female,22,Osteoarthritis,J44,Physical therapy,Sleep Apnea,158,84,96,36.8,88,188,Worsened
+Male,70,Osteoarthritis,E11,Dialysis,Obesity,173,108,117,36.0,138,165,Worsened
+Female,59,Depression,I25,Beta-blockers,Anemia,134,110,89,36.4,110,271,Improved
+Male,66,Osteoarthritis,J44,Antidepressants,Anemia,137,101,107,39.5,181,183,Improved
+Female,75,Depression,I10,Antidepressants,Smoking,133,101,61,36.7,157,173,Stable
+Female,36,Ischemic Heart Disease,I10,Antidepressants,Sleep Apnea,152,103,90,36.8,71,216,Improved
+Male,38,Ischemic Heart Disease,I10,Physical therapy,Smoking,102,107,59,36.2,183,229,Stable
+Female,88,COPD,E11,Physical therapy,Hyperlipidemia,153,72,78,36.0,83,189,Improved
+Male,77,Ischemic Heart Disease,J45,Inhalers,Hyperlipidemia,106,97,58,36.0,76,213,Stable
+Male,35,Hypertension,I25,Dialysis,Smoking,117,86,99,38.3,129,187,Stable
+Male,90,Chronic Kidney Disease,E11,Physical therapy,Hyperlipidemia,131,88,96,36.5,181,149,Worsened
+Male,25,Depression,N18,Physical therapy,Hyperlipidemia,104,94,120,38.9,185,231,Improved
+Female,29,Chronic Kidney Disease,J45,Beta-blockers,Anemia,159,68,85,37.0,175,170,Improved
+Female,63,Ischemic Heart Disease,J44,Lifestyle changes,Hyperlipidemia,135,62,103,37.3,137,262,Stable
+Male,82,Asthma,J44,Insulin,Anemia,159,84,62,37.1,153,154,Improved
+Male,66,Ischemic Heart Disease,J45,Inhalers,Anemia,147,103,104,38.2,184,244,Improved
+Female,67,Diabetes Mellitus,I10,Lifestyle changes,,100,95,55,39.4,192,245,Worsened
+Female,49,Asthma,I10,Inhalers,Sleep Apnea,145,79,75,39.4,162,158,Stable
+Male,37,COPD,I10,ACE inhibitors,Sleep Apnea,132,65,66,39.0,186,191,Worsened
+Female,70,Depression,M19,Lifestyle changes,Hyperlipidemia,153,94,111,37.0,92,174,Stable
+Male,59,COPD,J45,Inhalers,Anemia,127,100,113,38.0,88,249,Worsened
+Male,84,Chronic Kidney Disease,J44,Physical therapy,Anemia,148,98,93,37.6,128,216,Stable
+Female,78,Ischemic Heart Disease,J45,Inhalers,Anemia,154,101,70,38.7,112,208,Worsened
+Male,28,Depression,M19,Antidepressants,Anemia,177,107,90,37.5,146,250,Improved
+Female,50,Depression,M19,Beta-blockers,Hyperlipidemia,104,82,74,37.5,159,235,Improved
+Female,34,Ischemic Heart Disease,I25,Lifestyle changes,Anemia,125,80,61,38.4,189,148,Worsened
+Female,73,Asthma,I10,Dialysis,Anemia,166,108,96,38.2,100,148,Improved
+Male,63,Diabetes Mellitus,J45,Antidepressants,Smoking,133,105,74,37.3,104,257,Worsened
+Male,29,Chronic Kidney Disease,F32,Antidepressants,Hyperlipidemia,150,61,63,37.3,87,213,Worsened
+Male,81,COPD,J44,Dialysis,,122,110,81,37.3,81,237,Worsened
+Male,18,Depression,N18,Lifestyle changes,Hyperlipidemia,138,104,110,37.8,123,191,Worsened
+Male,66,Diabetes Mellitus,I25,Inhalers,Sleep Apnea,169,107,80,38.7,84,169,Improved
+Female,38,Hypertension,M19,Inhalers,Anemia,123,77,57,36.3,178,173,Improved
+Female,24,Chronic Kidney Disease,I10,Inhalers,Smoking,143,81,97,36.3,199,233,Worsened
+Female,61,Hypertension,J44,Beta-blockers,,147,101,113,36.4,82,173,Improved
+Male,33,Diabetes Mellitus,N18,Inhalers,Smoking,152,62,58,36.8,126,183,Improved
+Male,28,Chronic Kidney Disease,F32,Physical therapy,Sleep Apnea,130,75,96,38.8,157,253,Stable
+Male,45,Chronic Kidney Disease,I25,Antidepressants,,158,88,61,38.1,153,269,Improved
+Female,50,Asthma,M19,Lifestyle changes,Anemia,125,105,71,39.0,169,223,Stable
+Female,55,Osteoarthritis,M19,Physical therapy,Sleep Apnea,161,109,94,36.5,193,254,Improved
+Female,59,Diabetes Mellitus,J45,Insulin,Anemia,134,76,101,38.5,153,266,Worsened
+Male,69,Asthma,J45,Lifestyle changes,Sleep Apnea,174,110,74,38.6,80,243,Stable
+Female,23,Hypertension,I25,Beta-blockers,Smoking,113,63,85,38.2,191,212,Stable
+Female,23,COPD,I25,Physical therapy,Obesity,133,95,107,36.5,103,189,Improved
+Female,87,Asthma,J45,Antidepressants,Smoking,178,64,83,37.4,142,137,Improved
+Female,73,COPD,M19,Physical therapy,Anemia,120,92,119,36.7,131,226,Improved
+Female,68,Hypertension,F32,ACE inhibitors,Obesity,153,97,71,37.9,88,264,Worsened
+Female,21,Osteoarthritis,J44,Beta-blockers,Smoking,123,69,84,38.6,118,165,Stable
+Female,56,Depression,E11,Beta-blockers,,115,77,79,38.9,136,276,Worsened
+Male,23,COPD,M19,Beta-blockers,Hyperlipidemia,116,82,55,36.5,143,163,Worsened
+Male,48,COPD,I25,ACE inhibitors,Hyperlipidemia,135,61,112,36.9,98,227,Stable
+Female,19,Diabetes Mellitus,F32,Antidepressants,Smoking,125,103,65,38.2,181,211,Worsened
+Female,42,Diabetes Mellitus,I25,ACE inhibitors,Obesity,151,70,106,36.8,200,213,Worsened
+Female,22,Asthma,N18,Beta-blockers,Sleep Apnea,175,72,120,38.0,198,134,Improved
+Male,77,Osteoarthritis,F32,Lifestyle changes,Obesity,171,69,99,38.6,84,160,Stable
+Female,33,Diabetes Mellitus,E11,Antidepressants,,102,102,85,38.0,124,140,Worsened
+Male,26,Osteoarthritis,J45,Beta-blockers,Hyperlipidemia,101,70,106,39.2,81,272,Improved
+Male,50,Diabetes Mellitus,J45,Dialysis,,173,97,70,37.5,125,209,Stable
+Female,43,Osteoarthritis,I25,Lifestyle changes,,119,98,83,37.2,175,254,Stable
+Female,50,Osteoarthritis,F32,Physical therapy,Smoking,144,86,97,36.4,168,206,Stable
+Male,84,Ischemic Heart Disease,J44,Insulin,Anemia,154,97,57,37.5,109,151,Stable
+Female,54,Asthma,J45,Inhalers,Sleep Apnea,116,64,60,38.2,146,274,Stable
+Female,89,Ischemic Heart Disease,M19,ACE inhibitors,Smoking,151,70,94,36.1,85,168,Stable
+Female,58,Ischemic Heart Disease,I10,Dialysis,,146,91,112,37.1,156,250,Improved
+Female,27,Ischemic Heart Disease,I25,ACE inhibitors,Anemia,136,74,75,39.1,191,264,Stable
+Female,48,Diabetes Mellitus,I25,Insulin,Hyperlipidemia,180,105,108,39.4,173,250,Stable
+Female,53,Ischemic Heart Disease,J45,Insulin,,176,62,102,38.3,116,208,Worsened
+Female,84,Diabetes Mellitus,N18,Physical therapy,Smoking,144,99,58,38.8,103,234,Worsened
+Male,45,Ischemic Heart Disease,J45,Antidepressants,Hyperlipidemia,123,77,89,38.1,192,155,Worsened
+Male,23,Depression,J44,Lifestyle changes,Anemia,159,89,115,38.2,92,193,Worsened
+Female,78,Hypertension,J45,Inhalers,Anemia,137,102,86,38.6,117,250,Stable
+Female,57,COPD,J45,Inhalers,Hyperlipidemia,142,69,105,39.3,164,182,Improved
+Female,65,Diabetes Mellitus,N18,Physical therapy,Smoking,108,91,97,37.3,170,211,Improved
+Male,43,Asthma,J44,Insulin,Anemia,119,71,82,37.0,186,135,Worsened
+Male,72,Osteoarthritis,N18,Antidepressants,Smoking,164,87,56,37.3,158,179,Improved
+Female,79,Osteoarthritis,N18,Dialysis,Smoking,142,94,96,38.0,181,169,Improved
+Male,84,Ischemic Heart Disease,I10,Dialysis,Sleep Apnea,155,110,85,37.2,126,175,Worsened
+Female,45,Depression,N18,Dialysis,,100,94,117,37.5,194,239,Stable
+Male,26,Chronic Kidney Disease,M19,Lifestyle changes,Obesity,134,75,66,38.2,114,243,Stable
+Female,56,Chronic Kidney Disease,I25,Lifestyle changes,Obesity,153,71,68,37.1,151,216,Improved
+Male,79,Osteoarthritis,I25,Physical therapy,Sleep Apnea,142,96,62,38.1,196,154,Worsened
+Male,23,Depression,J45,Inhalers,Smoking,130,79,61,37.9,135,137,Worsened
+Male,57,Asthma,J45,Insulin,Hyperlipidemia,153,96,78,36.6,120,174,Stable
+Male,79,Diabetes Mellitus,M19,Antidepressants,Sleep Apnea,116,80,111,37.9,194,182,Stable
+Female,36,Chronic Kidney Disease,I10,Beta-blockers,Smoking,144,82,55,36.3,71,180,Stable
+Male,71,Diabetes Mellitus,E11,Inhalers,Hyperlipidemia,154,68,104,37.7,143,186,Stable
+Male,79,Ischemic Heart Disease,J45,Insulin,,176,103,79,37.0,182,138,Worsened
+Female,52,Asthma,I10,Antidepressants,Hyperlipidemia,174,102,70,38.8,148,270,Stable
+Female,36,Hypertension,I10,Insulin,,165,74,84,36.7,125,202,Worsened
+Female,56,Chronic Kidney Disease,J44,Beta-blockers,,138,110,71,38.2,95,259,Stable
+Male,56,Ischemic Heart Disease,F32,Inhalers,Anemia,147,73,120,37.3,172,249,Stable
+Female,78,Asthma,N18,ACE inhibitors,,106,64,59,38.2,74,258,Improved
+Male,20,Chronic Kidney Disease,E11,Insulin,Hyperlipidemia,172,110,107,37.4,182,213,Stable
+Male,80,Osteoarthritis,J45,Antidepressants,Hyperlipidemia,139,100,106,37.7,140,154,Stable
+Male,53,COPD,F32,Insulin,Obesity,100,101,68,36.4,89,201,Worsened
+Male,85,Chronic Kidney Disease,J45,ACE inhibitors,Sleep Apnea,117,95,119,39.2,147,210,Worsened
+Female,46,Hypertension,E11,Antidepressants,Obesity,103,104,100,36.5,83,204,Worsened
+Male,58,Ischemic Heart Disease,E11,Dialysis,Sleep Apnea,164,74,83,37.8,133,266,Stable
+Female,33,Asthma,J44,Insulin,Obesity,161,107,78,37.4,170,274,Worsened
+Female,86,Ischemic Heart Disease,M19,Physical therapy,Smoking,139,62,93,38.1,102,147,Worsened
+Female,81,COPD,I10,Lifestyle changes,Sleep Apnea,127,66,75,36.7,70,225,Improved
+Male,89,Osteoarthritis,M19,Beta-blockers,Hyperlipidemia,166,94,81,39.4,155,233,Stable
+Female,49,Hypertension,I25,Beta-blockers,Anemia,166,61,92,37.1,104,146,Improved
+Male,87,Ischemic Heart Disease,N18,Antidepressants,Smoking,106,81,90,38.4,193,198,Stable
+Male,75,Diabetes Mellitus,I10,Lifestyle changes,Obesity,144,100,68,37.3,143,163,Stable
+Male,25,Diabetes Mellitus,J45,Insulin,Anemia,162,70,69,36.5,99,265,Worsened
+Female,89,Hypertension,M19,ACE inhibitors,Smoking,159,61,81,39.1,99,227,Worsened
+Male,51,COPD,F32,Insulin,Anemia,171,102,84,39.1,175,278,Stable
+Female,54,Hypertension,I10,ACE inhibitors,Sleep Apnea,149,89,109,37.1,135,272,Improved
+Female,62,Chronic Kidney Disease,J45,Dialysis,Hyperlipidemia,161,67,73,38.9,113,179,Improved
+Female,39,Ischemic Heart Disease,E11,Insulin,Anemia,170,98,114,38.4,133,264,Stable
+Male,38,Chronic Kidney Disease,F32,Lifestyle changes,Obesity,136,77,61,38.4,180,156,Stable
+Male,78,Hypertension,E11,Dialysis,Hyperlipidemia,116,101,111,37.3,125,275,Improved
+Female,71,COPD,N18,Antidepressants,Obesity,150,100,115,38.2,107,277,Improved
+Female,57,Ischemic Heart Disease,J45,Physical therapy,Sleep Apnea,145,104,108,39.2,127,143,Worsened
+Female,35,Diabetes Mellitus,J45,Lifestyle changes,Hyperlipidemia,176,92,65,37.2,136,216,Stable
+Male,56,Asthma,J45,Inhalers,Obesity,126,70,56,36.2,125,198,Stable
+Male,86,COPD,E11,Physical therapy,,144,98,98,38.4,179,256,Stable
+Male,61,Ischemic Heart Disease,F32,Antidepressants,Anemia,159,70,110,37.0,187,149,Improved
+Male,57,Depression,J44,Insulin,,111,76,115,38.8,109,143,Worsened
+Female,68,Asthma,M19,Dialysis,,102,80,70,39.0,137,163,Worsened
+Female,27,Hypertension,J45,Insulin,,132,73,119,37.8,191,197,Stable
+Male,60,Depression,F32,Beta-blockers,Hyperlipidemia,154,73,119,39.0,159,188,Worsened
+Female,90,COPD,J45,ACE inhibitors,Hyperlipidemia,161,74,90,38.0,126,233,Stable
+Female,69,Ischemic Heart Disease,E11,Physical therapy,Obesity,180,62,104,37.7,176,146,Improved
+Male,39,Chronic Kidney Disease,N18,Inhalers,,130,97,102,36.5,196,266,Improved
+Female,58,COPD,F32,Insulin,Obesity,146,67,81,37.2,148,209,Stable
+Male,66,Chronic Kidney Disease,E11,Dialysis,Obesity,164,66,91,36.5,189,159,Stable
+Female,53,Chronic Kidney Disease,I10,Inhalers,Obesity,173,69,115,37.3,127,187,Worsened
+Male,28,Diabetes Mellitus,M19,Physical therapy,,145,106,64,38.2,104,244,Stable
+Female,73,Depression,M19,Physical therapy,Smoking,175,102,91,38.2,197,162,Stable
+Male,48,Depression,E11,ACE inhibitors,Anemia,146,102,70,39.2,111,181,Improved
+Female,34,Osteoarthritis,J44,Insulin,Sleep Apnea,121,68,87,38.3,84,139,Worsened
+Male,70,Osteoarthritis,E11,Antidepressants,Sleep Apnea,156,72,58,37.8,187,263,Stable
+Male,45,Ischemic Heart Disease,M19,Inhalers,Obesity,164,67,88,36.7,159,211,Worsened
+Female,84,Chronic Kidney Disease,J45,Dialysis,Obesity,147,71,67,36.7,180,195,Improved
+Male,34,COPD,I25,Antidepressants,Obesity,179,82,114,38.9,163,214,Worsened
+Male,31,Hypertension,N18,Antidepressants,Anemia,126,77,108,38.8,198,131,Stable
+Male,64,COPD,J45,Insulin,Smoking,118,94,82,38.1,195,195,Improved
+Female,22,Osteoarthritis,F32,Insulin,,137,92,57,38.2,191,133,Worsened
+Female,40,Depression,E11,Beta-blockers,Hyperlipidemia,141,72,97,38.1,87,142,Improved
+Female,74,Chronic Kidney Disease,J45,Insulin,Anemia,124,102,68,38.4,118,143,Stable
+Female,55,Diabetes Mellitus,J44,ACE inhibitors,Sleep Apnea,114,102,59,37.9,115,221,Stable
+Female,59,Asthma,E11,Lifestyle changes,,150,98,120,39.4,122,232,Worsened
+Male,22,Hypertension,I10,Dialysis,Anemia,157,65,70,36.6,120,137,Worsened
+Female,69,Depression,I10,Lifestyle changes,Smoking,173,108,109,39.4,119,240,Worsened
+Female,54,Ischemic Heart Disease,F32,Dialysis,Anemia,131,93,64,36.5,132,272,Stable
+Female,82,Chronic Kidney Disease,I10,Physical therapy,Hyperlipidemia,152,62,110,37.6,157,167,Improved
+Female,54,Ischemic Heart Disease,N18,Insulin,Sleep Apnea,104,66,59,37.3,164,215,Worsened
+Female,32,COPD,I10,Lifestyle changes,Hyperlipidemia,178,96,70,37.6,128,167,Stable
+Female,82,Depression,J44,Inhalers,Sleep Apnea,158,70,115,38.2,110,219,Stable
+Male,50,Asthma,E11,Dialysis,Hyperlipidemia,141,105,82,37.6,93,200,Worsened
+Female,54,Osteoarthritis,M19,Antidepressants,Anemia,106,105,81,36.0,103,217,Stable
+Male,63,Asthma,I25,Antidepressants,Smoking,116,60,66,38.8,101,226,Improved
+Male,61,Ischemic Heart Disease,J44,Lifestyle changes,Hyperlipidemia,108,97,91,38.1,113,222,Worsened
+Male,53,Ischemic Heart Disease,F32,Beta-blockers,,116,67,58,36.5,144,173,Stable
+Male,70,Ischemic Heart Disease,J44,Lifestyle changes,Anemia,113,73,55,37.0,171,160,Worsened
+Female,88,COPD,F32,Physical therapy,Anemia,164,68,116,37.3,185,184,Worsened
+Male,52,Chronic Kidney Disease,E11,ACE inhibitors,Smoking,101,87,55,38.3,79,184,Improved
+Male,86,Hypertension,N18,Lifestyle changes,Obesity,162,62,64,39.5,194,198,Stable
+Female,25,Hypertension,E11,Insulin,Hyperlipidemia,128,90,56,38.1,102,209,Stable
+Female,33,COPD,I25,ACE inhibitors,Hyperlipidemia,177,74,81,36.3,182,249,Improved
+Female,68,Asthma,E11,Inhalers,Anemia,159,75,101,36.5,195,139,Worsened
+Female,48,COPD,M19,Antidepressants,Obesity,173,74,111,38.2,96,241,Stable
+Female,55,Asthma,N18,Insulin,Sleep Apnea,158,60,58,36.2,155,236,Improved
+Male,47,Asthma,E11,ACE inhibitors,Smoking,118,69,90,37.8,135,218,Stable
+Male,72,Diabetes Mellitus,M19,Beta-blockers,Smoking,102,98,79,37.9,120,188,Improved
+Male,75,Depression,E11,Dialysis,Sleep Apnea,143,103,68,39.4,171,245,Worsened
+Female,85,Asthma,I25,Antidepressants,Sleep Apnea,119,77,97,38.7,142,265,Improved
+Male,38,Hypertension,J44,Dialysis,Anemia,163,94,81,38.0,96,190,Stable
+Female,37,Diabetes Mellitus,J45,Lifestyle changes,Sleep Apnea,133,106,66,38.4,79,260,Stable
+Male,32,Chronic Kidney Disease,I25,Inhalers,Smoking,132,66,104,37.1,107,221,Improved
+Male,19,Hypertension,E11,Dialysis,,116,86,75,36.8,149,177,Worsened
+Male,72,Depression,N18,Antidepressants,Sleep Apnea,165,107,93,37.7,157,257,Stable
+Male,77,Chronic Kidney Disease,N18,Physical therapy,Smoking,165,65,107,37.3,137,150,Improved
+Male,22,COPD,I10,ACE inhibitors,Smoking,111,107,97,38.6,118,250,Improved
+Male,58,Depression,J44,Dialysis,,169,105,87,36.4,180,221,Improved
+Female,46,Osteoarthritis,I10,Lifestyle changes,Hyperlipidemia,164,80,113,39.1,99,187,Worsened
+Male,39,Ischemic Heart Disease,M19,Lifestyle changes,Hyperlipidemia,162,100,72,37.0,77,147,Stable
+Female,18,Osteoarthritis,M19,Beta-blockers,Hyperlipidemia,114,72,100,39.1,131,130,Stable
+Female,85,Ischemic Heart Disease,E11,Insulin,,107,84,59,36.2,149,164,Stable
+Male,84,Diabetes Mellitus,N18,Insulin,Sleep Apnea,175,80,102,36.9,100,271,Improved
+Male,45,Chronic Kidney Disease,J44,Beta-blockers,Hyperlipidemia,157,110,105,37.3,164,172,Worsened
+Male,90,Hypertension,M19,Beta-blockers,,100,103,99,37.3,198,232,Stable
+Female,54,Hypertension,M19,Beta-blockers,,102,63,120,39.4,113,267,Stable
+Female,38,Chronic Kidney Disease,F32,Lifestyle changes,Smoking,162,107,87,36.7,129,205,Worsened
+Male,23,Asthma,E11,Lifestyle changes,Sleep Apnea,102,81,119,36.4,73,243,Improved
+Male,88,Depression,E11,Physical therapy,Smoking,136,93,90,37.2,138,250,Improved
+Female,66,Depression,J45,Dialysis,Anemia,122,100,112,36.2,71,178,Improved
+Female,63,Depression,I10,Inhalers,Obesity,127,107,64,37.4,182,223,Improved
+Male,57,Diabetes Mellitus,I10,Dialysis,Sleep Apnea,179,93,100,39.1,122,149,Worsened
+Male,31,Osteoarthritis,F32,Dialysis,Smoking,167,61,64,38.1,83,266,Stable
+Male,63,Hypertension,J45,Inhalers,,159,103,91,36.0,74,215,Stable
+Female,69,Chronic Kidney Disease,J44,Antidepressants,Sleep Apnea,103,65,58,39.0,96,143,Stable
+Male,60,COPD,J44,Physical therapy,Smoking,107,73,56,39.1,78,168,Stable
+Male,54,Asthma,I10,Insulin,Sleep Apnea,102,67,87,36.7,198,269,Worsened
+Male,40,Diabetes Mellitus,I25,Beta-blockers,Obesity,170,83,112,37.6,86,208,Improved
+Female,74,Asthma,M19,Lifestyle changes,Hyperlipidemia,148,98,73,37.0,178,174,Worsened
+Male,65,Diabetes Mellitus,E11,Inhalers,Smoking,165,98,59,39.2,109,198,Improved
+Male,88,Diabetes Mellitus,J44,Lifestyle changes,,153,110,98,38.1,76,205,Worsened
+Female,18,Osteoarthritis,N18,Inhalers,Hyperlipidemia,157,105,93,36.6,182,251,Worsened
+Female,83,Hypertension,J44,Lifestyle changes,Smoking,141,106,58,37.6,150,178,Improved
+Male,43,Ischemic Heart Disease,J45,Insulin,Obesity,171,107,66,36.7,123,266,Worsened
+Male,89,Diabetes Mellitus,J44,Antidepressants,Hyperlipidemia,121,76,89,36.3,174,161,Worsened
+Male,20,Depression,I25,Beta-blockers,Sleep Apnea,174,95,80,38.2,90,264,Worsened
+Male,58,Ischemic Heart Disease,F32,Physical therapy,,145,77,107,39.0,107,264,Improved
+Female,34,Chronic Kidney Disease,N18,Antidepressants,,156,75,57,38.9,73,159,Worsened
+Female,85,Hypertension,J45,Lifestyle changes,Hyperlipidemia,168,91,101,37.4,196,144,Stable
+Female,33,Asthma,M19,Inhalers,Anemia,142,109,62,37.1,141,207,Worsened
+Female,24,COPD,J44,Dialysis,Smoking,152,68,60,37.5,82,223,Worsened
+Male,62,Ischemic Heart Disease,E11,Dialysis,Sleep Apnea,134,78,114,36.9,109,234,Worsened
+Male,41,Ischemic Heart Disease,J44,Lifestyle changes,Obesity,103,71,101,37.0,153,246,Stable
+Male,67,Asthma,E11,Dialysis,Smoking,114,75,94,37.6,155,202,Improved
+Male,72,Diabetes Mellitus,N18,Physical therapy,Smoking,114,76,102,36.9,96,130,Stable
+Female,57,Diabetes Mellitus,J45,Beta-blockers,Smoking,123,110,78,36.2,148,270,Improved
+Female,54,Ischemic Heart Disease,I25,Lifestyle changes,Hyperlipidemia,128,79,85,37.0,155,227,Improved
+Female,88,Asthma,I10,Beta-blockers,Anemia,103,64,56,37.4,82,239,Worsened
+Female,26,Hypertension,I25,Beta-blockers,Anemia,102,73,75,36.6,125,233,Improved
+Female,82,COPD,I10,Physical therapy,Sleep Apnea,165,90,94,36.5,183,168,Stable
+Male,61,Asthma,M19,ACE inhibitors,,166,68,111,36.6,172,180,Improved
+Male,33,Ischemic Heart Disease,I25,Insulin,Hyperlipidemia,139,77,93,36.5,136,249,Improved
+Female,35,Depression,N18,Lifestyle changes,Sleep Apnea,114,75,87,36.1,84,210,Improved
+Female,36,Hypertension,N18,Lifestyle changes,Hyperlipidemia,111,73,106,37.7,185,259,Stable
+Female,65,Depression,I10,Antidepressants,,156,108,67,37.3,185,238,Improved
+Male,31,Osteoarthritis,M19,Lifestyle changes,Hyperlipidemia,170,77,76,36.9,79,148,Stable
+Male,25,COPD,I25,Lifestyle changes,Smoking,126,106,105,36.8,109,158,Improved
+Female,28,Asthma,I10,Antidepressants,Anemia,178,68,101,38.9,167,228,Improved
+Female,82,Osteoarthritis,J45,Antidepressants,Smoking,109,79,111,38.8,108,159,Worsened
+Female,56,Chronic Kidney Disease,J44,Antidepressants,Obesity,105,83,111,39.2,152,257,Stable
+Male,78,COPD,M19,Physical therapy,Obesity,171,102,86,38.6,148,132,Worsened
+Female,72,Asthma,F32,Lifestyle changes,Obesity,140,77,115,39.0,70,148,Improved
+Male,86,Diabetes Mellitus,F32,Lifestyle changes,,151,77,102,37.1,149,196,Worsened
+Male,51,Osteoarthritis,F32,Lifestyle changes,Hyperlipidemia,112,66,55,38.5,115,198,Stable
+Female,54,Osteoarthritis,E11,Insulin,Hyperlipidemia,150,84,106,39.5,123,137,Improved
+Male,62,Depression,I25,Antidepressants,Sleep Apnea,150,70,71,38.2,175,152,Stable
+Female,57,Osteoarthritis,I10,Antidepressants,Smoking,161,72,55,38.5,174,152,Worsened
+Female,19,Asthma,E11,Physical therapy,,114,94,108,37.5,103,250,Improved
+Male,50,Chronic Kidney Disease,I10,Lifestyle changes,Sleep Apnea,123,107,94,36.8,129,216,Stable
+Male,48,Depression,I25,Insulin,Smoking,168,60,102,36.9,89,151,Stable
+Female,54,Hypertension,F32,Insulin,Smoking,142,101,110,39.2,165,238,Improved
+Female,38,Diabetes Mellitus,F32,Insulin,Anemia,145,70,72,38.9,191,188,Worsened
+Male,50,COPD,J45,Insulin,Obesity,170,99,70,36.4,190,267,Stable
+Male,41,Depression,F32,Dialysis,Obesity,167,82,110,39.2,186,214,Improved
+Female,52,COPD,E11,Insulin,Sleep Apnea,154,67,71,38.1,154,155,Improved
+Male,38,Ischemic Heart Disease,J44,Inhalers,Hyperlipidemia,141,96,68,39.5,164,219,Worsened
